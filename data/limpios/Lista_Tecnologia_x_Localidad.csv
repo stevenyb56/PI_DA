@@ -1,0 +1,2256 @@
+Provincia,Partido,Localidad,ADSL,Cablemódem,Dial Up,Fibra Óptica,4G,3G,Telefonía Fija,Wireless,Satelital
+Buenos Aires,9 de Julio,Alfredo Demarchi (est. Facundo Quiroga),1,0,0,0,1,1,1,0,0
+Buenos Aires,9 de Julio,Carlos María Naón,0,0,0,0,1,1,1,0,0
+Buenos Aires,9 de Julio,Dudignac,0,0,1,0,1,1,1,1,0
+Buenos Aires,9 de Julio,La Aurora (est. La Niña),0,0,0,0,1,0,0,0,0
+Buenos Aires,9 de Julio,Manuel B. Gonnet (est. French),1,0,0,1,1,1,1,0,0
+Buenos Aires,9 de Julio,Marcelino Ugarte (est. Dennehy),0,0,0,0,1,0,1,0,0
+Buenos Aires,9 de Julio,Morea,0,0,0,0,0,0,1,1,0
+Buenos Aires,9 de Julio,Norumbega,0,0,0,0,0,0,1,0,0
+Buenos Aires,9 de Julio,Patricios,1,0,0,0,0,1,1,1,0
+Buenos Aires,9 de Julio,Villa General Fournier (est. 9 de Julio Sud),0,0,0,1,1,1,1,1,0
+Buenos Aires,Adolfo Alsina,Carhué,1,0,1,1,1,1,1,1,0
+Buenos Aires,Adolfo Alsina,Colonia San Miguel Arcángel,0,0,0,1,1,0,1,0,0
+Buenos Aires,Adolfo Alsina,Espartillar,0,0,0,0,1,0,0,0,0
+Buenos Aires,Azul,Ariel,0,0,0,0,1,0,0,0,0
+Buenos Aires,Azul,Azul,1,1,1,1,1,1,1,1,1
+Buenos Aires,Azul,Cacharí,0,0,1,0,1,1,1,1,0
+Buenos Aires,Azul,Chillar,0,0,0,0,1,1,1,1,1
+Buenos Aires,Bahía Blanca,Bahía Blanca,1,1,1,1,1,1,1,1,1
+Buenos Aires,Bahía Blanca,Cabildo,0,1,1,1,1,1,1,1,0
+Buenos Aires,Bahía Blanca,General Daniel Cerri (est. General Cerri),1,1,1,1,1,1,1,1,0
+Buenos Aires,Bahía Blanca,Grunbein,0,0,0,0,1,1,0,0,0
+Buenos Aires,Bahía Blanca,Ingeniero White,0,0,0,1,1,1,0,0,1
+Buenos Aires,General Pueyrredón,Chapadmalal,1,0,0,1,1,1,1,1,1
+Buenos Aires,General Pueyrredón,El Marquesado,0,0,0,0,0,0,1,1,0
+Buenos Aires,General Pueyrredón,Estacion Camet,0,0,0,0,1,1,0,0,0
+Buenos Aires,General Pueyrredón,Estación Chapadmalal,1,0,0,1,1,1,0,1,0
+Buenos Aires,General Pueyrredón,Mar del Plata,1,1,1,1,1,1,1,1,1
+Buenos Aires,General Pueyrredón,Punta Mogotes,0,0,0,0,1,1,0,0,0
+Buenos Aires,General Pueyrredón,Sierra de Los Padres,1,0,0,1,1,1,1,1,0
+Buenos Aires,General Rodríguez,Barrio Ruta 24 Kilómetro 10,0,0,0,1,1,1,0,0,0
+Buenos Aires,General Rodríguez,Country Club Bosque Real - Barrio Morabo,0,0,0,0,1,1,0,0,0
+Buenos Aires,Pellegrini,Pellegrini,1,1,1,0,1,1,1,1,1
+Buenos Aires,Pergamino,Acevedo,1,1,0,0,1,1,1,1,0
+Buenos Aires,Pergamino,Fontezuela,1,0,0,1,0,0,1,1,0
+Buenos Aires,Pergamino,Guerrico,0,1,0,0,1,1,0,1,1
+Buenos Aires,Pergamino,Juan A. de La Peña,0,0,0,0,0,0,0,1,0
+Buenos Aires,Pergamino,Juan Anchorena (est. Urquiza),1,0,0,1,1,1,1,1,0
+Buenos Aires,Pergamino,La Violeta,1,0,0,0,1,1,1,0,0
+Buenos Aires,Pergamino,Manuel Ocampo,0,0,0,1,1,1,1,1,0
+Buenos Aires,Pergamino,Mariano Benítez,0,0,0,0,0,0,1,0,0
+Buenos Aires,Pergamino,Mariano H. Alfonzo (est. San Patricio),0,0,0,0,1,1,0,0,1
+Buenos Aires,Pergamino,Pergamino,1,1,1,1,1,1,1,1,1
+Buenos Aires,Pergamino,Pinzón,0,0,0,0,0,0,0,1,0
+CABA,Comuna 12,Villa Pueyrredon,1,1,1,1,1,1,1,1,1
+Córdoba,San Javier,Villa de Las Rosas,0,0,0,0,1,1,0,1,0
+Córdoba,San Javier,Villa Dolores,1,1,0,1,1,1,1,1,0
+Córdoba,San Javier,Villa La Viña,0,0,0,0,0,0,0,1,0
+Córdoba,San Justo,Alicia,0,1,0,1,1,1,1,0,1
+Córdoba,San Justo,Altos de Chipión,0,0,0,1,1,1,1,0,1
+Córdoba,San Justo,Arroyito,1,1,0,1,1,1,1,1,1
+Córdoba,San Justo,Balnearia,0,0,0,0,1,1,1,0,0
+Córdoba,San Justo,Brinkmann,1,0,0,1,1,1,1,0,0
+Córdoba,San Justo,Colonia Anita,0,0,0,0,0,0,0,1,0
+Córdoba,San Justo,Colonia Las Pichanas,0,0,0,0,0,0,0,1,0
+Entre Ríos,Uruguay,Caseros,1,0,0,1,1,1,1,1,0
+Entre Ríos,Uruguay,Colonia Elía,0,0,0,1,1,0,1,1,0
+Entre Ríos,Uruguay,Concepción del Uruguay,1,1,1,1,1,1,1,1,0
+Entre Ríos,Uruguay,Estancia San Pedro,0,0,0,0,0,0,0,1,0
+Entre Ríos,Uruguay,Herrera,1,0,0,0,1,0,1,1,0
+Entre Ríos,Uruguay,Las Moscas,0,0,0,1,1,0,1,1,0
+Entre Ríos,Uruguay,Líbaros,0,0,0,0,0,0,1,1,0
+Entre Ríos,Uruguay,Pronunciamiento,0,0,0,0,1,1,1,1,0
+Entre Ríos,Uruguay,Rocamora,0,0,0,0,0,0,1,1,0
+Entre Ríos,Uruguay,Santa Anita,0,0,0,1,1,0,1,1,0
+Entre Ríos,Uruguay,Villa Mantero,1,0,0,1,1,1,1,1,1
+Entre Ríos,Uruguay,Villa San Justo,0,0,0,1,1,1,1,1,0
+Entre Ríos,Uruguay,Villa San Marcial (est. Gobernador Urquiza),0,0,0,0,1,1,1,1,0
+Mendoza,Lavalle,El Vergel,0,0,0,0,0,0,0,1,0
+Mendoza,Lavalle,Ingeniero Gustavo André,0,0,0,0,0,0,0,1,0
+Mendoza,Lavalle,Jocolí,0,0,0,0,0,0,0,1,0
+Mendoza,Lavalle,Jocolí Viejo,0,0,0,0,0,0,0,1,0
+Mendoza,Lavalle,Villa Tulumaya,0,0,0,1,1,1,0,1,0
+Mendoza,Luján de Cuyo,Agrelo,1,0,0,1,1,1,1,1,0
+Mendoza,Luján de Cuyo,Barrio Adina I Y Ii,0,0,0,0,1,1,0,0,0
+Mendoza,Luján de Cuyo,Barrio Perdriel Iv,0,0,0,1,1,0,0,1,0
+Mendoza,Luján de Cuyo,Cacheuta,1,0,0,0,1,1,1,1,0
+Mendoza,Luján de Cuyo,Carrodilla,0,0,0,1,1,1,0,1,0
+Mendoza,Luján de Cuyo,Chacras de Coria,0,0,0,1,1,1,0,1,0
+Mendoza,Luján de Cuyo,Costa Flores,0,0,0,1,1,1,0,1,0
+Mendoza,Luján de Cuyo,El Carrizal,0,0,0,0,1,0,0,1,0
+Mendoza,Luján de Cuyo,El Salto,0,0,0,0,0,0,1,1,0
+Mendoza,Luján de Cuyo,La Puntilla,0,0,0,1,0,0,0,1,0
+Mendoza,Rivadavia,Rivadavia,1,0,1,1,1,1,1,1,1
+Mendoza,Rivadavia,Santa María de Oro,0,0,0,0,0,0,0,1,0
+Mendoza,San Carlos,Barrio El Cepillo,0,0,0,0,0,0,0,1,0
+Mendoza,San Carlos,Chilecito,0,0,0,0,1,1,0,1,0
+Mendoza,San Carlos,Eugenio Bustos,1,0,0,0,1,1,1,1,0
+Mendoza,San Carlos,La Consulta,1,0,0,0,1,1,1,1,1
+Mendoza,San Carlos,Pareditas,0,0,0,1,1,1,1,1,0
+Mendoza,San Carlos,San Carlos,0,1,0,0,1,1,0,1,0
+Mendoza,San Martín,Alto Salvador,0,0,0,1,0,0,1,1,0
+Mendoza,San Martín,Alto Verde,0,0,0,1,0,0,0,1,0
+Mendoza,San Martín,Barrio Ntra. Sra. de Fátima,0,0,0,0,0,1,0,0,0
+Mendoza,San Martín,Chapanay,0,0,1,1,1,1,1,1,0
+Mendoza,San Martín,El Espino,0,0,0,0,0,0,0,1,0
+Salta,La Caldera,La Caldera,0,0,0,1,1,1,1,1,1
+Salta,La Caldera,Vaqueros,1,0,0,1,1,1,1,1,0
+Salta,La Candelaria,El Jardín,0,0,0,1,1,0,1,0,1
+Salta,La Candelaria,El Tala,0,0,0,1,1,1,1,1,1
+Salta,La Candelaria,La Candelaria,0,0,0,1,1,0,1,0,0
+Salta,La Poma,La Poma,0,0,0,1,0,0,0,1,0
+Salta,La Viña,Ampascachi,0,0,0,0,0,0,0,1,0
+Salta,La Viña,Cabra Corral,0,0,0,0,1,0,0,1,0
+Salta,La Viña,Coronel Moldes,1,0,0,0,1,1,1,1,1
+Salta,La Viña,La Viña,0,0,0,1,1,0,1,1,1
+Salta,La Viña,Talapampa,0,0,0,0,0,0,0,1,0
+Salta,Los Andes,Olacapato,0,0,0,1,0,0,1,1,1
+Salta,Los Andes,San Antonio de Los Cobres,0,0,0,1,1,0,1,1,1
+Salta,Los Andes,Santa Rosa de Los Pastos Grandes,0,0,0,1,0,0,0,1,1
+Salta,Los Andes,Tolar Grande,0,0,0,1,1,0,1,1,1
+Salta,Metán,El Galpón,1,0,0,1,1,1,1,0,1
+Salta,Metán,El Tunal,0,0,0,1,1,0,0,0,1
+Salta,Metán,Lumbreras,0,0,0,1,0,0,0,0,0
+Salta,Metán,Metán Viejo,0,0,0,1,1,0,0,0,1
+Salta,Metán,Río Piedras,1,0,0,1,1,1,1,0,1
+Salta,Metán,San José de Metán,1,0,0,1,1,1,1,0,1
+Salta,Metán,San José de Orquera,0,0,0,1,0,0,0,0,0
+Salta,Molinos,La Puerta,0,0,0,0,0,0,1,0,0
+Salta,Molinos,Molinos,1,0,0,1,1,0,1,1,0
+Salta,Molinos,Seclantás,0,0,0,1,1,0,1,1,1
+Salta,Orán,Aguas Blancas,0,0,0,0,1,0,1,1,1
+Salta,Orán,Colonia Santa Rosa,0,1,0,0,1,1,1,1,1
+Salta,Orán,El Tabacal,0,0,0,1,1,0,1,0,0
+Santa Fe,Las Colonias,Nuevo Torino,1,0,0,0,1,0,0,1,0
+Santa Fe,Las Colonias,Pilar,1,0,0,1,1,1,1,1,0
+Santa Fe,Las Colonias,Progreso,0,0,0,0,1,1,1,1,0
+Santa Fe,Las Colonias,Providencia,0,0,0,0,1,0,1,1,0
+Santa Fe,Las Colonias,Sa Pereyra,1,0,0,0,0,0,1,1,0
+Santa Fe,Las Colonias,San Agustín,0,0,0,0,1,1,1,1,0
+Santa Fe,Las Colonias,San Carlos Centro,1,1,0,1,1,1,1,1,0
+Santa Fe,Las Colonias,San Carlos Norte,0,1,0,1,1,0,1,1,0
+Santa Fe,Las Colonias,San Carlos Sud,1,1,0,1,1,1,1,1,0
+Santa Fe,Las Colonias,San Jerónimo del Sauce,0,0,0,1,1,1,1,1,0
+Santa Fe,Las Colonias,San Jerónimo Norte,1,0,0,1,1,1,1,1,0
+Santa Fe,Las Colonias,San Mariano,0,0,0,0,0,0,1,0,0
+Córdoba,San Justo,Devoto,1,0,0,1,1,1,1,0,0
+Córdoba,San Justo,El Arañado,0,1,0,0,1,1,1,1,1
+Córdoba,San Justo,El Fortín,0,1,0,0,1,1,1,1,0
+Córdoba,San Justo,El Fuertecito,0,0,0,0,1,0,1,1,0
+Córdoba,San Justo,El Tío,1,1,0,1,1,1,1,0,0
+Córdoba,San Justo,Estación Luxardo,0,0,0,0,1,1,0,1,0
+Córdoba,San Justo,Freyre,1,1,0,1,1,1,1,1,0
+Córdoba,San Justo,La Francia,1,0,0,1,1,1,1,1,0
+Córdoba,San Justo,La Paquita,1,0,0,0,1,0,0,1,0
+Córdoba,San Justo,La Tordilla,1,0,0,0,1,1,1,1,0
+Córdoba,San Justo,Las Varas,0,0,0,1,1,1,1,0,0
+Mendoza,Luján de Cuyo,Las Compuertas,1,0,1,0,1,0,1,1,0
+Mendoza,Luján de Cuyo,Las Vegas,0,0,0,0,0,0,1,1,0
+Mendoza,Luján de Cuyo,Los Manantiales,0,0,0,0,1,1,0,0,0
+Mendoza,Luján de Cuyo,Luján de Cuyo,1,1,1,1,1,1,1,1,0
+Mendoza,Luján de Cuyo,Mayor Drummond,0,0,0,1,1,1,0,1,0
+Mendoza,Luján de Cuyo,Perdriel,1,0,1,1,0,1,1,1,0
+Mendoza,Luján de Cuyo,Potrerillos,0,0,0,1,1,1,1,1,1
+Mendoza,Luján de Cuyo,Ugarteche,0,0,0,1,1,1,1,1,0
+Mendoza,Luján de Cuyo,Vistalba,0,0,0,1,1,1,0,1,0
+Mendoza,Maipú,Barrancas,0,0,0,0,1,1,1,1,0
+Mendoza,Maipú,Barrio Jesús de Nazaret,0,0,0,0,0,0,0,1,0
+Buenos Aires,Adolfo Alsina,Esteban Agustín Gascón,0,0,0,1,0,0,1,0,0
+Buenos Aires,Adolfo Alsina,Maza,0,0,0,1,1,1,1,1,1
+Buenos Aires,Adolfo Alsina,Rivera,0,0,0,1,1,0,1,0,0
+Buenos Aires,Adolfo Gonzales Chaves,Adolfo Gonzales Chaves (est. Chaves),1,0,1,1,1,1,1,1,0
+Buenos Aires,Adolfo Gonzales Chaves,de La Garma,0,0,0,1,1,1,1,1,0
+Buenos Aires,Adolfo Gonzales Chaves,Juan E. Barra,0,0,0,0,0,0,1,1,0
+Buenos Aires,Adolfo Gonzales Chaves,Vásquez,0,0,0,0,1,1,1,1,0
+Buenos Aires,Alberti,Alberti (est. Andrés Vaccarezza),1,0,1,1,1,1,1,1,0
+Buenos Aires,Alberti,Mechita,1,0,0,0,1,1,0,0,0
+Buenos Aires,Alberti,Pla,0,0,0,0,0,0,1,0,0
+Buenos Aires,Alberti,Villa Grisolía (est. Achupallas),0,0,0,0,1,1,0,0,0
+Buenos Aires,Cañuelas,Barrio Belgrano-máximo Paz,0,0,0,0,1,1,0,1,0
+Buenos Aires,Cañuelas,Barrio El Taladro,0,0,0,1,1,0,0,0,0
+Buenos Aires,Cañuelas,Cañuelas,1,1,1,1,1,1,1,1,1
+Buenos Aires,Cañuelas,Gobernador Udaondo,0,0,0,1,1,0,0,1,0
+Buenos Aires,Cañuelas,Máximo Paz,0,1,0,1,0,0,0,1,0
+Buenos Aires,Cañuelas,Santa Rosa,0,0,0,0,1,1,0,1,1
+Buenos Aires,Cañuelas,Uribelarrea,1,0,0,1,1,1,1,1,0
+Buenos Aires,Cañuelas,Vicente Casares,1,0,1,0,1,1,1,1,0
+Buenos Aires,Capitán Sarmiento,Capitán Sarmiento,1,1,0,1,1,1,1,1,0
+Buenos Aires,Capitán Sarmiento,La Luisa,0,0,0,0,0,0,0,1,0
+Buenos Aires,Carlos Casares,Bellocq,0,0,1,0,0,0,1,0,0
+Buenos Aires,Carlos Casares,Cadret,0,0,0,0,0,0,1,1,0
+Buenos Aires,Carmen de Areco,Pueblo Gouin,0,0,0,0,0,0,0,1,0
+Buenos Aires,General Rodríguez,General Rodríguez,1,1,1,1,1,1,1,1,1
+Buenos Aires,General San Martín,Barrio Parque General San Martin,0,0,1,1,1,0,1,1,0
+Buenos Aires,General San Martín,Billinghurst,1,1,0,1,1,1,1,0,0
+Buenos Aires,General San Martín,Ciudad del Libertador General San Martin,1,1,0,1,1,1,1,1,1
+Buenos Aires,General San Martín,Ciudad Jardin El Libertador,0,1,0,0,1,1,1,0,0
+Buenos Aires,General San Martín,Va Ma Irene de Los Remedios de Escalada,0,1,0,0,1,1,0,0,0
+Buenos Aires,General San Martín,Villa Ayacucho,0,1,0,1,1,1,0,0,0
+Buenos Aires,General San Martín,Villa Ballester,1,1,1,1,1,1,1,1,0
+Mendoza,Malargüe,Bardas Blancas,0,0,0,0,1,0,1,0,0
+Buenos Aires,Pergamino,Rancagua,1,0,0,1,1,0,1,0,0
+Buenos Aires,Pergamino,Villa Angélica (est. El Socorro),0,1,0,0,1,1,0,0,0
+Buenos Aires,Pergamino,Villa San José,0,0,0,1,0,0,1,0,0
+Buenos Aires,Pila,Casalins,0,0,0,0,0,1,0,1,0
+Buenos Aires,Pila,Pila,0,0,1,1,1,1,1,1,0
+Buenos Aires,Pilar,Barrio Parque Almirante Irizar (ap. Kilómetro 61),0,0,0,0,1,1,0,0,0
+Buenos Aires,Pilar,Club de Campo Larena - Los Quinchos,0,0,0,0,1,0,0,0,0
+Buenos Aires,Pilar,Country Club El Jagüel,0,0,0,0,1,1,0,0,0
+Buenos Aires,Pilar,del Viso,1,1,0,1,1,1,1,1,0
+Buenos Aires,Pilar,Fátima,1,1,0,1,1,1,1,1,0
+Buenos Aires,Pilar,La Lonja,1,1,0,1,1,1,1,1,0
+CABA,Comuna 12,Villa Urquiza,1,1,1,1,1,1,1,1,1
+CABA,Comuna 13,Belgrano,1,1,1,1,1,1,1,1,1
+Córdoba,San Justo,Colonia Marina,0,1,0,1,1,1,1,1,1
+Córdoba,San Justo,Colonia Prosperidad,0,0,0,0,1,0,1,0,0
+Córdoba,San Justo,Colonia San Bartolomé,0,0,0,0,1,0,1,1,0
+Córdoba,San Justo,Colonia Vignaud,1,0,0,1,1,1,1,0,0
+Buenos Aires,Alberti,Villa Ortiz (est. Coronel Mom),0,0,0,0,1,1,1,0,0
+Buenos Aires,Almirante Brown,Adrogué,1,1,1,1,1,1,1,1,1
+Buenos Aires,Almirante Brown,Burzaco,1,1,1,1,1,1,1,1,1
+Buenos Aires,Almirante Brown,Claypole,1,1,1,1,1,1,1,1,0
+Buenos Aires,Almirante Brown,Don Orione,0,1,0,0,1,1,0,1,0
+Buenos Aires,Almirante Brown,Glew,1,1,1,1,1,1,1,1,0
+Buenos Aires,Almirante Brown,Jose Mármol,0,1,1,1,1,1,1,1,0
+Buenos Aires,Almirante Brown,Longchamps,1,1,1,1,1,1,1,1,0
+Buenos Aires,Almirante Brown,Malvinas Argentinas,1,1,1,1,1,1,1,1,0
+Buenos Aires,Almirante Brown,Ministro Rivadavia,1,1,1,1,1,1,1,1,0
+Buenos Aires,Almirante Brown,Rafael Calzada,1,1,1,1,1,1,1,1,0
+Buenos Aires,Almirante Brown,San Francisco Solano,1,1,1,1,1,1,1,1,0
+Buenos Aires,Almirante Brown,San Jose,1,1,1,1,1,1,1,1,1
+Buenos Aires,General San Martín,Villa Juan Martín de Pueyrredon,0,1,0,1,1,1,0,0,0
+Buenos Aires,General San Martín,Villa Libertad,0,1,0,1,1,1,0,0,0
+Buenos Aires,General San Martín,Villa Lynch,1,1,0,1,1,1,1,0,0
+Buenos Aires,General San Martín,Villa Maipu,1,1,0,1,1,1,1,1,0
+Buenos Aires,General San Martín,Villa Marqués Alejandro María de Aguado,0,1,0,1,1,1,0,0,0
+Buenos Aires,General San Martín,Villa Parque Pres Figueroa Alcorta,0,1,0,1,1,1,0,0,0
+Buenos Aires,General San Martín,Villa Parque San Lorenzo,0,1,0,1,1,1,0,0,0
+Buenos Aires,General San Martín,Villa San Andrés,1,1,0,1,1,1,1,1,0
+Buenos Aires,General San Martín,Villa Yapeyú,0,1,0,1,1,1,0,0,0
+Buenos Aires,General Viamonte,Baigorrita,1,0,0,0,1,0,1,1,0
+Buenos Aires,General Villegas,Villa Saboya,0,0,0,0,1,0,1,0,0
+Buenos Aires,General Villegas,Villa Sauze,0,0,0,0,0,0,1,0,0
+Buenos Aires,Guaminí,Arroyo Venado,0,0,0,0,0,0,0,1,0
+Buenos Aires,Guaminí,Casbas,0,0,1,0,1,1,1,1,0
+Buenos Aires,Guaminí,Garré,0,0,0,1,1,0,1,0,0
+Buenos Aires,Guaminí,Guaminí,0,0,0,1,1,1,1,1,0
+Buenos Aires,Guaminí,Laguna Alsina (est. Bonifacio),1,0,0,1,0,0,1,1,0
+Buenos Aires,Hipólito Yrigoyen,Henderson,1,0,1,0,1,1,1,1,0
+Buenos Aires,Hurlingham,Hurlingham,1,1,1,1,1,1,1,1,0
+Buenos Aires,La Plata,Los Hornos,0,1,0,1,1,1,0,1,0
+Buenos Aires,La Plata,Manuel B Gonnet,0,1,0,1,1,1,1,0,0
+Buenos Aires,La Plata,Ringuelet,0,1,0,1,1,1,1,0,0
+Buenos Aires,La Plata,Rufino de Elizalde,0,0,0,0,1,1,0,0,0
+Buenos Aires,La Plata,Ruta del Sol,1,0,0,1,1,1,1,0,0
+Buenos Aires,La Plata,Tolosa,0,1,0,1,1,1,1,0,0
+Buenos Aires,La Plata,Transradio,0,0,0,0,1,1,0,0,1
+Buenos Aires,La Plata,Villa Elisa,0,1,0,1,1,1,1,1,0
+Buenos Aires,La Plata,Villa Elvira,0,1,0,1,1,1,0,1,0
+Buenos Aires,La Plata,Villa Garibaldi,0,0,0,0,0,0,0,1,0
+Buenos Aires,Pilar,Villa Astolfi,0,1,0,1,1,1,0,1,0
+Buenos Aires,Pilar,Villa Rosa,1,1,1,1,1,1,1,1,0
+Buenos Aires,Pilar,Zelaya,1,1,0,0,1,1,1,1,0
+Buenos Aires,Pinamar,Carilo,0,1,0,0,1,1,0,0,0
+Buenos Aires,Pinamar,Ostende,0,0,0,0,1,1,0,0,0
+Buenos Aires,Pinamar,Pinamar,1,1,0,1,1,1,1,0,1
+Buenos Aires,Pinamar,Valeria del Mar,0,0,0,0,1,1,0,0,0
+Buenos Aires,Presidente Perón,Barrio America Unida,0,0,0,0,1,1,0,0,0
+Buenos Aires,Presidente Perón,Guernica,1,1,1,1,1,1,1,1,0
+Buenos Aires,Puán,17 de Agosto,0,0,0,0,0,0,1,0,0
+CABA,Comuna 13,Colegiales,1,1,1,1,1,1,1,1,1
+Córdoba,San Justo,Las Varillas,1,0,0,1,1,1,1,0,1
+Córdoba,San Justo,Marull,0,0,0,1,1,1,1,1,1
+Córdoba,San Justo,Miramar,0,1,0,0,1,1,1,1,0
+Córdoba,San Justo,Morteros,1,0,0,1,1,1,1,0,0
+Córdoba,San Justo,Plaza Luxardo,0,0,0,0,0,0,0,1,0
+Córdoba,San Justo,Plaza San Francisco,0,0,0,0,1,0,0,1,0
+Córdoba,San Justo,Porteña,1,0,0,1,1,1,1,1,0
+Córdoba,San Justo,Quebracho Herrado,0,0,0,0,0,0,1,1,0
+Córdoba,San Justo,Sacanta,0,1,0,1,1,1,1,1,1
+Córdoba,San Justo,San Francisco,1,1,0,1,1,1,1,1,0
+Córdoba,Unión,Canals,1,0,0,1,1,1,1,1,0
+Córdoba,Unión,Chilibroste,1,0,0,1,0,0,1,1,0
+Córdoba,Unión,Cintra,1,0,0,1,0,1,1,1,1
+Córdoba,Unión,Colonia Bismarck,0,1,0,0,0,0,1,1,0
+Córdoba,Unión,Idiazabal,0,0,0,1,1,1,1,1,1
+Córdoba,Unión,Justiniano Posse,0,0,0,1,1,1,1,1,0
+Córdoba,Unión,Laborde,1,0,0,0,1,1,1,0,0
+Córdoba,Unión,Monte Leña,0,0,0,0,1,1,1,0,0
+Córdoba,Unión,Monte Maíz,1,1,0,1,1,1,1,0,0
+Córdoba,Unión,Morrison,1,0,0,1,1,1,1,0,0
+Mendoza,San Rafael,Goudge,0,1,0,0,1,1,1,1,0
+Mendoza,San Rafael,Jaime Prats,0,0,0,0,0,0,1,1,0
+Mendoza,San Rafael,La Llave Nueva,0,0,0,0,0,0,1,0,0
+Mendoza,San Rafael,Las Malvinas,0,0,0,0,0,0,1,1,0
+Mendoza,San Rafael,Los Reyunos,0,0,0,0,1,0,0,0,0
+Mendoza,San Rafael,Monte Comán,0,0,0,1,1,1,1,1,0
+Mendoza,San Rafael,Pobre Diablo,0,0,0,0,1,1,0,0,0
+Mendoza,San Rafael,Punta del Agua,0,0,0,1,0,0,0,0,0
+Mendoza,San Rafael,Rama Caída,0,0,0,0,1,1,1,1,0
+Mendoza,San Rafael,Real del Padre,0,0,0,0,1,1,1,1,0
+Mendoza,San Rafael,Salto de Las Rosas,0,0,1,0,1,1,1,1,0
+Mendoza,San Rafael,San Rafael,1,1,1,1,1,1,1,1,0
+Mendoza,San Rafael,Villa Atuel,0,0,0,0,1,1,1,1,0
+Mendoza,San Rafael,Villa Atuel Norte,0,0,0,0,1,1,1,0,0
+Mendoza,Santa Rosa,Barrio 12 de Octubre,0,0,0,1,1,0,0,0,0
+Mendoza,Santa Rosa,Barrio María Auxiliadora,0,0,0,0,1,1,0,0,0
+Mendoza,Santa Rosa,La Dormida,0,0,0,1,1,1,1,1,0
+Mendoza,Santa Rosa,Las Catitas,0,0,0,0,1,1,1,1,0
+Mendoza,Santa Rosa,Santa Rosa,0,0,0,1,0,0,1,1,0
+Mendoza,Tunuyán,Campo Los Andes,0,1,0,0,0,0,0,0,0
+Mendoza,Tunuyán,Colonia Las Rosas,0,0,0,0,1,1,1,1,0
+Mendoza,Tunuyán,El Manzano,0,0,0,0,1,1,0,0,0
+Mendoza,Tunuyán,Los Sauces,0,1,0,1,1,1,1,0,0
+Mendoza,Tunuyán,Tunuyán,1,1,1,1,1,1,1,1,0
+Mendoza,Tunuyán,Vista Flores,0,0,0,0,1,1,1,1,0
+Mendoza,Tupungato,Cordón del Plata,0,0,0,0,1,1,1,1,0
+Salta,Orán,Hipólito Yrigoyen,1,1,0,1,1,1,1,1,1
+Salta,Orán,Pichanal,1,1,0,1,1,1,1,0,1
+Salta,Orán,San Ramón de La Nueva Orán,1,0,0,1,1,1,1,0,1
+Salta,Orán,Urundel,0,0,0,1,1,1,1,1,1
+Salta,Rivadavia,Alto de La Sierra,0,0,0,1,0,0,0,1,0
+Salta,Rivadavia,Capitán Juan Pagé,0,0,0,0,0,0,0,1,0
+Salta,Rivadavia,Coronel Juan Solá,1,0,0,1,1,1,1,1,1
+Salta,Rivadavia,La Unión,0,0,0,0,1,0,0,0,0
+Salta,Rivadavia,Los Blancos,0,0,0,0,1,0,0,1,0
+Salta,Rivadavia,Pluma de Pato,0,0,0,0,1,0,0,1,0
+Salta,Rivadavia,Rivadavia,0,0,0,1,1,0,0,0,1
+Salta,Rivadavia,Santa Victoria Este,1,0,0,1,1,0,1,1,1
+Salta,Rosario de La Frontera,Antilla,0,0,0,1,1,0,0,0,1
+Salta,Rosario de La Frontera,Copo Quile,0,0,0,1,1,0,0,0,0
+Salta,Rosario de La Frontera,El Naranjo,0,0,0,1,1,1,0,0,1
+Salta,Rosario de La Frontera,El Potrero,0,0,0,1,0,0,0,0,1
+Salta,Rosario de La Frontera,Rosario de La Frontera,1,1,0,1,1,1,1,1,1
+Salta,Rosario de Lerma,Campo Quijano,1,0,0,1,1,1,1,1,1
+Salta,Rosario de Lerma,La Merced del Encón,0,0,0,1,1,1,0,1,0
+Salta,Rosario de Lerma,La Silleta,1,0,0,1,0,0,1,1,1
+Salta,Rosario de Lerma,Rosario de Lerma,1,1,0,1,1,1,1,1,1
+Salta,San Carlos,Angastaco,0,0,0,1,1,0,0,1,0
+Salta,San Carlos,Animaná,0,0,0,0,1,0,1,1,1
+Santa Fe,9 de Julio,Logroño,1,0,0,0,1,1,1,1,0
+Santa Fe,9 de Julio,Montefiore,0,0,0,0,0,0,1,1,1
+Santa Fe,9 de Julio,Pozo Borrado,0,0,0,0,1,0,1,1,0
+Santa Fe,9 de Julio,San Bernardo,0,0,0,0,0,0,1,1,0
+Santa Fe,9 de Julio,Santa Margarita,0,0,0,0,1,0,1,1,1
+Santa Fe,9 de Julio,Tostado,1,1,0,0,1,1,1,1,1
+Santa Fe,9 de Julio,Villa Minetti,0,0,0,0,1,1,1,1,1
+Santa Fe,Belgrano,Armstrong,1,0,0,1,1,1,1,1,0
+Santa Fe,Belgrano,Bouquet,1,0,0,0,1,0,1,1,0
+Santa Fe,Belgrano,Las Parejas,1,0,0,1,1,1,1,1,0
+Santa Fe,Belgrano,Las Rosas,1,1,0,1,1,1,1,1,0
+Santa Fe,Belgrano,Montes de Oca,1,0,0,1,1,0,1,1,1
+Santa Fe,Belgrano,Tortugas,1,1,0,0,1,1,1,0,1
+Santa Fe,Caseros,Arequito,1,1,0,0,1,1,1,0,0
+Santa Fe,Caseros,Arteaga,1,1,0,0,1,1,1,1,0
+Santa Fe,Caseros,Beravebú,0,0,0,0,1,1,1,1,0
+Santa Fe,Caseros,Bigand,1,1,0,0,1,1,1,0,0
+Santa Fe,Caseros,Casilda,1,1,0,1,1,1,1,1,0
+Santa Fe,Caseros,Chabás,1,0,0,1,1,1,1,1,0
+Santa Fe,Caseros,Chañar Ladeado,1,1,0,1,1,1,1,0,0
+Salta,San Carlos,San Carlos,0,0,0,1,1,0,1,1,1
+Salta,Santa Victoria,Acoyte,0,0,0,0,0,0,0,1,0
+Salta,Santa Victoria,Los Toldos,0,0,0,1,0,0,1,1,0
+Salta,Santa Victoria,Nazareno,0,0,0,1,0,0,1,0,0
+Salta,Santa Victoria,Santa Victoria,0,0,0,1,0,0,0,1,1
+Santa Fe,Rosario,Coronel Rodolfo S. Domínguez,0,1,0,0,1,1,1,0,0
+Santa Fe,Rosario,Cuatro Esquinas,0,0,0,1,0,0,0,0,0
+Santa Fe,Rosario,El Caramelo,1,0,0,1,0,0,1,0,0
+Santa Fe,Rosario,Fighiera,1,0,0,0,1,1,1,1,0
+Santa Fe,Rosario,Funes,1,1,0,1,1,1,1,1,1
+Santa Fe,Rosario,General Lagos,1,0,0,1,1,1,1,1,1
+Santa Fe,Rosario,Granadero Baigorria,0,1,0,1,1,1,1,1,0
+Santa Fe,Rosario,Ibarlucea,0,1,0,1,1,1,1,1,0
+Santa Fe,Rosario,Kilómetro 101,0,0,0,0,1,1,0,1,1
+Santa Fe,Rosario,Monte Flores,1,0,0,1,1,1,0,0,0
+Santa Fe,San Cristóbal,Santurce,0,0,0,0,0,0,0,1,0
+Buenos Aires,Arrecifes,Arrecifes,1,1,1,1,1,1,1,1,1
+Buenos Aires,Arrecifes,Todd,0,0,0,1,1,1,1,0,0
+Buenos Aires,Arrecifes,Viña,1,1,0,0,1,1,0,0,0
+Buenos Aires,Avellaneda,Area Reserva Cinturón Ecológico,0,0,0,0,1,1,0,0,0
+Buenos Aires,Avellaneda,Avellaneda,1,1,1,1,1,1,1,1,1
+Buenos Aires,Avellaneda,Crucesita,0,1,0,1,1,1,1,0,0
+Buenos Aires,Avellaneda,Dock Sud,1,1,0,1,1,1,1,1,0
+Buenos Aires,Avellaneda,Gerli,0,1,0,1,1,1,1,0,0
+Buenos Aires,General Viamonte,Los Toldos,1,0,1,1,1,1,1,1,0
+Buenos Aires,General Viamonte,Zavalía,0,0,0,0,0,0,1,1,0
+Buenos Aires,General Villegas,Banderaló,0,0,0,0,1,1,0,0,1
+Buenos Aires,General Villegas,Cañada Seca,0,0,0,0,1,0,0,0,0
+Buenos Aires,General Villegas,Coronel Charlone,1,0,0,1,1,1,1,0,1
+Buenos Aires,General Villegas,Emilio V. Bunge,0,0,0,0,1,1,1,0,1
+Buenos Aires,General Villegas,General Villegas (est. Villegas),1,0,0,1,1,1,1,1,1
+Buenos Aires,General Villegas,Pichincha,0,0,0,0,0,0,0,0,1
+Buenos Aires,General Villegas,Piedritas,1,0,0,1,1,1,1,1,1
+Buenos Aires,General Villegas,Santa Eleodora,0,0,0,0,1,0,1,0,0
+Buenos Aires,General Villegas,Santa Regina,0,1,0,0,1,0,1,0,0
+Buenos Aires,Puán,Bordenave,0,0,0,1,0,0,1,1,1
+Buenos Aires,Puán,Darregueira,1,1,1,1,1,1,1,1,0
+Buenos Aires,Puán,Estela,0,0,0,0,1,0,0,0,0
+Buenos Aires,Puán,Felipe Solá,0,0,0,0,1,0,1,0,0
+Buenos Aires,Puán,Puán,0,1,0,1,1,1,1,1,1
+Buenos Aires,Puán,San Germán,0,0,0,0,0,0,1,1,0
+Buenos Aires,Puán,Villa Castelar (est. Erize),0,0,0,0,0,0,1,0,0
+Buenos Aires,Puán,Villa Iris,0,0,0,1,1,1,1,1,0
+Buenos Aires,Punta Indio,Pipinas,0,1,0,0,1,1,1,0,0
+Buenos Aires,Punta Indio,Punta Indio,0,0,0,0,0,0,1,1,0
+Buenos Aires,Punta Indio,Verónica,1,1,0,1,1,1,1,0,0
+Buenos Aires,Quilmes,Bernal,1,1,1,1,1,1,1,0,1
+Buenos Aires,Quilmes,Bernal Oeste,1,1,1,1,1,1,1,0,0
+Buenos Aires,Quilmes,Don Bosco,0,1,0,1,1,1,1,0,0
+Buenos Aires,Quilmes,Ezpeleta,1,1,1,1,1,1,1,1,0
+Buenos Aires,Quilmes,Ezpeleta Oeste,1,1,1,1,1,1,1,0,0
+Buenos Aires,Quilmes,Quilmes,1,1,1,1,1,1,1,1,1
+Mendoza,Tupungato,El Zampal,0,0,0,0,1,0,0,0,0
+CABA,Comuna 13,Nuñez,1,1,1,1,1,1,1,1,1
+Córdoba,San Justo,Saturnino María Laspiur,0,1,0,0,1,1,1,0,1
+Córdoba,San Justo,Seeber,1,0,0,0,1,0,0,0,0
+Córdoba,San Justo,Toro Pujio,1,0,0,0,1,0,1,0,0
+Córdoba,San Justo,Tránsito,1,0,0,0,1,1,1,1,0
+Córdoba,San Justo,Villa Concepción del Tío,0,1,0,0,1,1,1,1,0
+Córdoba,San Justo,Villa del Tránsito,0,0,0,0,0,0,0,1,0
+Córdoba,San Justo,Villa San Esteban,0,0,0,0,0,0,0,1,0
+Córdoba,Santa María,Alta Gracia,1,1,0,1,1,1,1,1,0
+Córdoba,Santa María,Anisacate,1,0,0,0,0,0,1,1,0
+Córdoba,Santa María,Barrio Las Quintas,0,0,0,0,0,1,0,0,0
+Córdoba,Santa María,Bouwer,0,0,0,0,1,1,1,0,0
+Córdoba,Santa María,Caseros Centro,0,0,0,0,1,0,0,0,0
+Córdoba,Santa María,Costa Azul,0,0,0,0,1,1,0,0,0
+Buenos Aires,Avellaneda,Pineyro,0,1,0,1,1,1,1,0,0
+Buenos Aires,Avellaneda,Sarandí,1,1,1,1,1,1,1,1,1
+Buenos Aires,Avellaneda,Villa Domínico,1,1,0,1,1,1,1,1,0
+Buenos Aires,Avellaneda,Wilde,1,1,1,1,1,1,1,1,0
+Buenos Aires,Ayacucho,Ayacucho,1,0,1,0,1,1,1,1,0
+Buenos Aires,Ayacucho,La Constancia,0,0,0,0,0,0,0,1,0
+Buenos Aires,Ayacucho,Solanet,0,0,0,0,1,0,0,1,0
+Buenos Aires,Ayacucho,Udaquiola,0,0,0,0,0,0,0,1,1
+Buenos Aires,Azul,16 de Julio,0,0,0,0,1,1,0,0,0
+Buenos Aires,Hurlingham,Villa Santos Tesei,1,1,1,1,1,1,1,1,0
+Buenos Aires,Hurlingham,William C. Morris,0,1,0,1,1,1,0,1,0
+Buenos Aires,Ituzaingó,Ituzaingó Centro,1,1,1,1,1,1,1,1,1
+Buenos Aires,Ituzaingó,Ituzaingó Sur,0,0,0,0,1,1,0,1,0
+Buenos Aires,Ituzaingó,Villa Gobernador Udaondo,1,1,1,1,1,1,1,1,0
+Buenos Aires,José C. Paz,del Viso,0,1,0,0,1,1,0,0,0
+Buenos Aires,José C. Paz,José C Paz,1,1,1,1,1,1,1,1,1
+Buenos Aires,Quilmes,Quilmes Oeste,1,1,1,1,1,1,1,1,0
+Buenos Aires,Quilmes,San Francisco Solano,0,1,0,1,1,1,1,1,0
+Buenos Aires,Quilmes,Villa La Florida,1,1,1,1,1,1,1,1,0
+Buenos Aires,Ramallo,El Paraíso,1,0,0,1,0,0,1,1,0
+Buenos Aires,Ramallo,Las Bahamas,0,0,0,0,1,1,0,0,0
+Buenos Aires,Ramallo,Pérez Millán,0,0,0,1,1,1,1,0,0
+Buenos Aires,Ramallo,Ramallo,1,1,0,1,1,1,1,1,1
+Buenos Aires,Ramallo,Villa General Savio (est. Sánchez),0,0,0,0,1,1,0,0,0
+Buenos Aires,Ramallo,Villa Ramallo,1,1,0,1,1,1,1,1,0
+Buenos Aires,Villarino,Country Los Medanos,0,0,0,0,0,0,0,1,0
+Buenos Aires,Villarino,Hilario Ascasubi,0,0,0,0,1,1,1,0,0
+Buenos Aires,Villarino,Juan Cousté (est. Algarrobo),0,0,1,0,1,1,1,1,0
+Buenos Aires,Villarino,Mayor Buratovich,1,0,0,1,1,1,1,0,0
+Buenos Aires,Villarino,Médanos,1,1,1,0,1,1,1,1,0
+Buenos Aires,Villarino,Pedro Luro,1,1,0,1,1,1,1,1,0
+Buenos Aires,Villarino,Teniente Origone,0,0,0,0,1,0,1,1,0
+Buenos Aires,Zárate,Barrio Saavedra,0,0,0,0,1,1,0,0,0
+Buenos Aires,Zárate,Country Club El Casco,0,0,0,0,1,1,0,0,0
+Buenos Aires,Zárate,Lima,1,0,0,1,1,1,0,0,1
+Mendoza,Tupungato,La Arboleda,0,0,0,0,1,0,0,1,0
+Mendoza,Tupungato,San José,0,0,0,1,1,1,0,1,0
+CABA,Comuna 14,Palermo,1,1,1,1,1,1,1,1,1
+Córdoba,Santa María,Despeñaderos,1,0,0,1,1,1,1,1,0
+Córdoba,Santa María,El Potrerillo,0,0,0,0,1,1,0,0,0
+Córdoba,Santa María,Falda del Cañete,0,0,0,0,1,1,0,0,0
+Córdoba,Santa María,Falda del Carmen,0,0,0,0,1,0,1,0,0
+Córdoba,Santa María,José de La Quintana,0,0,0,0,1,0,0,0,0
+Córdoba,Santa María,La Carbonada,0,0,0,0,1,0,0,0,0
+Córdoba,Santa María,La Cumbrecita,0,0,0,0,0,0,1,1,0
+Córdoba,Santa María,La Donosa,0,0,0,0,0,0,0,1,0
+Córdoba,Santa María,La Paisanita,1,0,0,0,1,0,1,1,0
+Córdoba,Santa María,La Perla,0,0,0,0,1,1,0,0,0
+Córdoba,Santa María,La Rancherita,0,0,0,0,0,0,0,1,0
+Córdoba,Santa María,La Serranita,0,0,0,0,1,1,1,1,0
+Córdoba,Santa María,Los Cedros - Las Quintas,0,0,0,0,1,1,1,0,0
+Córdoba,Santa María,Lozada,0,0,0,0,1,1,1,1,0
+Córdoba,Santa María,Malagueño,1,0,0,1,1,1,1,1,0
+Córdoba,Santa María,Milenica,0,0,0,0,1,1,0,0,0
+Mendoza,Tupungato,Tupungato,1,0,0,1,1,1,1,1,1
+CABA,Comuna 09,Liniers,1,1,1,1,1,1,1,1,1
+CABA,Comuna 09,Parque Avellaneda,1,1,1,1,1,1,1,1,1
+Córdoba,Santa María,Monte Ralo,0,0,0,0,1,1,0,1,0
+Córdoba,Santa María,Potrero de Garay,0,0,0,1,1,1,1,1,0
+Córdoba,Santa María,Rafael García,0,0,0,0,1,0,1,1,0
+Córdoba,Santa María,San Clemente,0,0,0,0,1,1,1,0,0
+Córdoba,Santa María,San Nicolás,1,0,0,0,1,1,1,0,0
+Buenos Aires,San Andrés de Giles,Azcuénaga,0,0,0,1,0,0,1,1,0
+Buenos Aires,San Andrés de Giles,Cucullú,0,0,0,0,0,0,1,1,0
+Buenos Aires,San Andrés de Giles,San Andrés de Giles,1,1,1,1,1,1,1,0,1
+Buenos Aires,San Andrés de Giles,Solís,1,0,0,1,0,0,1,1,1
+Buenos Aires,San Andrés de Giles,Villa Espil,0,0,0,0,0,0,0,1,0
+Buenos Aires,San Andrés de Giles,Villa Ruiz,0,0,0,1,0,0,1,1,0
+Buenos Aires,San Antonio de Areco,Duggan,0,0,0,1,0,0,1,1,0
+Buenos Aires,San Antonio de Areco,San Antonio de Areco,1,1,1,1,1,1,1,1,1
+Buenos Aires,San Antonio de Areco,Villa Lía,1,0,0,1,1,0,1,1,0
+Buenos Aires,San Cayetano,Balneario San Cayetano,0,0,0,1,1,0,1,1,0
+Buenos Aires,San Cayetano,Ochandío,0,0,0,0,0,0,0,1,0
+Córdoba,Santa María,Toledo,1,0,0,1,1,1,1,1,0
+Córdoba,Santa María,Valle de Anisacate,0,0,0,0,0,0,0,1,0
+Córdoba,Santa María,Villa Ciudad de América (loteo Diego de Rojas),0,0,0,0,1,1,1,1,0
+Córdoba,Santa María,Villa del Prado,0,0,0,0,0,0,0,1,0
+Córdoba,Santa María,Villa La Bolsa,0,0,0,0,1,1,0,1,0
+Córdoba,Santa María,Villa Los Aromos,1,0,0,0,0,0,1,1,0
+Córdoba,Santa María,Villa Parque Santa Ana,1,0,0,1,1,1,1,0,0
+Córdoba,Santa María,Villa San Isidro - José de La Quintana,0,0,0,0,0,0,1,1,0
+Córdoba,Santa María,Villa Sierras de Oro,0,0,0,0,1,1,0,0,0
+Córdoba,Santa María,Yocsina,0,0,0,0,1,0,0,0,0
+Córdoba,Sobremonte,Caminiaga,0,0,0,1,0,0,1,0,0
+Córdoba,Sobremonte,Chuña Huasi,0,0,0,0,0,0,1,0,0
+Córdoba,Sobremonte,Pozo Nuevo,0,0,0,0,1,0,0,0,0
+Córdoba,Sobremonte,San Francisco del Chañar,0,0,0,1,1,1,1,0,1
+Buenos Aires,Bahía Blanca,Villa Bordeau,0,0,0,0,1,1,0,0,0
+Buenos Aires,Balcarce,Balcarce,1,1,1,1,1,1,1,1,0
+Buenos Aires,Balcarce,Los Pinos,0,0,0,0,0,0,1,1,0
+Buenos Aires,Balcarce,Napaleofú,0,0,0,1,1,1,1,1,0
+Buenos Aires,Balcarce,Ramos Otero,0,0,0,0,1,0,0,1,0
+Buenos Aires,Balcarce,San Agustín,0,0,0,0,0,0,1,1,0
+Buenos Aires,Balcarce,Villa Laguna La Brava,0,0,0,0,1,1,1,1,0
+Buenos Aires,Baradero,Baradero,1,1,0,1,1,1,1,1,1
+Buenos Aires,Baradero,Irineo Portela,0,0,0,1,0,0,1,1,1
+Buenos Aires,Baradero,Santa Coloma,0,0,0,0,1,0,0,1,0
+Buenos Aires,Baradero,Villa Alsina (est. Alsina),1,0,0,0,1,1,1,1,0
+Buenos Aires,Benito Juárez,Barker,0,0,1,1,1,1,1,1,1
+Buenos Aires,José C. Paz,Tortuguitas,0,1,0,0,1,1,0,0,0
+Buenos Aires,Junín,Agustín Roca,0,0,0,1,1,0,1,1,0
+Buenos Aires,Junín,Agustina,0,0,0,1,1,1,1,0,0
+Buenos Aires,Junín,Balneario Laguna de Gómez,0,0,0,0,1,1,0,1,0
+Buenos Aires,Junín,Fortín Tiburcio,0,0,0,0,0,0,1,1,0
+Buenos Aires,Junín,Junín,1,1,1,1,1,1,1,1,1
+Buenos Aires,Junín,Laplacette,0,0,0,1,0,0,0,1,0
+Buenos Aires,Junín,Morse,0,1,0,1,1,0,1,1,0
+Buenos Aires,Junín,Saforcada,0,0,0,0,1,1,1,1,0
+Buenos Aires,La Costa,Aguas Verdes,1,0,0,1,1,1,0,1,0
+Buenos Aires,Rauch,Rauch,1,0,1,1,1,1,1,1,1
+Buenos Aires,Rivadavia,América,1,1,0,1,1,1,1,1,1
+Buenos Aires,Rivadavia,Fortín Olavarría,1,0,0,1,1,1,0,0,0
+Buenos Aires,Rivadavia,González Moreno,0,0,0,0,1,1,0,1,0
+Buenos Aires,Rivadavia,Roosevelt,0,0,0,0,0,0,1,0,0
+Buenos Aires,Rivadavia,Sansinena,0,0,0,1,1,0,1,1,0
+Buenos Aires,Rojas,Las Carabelas,0,0,0,1,1,0,1,1,1
+Buenos Aires,Rojas,Rafael Obligado,0,0,0,0,1,0,0,1,0
+CABA,Comuna 15,Agronomia,1,1,1,1,1,1,1,1,1
+Córdoba,Calamuchita,Amboy,0,0,0,0,0,0,1,1,0
+Córdoba,Calamuchita,Arroyo San Antonio,0,0,0,0,1,1,0,0,0
+Córdoba,Calamuchita,Cañada del Sauce,1,0,0,0,1,0,1,0,0
+Buenos Aires,Berisso,Berisso,1,1,1,1,1,1,1,1,0
+Buenos Aires,Berisso,Villa Arguello,0,0,0,1,1,1,0,1,0
+Buenos Aires,Berisso,Villa Dolores,0,0,0,0,1,1,0,0,0
+Buenos Aires,Berisso,Villa Nueva,0,0,0,1,1,1,0,1,0
+Buenos Aires,Berisso,Villa Progreso,0,0,0,1,0,0,0,1,0
+Buenos Aires,Berisso,Villa San Carlos,0,0,0,0,1,1,0,0,0
+Buenos Aires,Bolívar,Hale,1,0,0,0,0,0,1,0,0
+Buenos Aires,Bolívar,Pirovano,0,0,0,0,0,1,1,1,0
+Buenos Aires,Bolívar,San Carlos de Bolívar (est. Bolívar),1,1,1,1,1,1,1,1,1
+Buenos Aires,Bolívar,Urdampilleta,0,0,1,0,1,1,1,1,0
+Córdoba,Calamuchita,Capilla Vieja,0,0,0,0,1,1,0,1,0
+Córdoba,Calamuchita,El Corcovado - El Torreón,1,0,0,0,0,0,1,1,0
+Córdoba,Calamuchita,Embalse,0,0,0,1,1,1,0,1,1
+Córdoba,Calamuchita,La Cruz,1,0,0,0,1,1,1,1,0
+Córdoba,Calamuchita,La Cumbrecita,0,0,0,0,1,1,0,1,0
+Córdoba,Calamuchita,Las Bajadas,0,0,0,0,1,0,0,1,0
+Córdoba,Calamuchita,Las Caleras,0,0,0,0,0,0,1,1,0
+Córdoba,Calamuchita,Los Cóndores,1,0,0,0,1,1,1,1,1
+Córdoba,Calamuchita,Los Molinos,0,0,0,0,0,0,0,1,0
+Córdoba,Calamuchita,Los Reartes,1,0,0,1,1,1,1,1,1
+Córdoba,Calamuchita,Lutti,0,0,0,0,0,0,1,0,0
+Córdoba,Calamuchita,Parque Calmayo,0,0,0,0,0,0,0,1,0
+Córdoba,Calamuchita,Río de Los Sauces,0,0,0,0,1,1,1,1,0
+Córdoba,Tercero Arriba,Almafuerte,1,1,0,1,1,1,1,1,0
+Córdoba,Tercero Arriba,Colonia Almada,0,0,0,0,1,0,1,1,0
+Córdoba,Tercero Arriba,Corralito,0,0,0,1,1,1,0,1,1
+Córdoba,Tercero Arriba,Dalmacio Vélez,0,0,0,1,1,1,1,0,0
+Córdoba,Tercero Arriba,General Fotheringham,1,0,0,0,1,1,1,1,0
+Córdoba,Tercero Arriba,Hernando,1,1,0,1,1,1,1,0,0
+Córdoba,Tercero Arriba,James Craik,1,1,0,1,1,1,1,1,0
+Córdoba,Tercero Arriba,Las Isletillas,0,0,0,0,1,0,1,1,0
+Córdoba,Tercero Arriba,Las Perdices,1,0,0,0,1,1,1,1,1
+Córdoba,Tercero Arriba,Los Zorros,0,0,0,0,1,1,1,0,0
+Buenos Aires,Benito Juárez,Benito Juárez (est. Juárez),1,0,1,1,1,1,1,1,1
+Buenos Aires,Benito Juárez,López,0,0,0,1,0,0,0,1,0
+Buenos Aires,Benito Juárez,Tedín Uriburu,0,0,0,0,1,1,0,0,0
+Buenos Aires,Benito Juárez,Villa Cacique (est. Alfredo Fortabat),0,0,0,1,1,1,0,1,1
+Buenos Aires,Berazategui,Berazategui,1,1,1,1,1,1,1,1,1
+Buenos Aires,Berazategui,Berazategui Oeste,1,1,0,1,1,1,1,0,0
+Buenos Aires,Berazategui,Carlos Tomás Sourigues,1,1,0,1,1,1,1,0,0
+Buenos Aires,Berazategui,Centro Agrícola El Pato,1,1,0,1,1,1,1,1,0
+Buenos Aires,La Costa,Las Toninas,1,1,1,1,1,1,1,1,0
+Buenos Aires,La Costa,Lucila del Mar,1,1,0,1,1,1,0,1,0
+Buenos Aires,La Costa,Mar de Ajó - San Bernardo,1,1,1,1,1,1,1,1,0
+Buenos Aires,La Costa,San Clemente del Tuyú,1,1,1,1,1,1,1,1,0
+Buenos Aires,La Costa,Santa Teresita - Mar del Tuyú,1,1,1,1,1,1,1,1,0
+Buenos Aires,La Matanza,20 de Junio,1,1,1,0,1,1,1,1,0
+Buenos Aires,La Matanza,Aldo Bonzi,1,1,0,0,1,1,1,1,0
+Buenos Aires,Rojas,Rojas,1,1,1,1,1,1,1,1,0
+Buenos Aires,Roque Pérez,Carlos Beguerie,0,0,0,1,0,0,1,1,0
+Buenos Aires,Roque Pérez,Roque Pérez,1,1,1,1,1,1,1,1,0
+Buenos Aires,Saavedra,Arroyo Corto,0,0,0,1,0,0,1,0,0
+Buenos Aires,Saavedra,Dufaur,0,0,0,0,0,0,1,0,0
+Buenos Aires,Saavedra,Espartillar,0,0,0,1,1,0,1,1,0
+Buenos Aires,Saavedra,Goyena,0,0,0,1,0,0,0,0,0
+Buenos Aires,Saavedra,Pigüé,0,0,0,1,1,1,1,0,0
+Buenos Aires,Saavedra,Saavedra,0,0,0,1,1,1,1,1,0
+CABA,Comuna 15,Chacarita,1,1,1,1,1,1,1,1,1
+Córdoba,Calamuchita,San Agustín,1,0,0,0,1,1,1,1,0
+Córdoba,Calamuchita,San Ignacio (loteo San Javier),0,0,0,0,0,0,1,1,0
+Córdoba,Calamuchita,San Ignacio (loteo Vélez Crespo),0,0,0,0,1,1,0,1,0
+Córdoba,Calamuchita,Santa Rosa de Calamuchita,1,1,0,1,1,1,1,1,0
+Córdoba,Calamuchita,Segunda Usina,0,0,0,0,0,0,0,1,0
+CABA,Comuna 15,Paternal,1,1,1,1,1,1,1,1,1
+Córdoba,Tercero Arriba,Oliva,1,0,0,1,1,1,1,1,0
+Córdoba,Tercero Arriba,Pampayasta Norte,0,0,0,0,0,0,1,1,0
+Córdoba,Tercero Arriba,Pampayasta Sur,0,0,0,1,1,1,0,0,1
+Córdoba,Tercero Arriba,Punta del Agua,0,0,0,0,1,0,0,1,0
+Córdoba,Tercero Arriba,Río Tercero,1,1,0,1,1,1,1,1,1
+Córdoba,Calamuchita,Solar de Los Molinos,0,0,0,0,0,0,1,0,0
+Córdoba,Calamuchita,Villa Alpina,0,0,0,0,0,0,0,1,0
+Córdoba,Calamuchita,Villa Amancay,0,0,0,0,1,1,1,1,0
+Córdoba,Calamuchita,Villa Berna,1,0,0,0,1,0,1,1,0
+Córdoba,Calamuchita,Villa Ciudad Parque Los Reartes,0,1,0,0,1,0,0,0,0
+Córdoba,Calamuchita,Villa Ciudad Parque Los Reartes (1a. Sección),0,0,0,0,0,0,1,1,0
+Córdoba,Calamuchita,Villa Ciudad Parque Los Reartes (3a. Sección),0,0,0,0,0,0,0,1,0
+Córdoba,Calamuchita,Villa del Dique,1,0,0,1,1,1,0,1,0
+Córdoba,Calamuchita,Villa General Belgrano,0,1,0,0,1,1,1,1,1
+Córdoba,Calamuchita,Villa Quillinzo,0,0,0,0,0,0,0,1,0
+Córdoba,Calamuchita,Villa Rumipal,0,0,0,1,1,1,1,1,0
+Córdoba,Calamuchita,Villa San Miguel,0,0,0,0,0,1,0,1,0
+Córdoba,Calamuchita,Villa Yacanto,0,0,0,0,1,1,1,1,0
+Córdoba,Tercero Arriba,Tancacha,1,0,0,0,1,1,1,1,1
+Córdoba,Tercero Arriba,Villa Ascasubi,0,0,0,0,1,1,1,1,0
+Córdoba,Totoral,Cañada de Luque,0,0,0,0,1,1,1,0,0
+Córdoba,Totoral,Capilla de Sitón,0,0,0,0,1,0,1,0,0
+Córdoba,Totoral,Las Peñas,1,0,0,0,1,1,1,1,0
+Córdoba,Totoral,Sarmiento,1,0,0,0,0,0,1,0,0
+Córdoba,Totoral,Simbolar,0,0,0,0,0,0,1,0,0
+Córdoba,Totoral,Sinsacate,0,0,0,0,1,1,1,0,0
+Córdoba,Totoral,Villa del Totoral,1,0,0,1,1,1,1,1,0
+Córdoba,Tulumba,El Tuscal,0,0,0,0,0,0,1,0,0
+Córdoba,Capital,Córdoba,1,1,1,1,1,1,1,1,1
+Córdoba,Capital,Jardín Arenales,0,0,0,0,1,1,0,0,0
+Córdoba,Capital,La Floresta,0,0,0,0,1,1,0,0,0
+Córdoba,Colón,1 de Agosto,0,0,0,0,1,1,0,0,0
+Córdoba,Colón,Agua de Oro,1,0,0,1,1,1,0,1,0
+Córdoba,Colón,Ascochinga,1,0,0,1,1,1,1,0,0
+Córdoba,Colón,Casa Bamba,0,0,0,0,0,1,0,0,0
+Córdoba,Colón,Colonia Caroya,1,1,0,1,1,1,1,1,0
+Buenos Aires,La Matanza,Rafael Castillo,1,1,1,1,1,1,1,1,0
+Buenos Aires,La Matanza,Ramos Mejía,1,1,1,1,1,1,1,1,1
+Buenos Aires,La Matanza,San Justo,1,1,1,1,1,1,1,1,1
+Buenos Aires,La Matanza,Tapiales,1,1,1,1,1,1,1,1,1
+Buenos Aires,La Matanza,Villa Eduardo Madero,1,1,1,1,1,1,1,1,0
+Buenos Aires,Berazategui,Guillermo E. Hudson,1,1,1,1,1,1,1,0,0
+Buenos Aires,Berazategui,Juan María Gutierrez,1,1,1,1,1,1,1,1,0
+Buenos Aires,Berazategui,Pereyra,1,1,1,1,1,0,1,0,0
+Buenos Aires,Berazategui,Plátanos,0,1,0,1,1,1,1,0,0
+Buenos Aires,Berazategui,Ranelagh,1,1,1,1,1,1,1,0,1
+Buenos Aires,Berazategui,Villa España,1,1,0,1,1,1,1,0,0
+Buenos Aires,Berisso,Barrio Banco Provincia,0,0,0,0,1,0,0,0,0
+Buenos Aires,Berisso,Barrio El Carmen (este),0,0,0,1,1,1,0,1,0
+Buenos Aires,Berisso,Barrio Universitario,0,0,0,0,1,1,0,0,0
+Buenos Aires,La Matanza,Ciudad Evita,1,1,1,1,1,1,1,1,0
+Buenos Aires,La Matanza,Gonzalez Catán,1,1,1,1,1,1,1,1,1
+Buenos Aires,La Matanza,Gregorio de Laferrere,1,1,1,1,1,1,1,1,0
+Buenos Aires,La Matanza,Isidro Casanova,1,1,1,1,1,1,1,1,0
+Buenos Aires,La Matanza,La Tablada,1,1,1,1,1,1,1,1,0
+Buenos Aires,La Matanza,Lomas del Mirador,1,1,1,1,1,1,1,1,0
+Buenos Aires,Saladillo,Alvarez de Toledo,0,0,0,1,0,1,1,0,0
+Buenos Aires,Saladillo,Cazón,0,0,0,1,0,0,1,0,0
+Buenos Aires,Saladillo,del Carril,0,0,0,0,1,0,1,1,0
+Buenos Aires,Saladillo,Saladillo,1,1,0,1,1,1,1,1,0
+Buenos Aires,Salliqueló,Salliqueló,1,0,1,0,1,1,1,0,1
+Buenos Aires,Salto,Arroyo Dulce,1,0,0,1,1,1,1,1,0
+Buenos Aires,Salto,Gahan,0,0,0,0,0,1,1,0,0
+Buenos Aires,Salto,Inés Indart,0,0,0,1,1,0,1,0,1
+Buenos Aires,Salto,La Invencible,0,0,0,0,1,0,0,0,0
+Buenos Aires,Salto,Salto,1,1,1,1,1,1,1,0,0
+CABA,Comuna 15,Parque Chas,1,1,1,1,1,1,1,1,1
+Córdoba,Colón,Colonia Tirolesa,0,0,0,0,1,1,1,0,0
+Córdoba,Colón,Colonia Vicente Agüero,0,0,0,0,0,0,1,0,0
+Córdoba,Colón,Country Chacras de La Villa - Country San Isidro,0,0,0,0,1,1,0,0,0
+Córdoba,Colón,Dumesnil,0,0,0,1,1,0,0,0,0
+Córdoba,Colón,El Diquecito,0,0,0,0,1,0,0,0,0
+Córdoba,Colón,El Manzano,1,0,0,0,1,0,0,1,0
+Córdoba,Colón,El Pueblito,0,0,0,0,0,1,0,0,0
+Córdoba,Colón,General Paz,1,0,0,0,1,1,1,0,0
+Córdoba,Colón,Jesús María,1,1,0,1,1,1,1,0,0
+Córdoba,Colón,La Calera,1,1,0,1,1,1,1,1,1
+Córdoba,Colón,La Granja,1,0,0,1,1,0,1,1,0
+Córdoba,Colón,La Morada,0,0,0,0,1,1,0,0,0
+Córdoba,Colón,Las Corzuelas,0,0,0,0,1,0,0,0,0
+Córdoba,Colón,Villa Allende,1,1,0,1,1,1,1,1,0
+Córdoba,Colón,Villa Cerro Azul,1,0,0,0,0,0,0,1,0
+Córdoba,Colón,Villa El Fachinal - Parque Norte - Guiñazú Norte,1,0,0,0,0,0,1,0,1
+Córdoba,Colón,Villa Los Llanos - Juárez Celman,1,0,0,1,1,1,1,1,0
+Córdoba,Cruz del Eje,Alto de Los Quebrachos,0,0,0,0,0,0,0,1,0
+Córdoba,Cruz del Eje,Bañado de Soto,0,0,0,0,0,0,0,1,0
+Córdoba,Cruz del Eje,Canteras Quilpo,0,0,0,0,0,0,1,1,0
+Córdoba,Cruz del Eje,Cruz de Caña,0,0,0,0,0,0,0,1,0
+Córdoba,Cruz del Eje,Cruz del Eje,1,1,0,1,1,1,1,1,0
+Córdoba,Cruz del Eje,El Brete,0,0,0,1,0,0,0,1,0
+Córdoba,Cruz del Eje,Guanaco Muerto,0,0,0,0,0,0,0,1,0
+Córdoba,Cruz del Eje,La Banda,0,0,0,0,0,0,0,0,1
+Córdoba,Cruz del Eje,La Batea,0,0,0,0,0,0,0,1,0
+Córdoba,Tulumba,Las Arrias,1,0,0,0,1,1,1,0,0
+Córdoba,Tulumba,Lucio V. Mansilla,0,0,0,0,1,1,1,0,0
+Córdoba,Tulumba,Rosario del Saladillo,0,0,0,1,0,0,0,0,0
+Córdoba,Tulumba,San José de La Dormida,1,0,0,0,1,1,1,1,1
+Córdoba,Tulumba,San José de Las Salinas,0,0,0,0,1,1,0,0,0
+Córdoba,Tulumba,San Pedro Norte,0,0,0,0,0,0,0,1,0
+Córdoba,Tulumba,Villa Tulumba,0,0,0,1,1,1,1,1,0
+Córdoba,Unión,Alto Alegre,1,1,0,1,1,1,1,0,0
+Córdoba,Unión,Ana Zumarán,0,0,0,0,1,0,0,0,0
+Córdoba,Unión,Ballesteros,1,0,0,1,1,1,1,1,0
+Córdoba,Unión,Ballesteros Sur,0,0,0,1,0,0,1,1,0
+Córdoba,Unión,Bell Ville,1,1,0,1,1,1,1,0,0
+Córdoba,Unión,Benjamín Gould,0,0,0,0,1,0,1,1,0
+Buenos Aires,Bragado,Bragado,1,1,1,1,1,1,1,1,0
+Buenos Aires,Bragado,Comodoro Py,0,0,0,1,1,1,0,1,0
+Buenos Aires,Bragado,General O'brien,1,0,0,1,1,1,1,1,0
+Buenos Aires,Bragado,Irala,0,1,0,0,1,0,1,1,0
+Buenos Aires,Bragado,Mechita (est. Mecha),1,1,0,0,0,0,0,1,0
+Buenos Aires,Bragado,Olascoaga,0,0,0,0,0,0,0,1,0
+Buenos Aires,Bragado,Warnes,1,0,0,0,0,0,0,1,0
+Buenos Aires,Brandsen,Altamirano,0,0,0,0,1,0,1,0,0
+Buenos Aires,Brandsen,Barrio El Mirador,0,0,0,0,1,1,0,0,0
+Buenos Aires,Brandsen,Barrio Las Golondrinas,0,0,0,0,1,1,0,0,0
+Buenos Aires,Brandsen,Campos de Roca,0,0,0,0,1,1,0,0,0
+Buenos Aires,Carlos Casares,Carlos Casares,1,1,1,1,1,1,1,1,0
+Buenos Aires,Carlos Casares,La Sofía,0,0,0,0,1,1,0,1,0
+Buenos Aires,Carlos Casares,Mauricio Hirsch,0,0,0,0,0,0,1,1,0
+Buenos Aires,Carlos Casares,Moctezuma,0,0,0,0,1,0,1,1,0
+Buenos Aires,Carlos Casares,Smith,0,0,0,0,0,0,1,1,0
+Buenos Aires,Carlos Tejedor,Carlos Tejedor,1,1,1,1,1,1,1,1,0
+Buenos Aires,Carlos Tejedor,Colonia Seré,0,0,0,0,0,0,1,1,0
+Buenos Aires,Carlos Tejedor,Curarú,0,0,0,0,0,0,1,1,0
+Buenos Aires,Carlos Tejedor,Timote,0,0,0,0,0,0,1,1,0
+Buenos Aires,Carlos Tejedor,Tres Algarrobos (est. Cuenca),0,0,0,0,1,1,1,1,1
+Buenos Aires,Carmen de Areco,Carmen de Areco,1,1,1,1,1,1,1,1,0
+Buenos Aires,La Matanza,Villa Luzuriaga,1,1,1,1,1,1,1,1,0
+Buenos Aires,La Matanza,Virrey del Pino,1,1,0,1,1,1,1,1,0
+Buenos Aires,La Plata,Abasto,1,1,0,1,1,1,1,1,0
+Buenos Aires,La Plata,Angel Etcheverry,0,1,0,0,1,1,0,1,0
+Buenos Aires,La Plata,Arana,0,0,0,0,0,0,0,1,0
+Buenos Aires,La Plata,Arturo Segui,0,1,0,0,1,1,1,0,0
+Buenos Aires,La Plata,Barrio El Carmen Oeste,0,0,0,0,0,0,0,1,0
+Buenos Aires,La Plata,Barrio El Peligro,1,0,0,1,1,1,1,0,0
+Buenos Aires,La Plata,Barrio Gambier,0,0,0,0,1,1,0,1,0
+Buenos Aires,La Plata,Barrio Las Malvinas,0,0,0,0,1,1,0,0,0
+Buenos Aires,La Plata,Barrio Las Quintas,0,0,0,0,1,0,0,0,0
+Buenos Aires,La Plata,Villa Montoro,0,0,0,0,1,1,0,1,0
+Buenos Aires,La Plata,Villa Parque Sicardi,0,0,0,0,1,1,0,1,0
+Buenos Aires,Lanús,Gerli,1,1,1,1,1,1,1,0,0
+Buenos Aires,Lanús,Lanús Este,1,1,1,1,1,1,1,1,1
+Buenos Aires,Lanús,Lanús Oeste,0,1,1,1,1,1,1,1,0
+Buenos Aires,Lanús,Monte Chingolo,1,1,1,1,1,1,1,0,0
+Buenos Aires,Lanús,Remedios Escalada de San Martin,1,1,1,1,1,1,1,1,0
+Buenos Aires,San Cayetano,San Cayetano,1,1,0,1,1,1,1,1,0
+Buenos Aires,San Fernando,San Fernando,1,1,1,1,1,1,1,1,0
+Buenos Aires,San Fernando,Victoria,1,1,0,1,1,1,1,1,1
+Buenos Aires,San Fernando,Virreyes,1,1,0,1,1,1,1,0,0
+Buenos Aires,San Isidro,Acassuso,1,1,1,1,1,1,1,0,1
+Buenos Aires,San Isidro,Beccar,1,1,0,1,1,1,1,1,0
+Buenos Aires,San Miguel,Muñiz,1,1,1,1,1,1,1,0,0
+Buenos Aires,San Miguel,San Miguel,1,1,1,1,1,1,1,1,1
+Buenos Aires,San Nicolás,Conesa,1,0,0,1,1,1,1,1,1
+Buenos Aires,San Nicolás,Erézcano,0,0,0,0,0,0,0,1,0
+Buenos Aires,San Nicolás,General Rojo,0,0,0,1,1,1,1,0,1
+Buenos Aires,San Nicolás,La Emilia,0,0,0,0,1,1,0,0,0
+Buenos Aires,San Nicolás,San Nicolás de Los Arroyos,1,1,1,1,1,1,1,1,1
+Buenos Aires,San Nicolás,Villa Campi,0,0,0,0,0,1,0,0,0
+Buenos Aires,San Nicolás,Villa Canto,0,0,0,0,1,1,0,0,0
+CABA,Comuna 15,Villa Crespo,1,1,1,1,1,1,1,1,1
+Buenos Aires,Brandsen,Coronel Brandsen,1,0,0,1,1,1,1,1,0
+Buenos Aires,Brandsen,Gómez,0,0,0,0,1,0,1,0,0
+Buenos Aires,Brandsen,Jeppener,1,0,0,1,1,1,1,0,0
+Buenos Aires,Brandsen,Oliden,0,0,0,0,1,0,1,0,0
+Buenos Aires,Brandsen,Posada de Los Lagos,0,0,0,0,1,1,0,0,0
+Buenos Aires,Campana,Alto Los Cardales,0,0,0,1,1,1,0,1,0
+Buenos Aires,Campana,Barrio Los Pioneros,0,0,0,0,1,1,0,1,0
+Buenos Aires,Campana,Campana,1,1,1,1,1,1,1,1,1
+Buenos Aires,Campana,Chacras del Río Luján,0,0,0,0,1,1,0,1,0
+Buenos Aires,Campana,Lomas del Río Luján (est. Río Luján),0,1,0,0,1,1,0,0,0
+Buenos Aires,Cañuelas,Alejandro Petión,1,1,1,0,1,1,1,1,0
+Buenos Aires,La Plata,City Bell,0,1,0,1,1,1,1,1,0
+Buenos Aires,La Plata,Country Club El Rodeo,0,0,0,0,1,1,0,0,0
+Buenos Aires,La Plata,El Retiro,0,0,0,1,1,1,0,0,0
+Buenos Aires,La Plata,Esquina Negra,0,0,0,0,1,1,0,0,0
+Buenos Aires,La Plata,Ignacio Correas,0,0,0,0,0,0,0,1,0
+Buenos Aires,La Plata,Joaquin Gorina,0,1,0,1,1,1,1,0,0
+Buenos Aires,La Plata,Jose Hernandez,0,1,0,1,1,1,0,0,0
+Buenos Aires,La Plata,Jose Melchor Romero,0,1,0,0,1,1,0,0,0
+Buenos Aires,La Plata,La Cumbre,0,0,0,0,1,1,0,1,0
+Buenos Aires,La Plata,La Plata,1,1,1,1,1,1,1,1,1
+Buenos Aires,La Plata,Lisandro Olmos,0,1,0,0,1,1,0,0,0
+Buenos Aires,San Isidro,Boulogne Sur Mer,1,1,0,1,1,1,1,1,1
+Buenos Aires,San Isidro,Martínez,1,1,1,1,1,1,1,0,1
+Buenos Aires,San Isidro,San Isidro,1,1,1,1,1,1,1,1,1
+Buenos Aires,San Isidro,Villa Adelina,1,1,0,1,1,1,1,0,0
+Buenos Aires,San Miguel,Bella Vista,1,1,1,1,1,1,1,1,1
+Buenos Aires,San Miguel,Campo de Mayo,0,0,0,0,1,1,0,0,1
+CABA,Comuna 15,Villa Ortuzar,1,1,1,1,1,1,1,1,1
+Córdoba,Cruz del Eje,La Higuera,1,0,0,0,1,0,1,1,0
+Córdoba,Cruz del Eje,Las Cañadas,0,0,0,0,0,0,1,0,0
+Córdoba,Cruz del Eje,Las Playas,0,0,0,1,0,0,0,1,0
+Córdoba,Cruz del Eje,Los Chañaritos,0,0,0,1,0,0,0,1,0
+Córdoba,Cruz del Eje,Media Naranja,0,0,0,0,0,0,0,1,0
+Córdoba,Cruz del Eje,Paso Viejo,1,0,0,0,1,1,1,1,0
+Córdoba,Cruz del Eje,San Marcos Sierra,0,1,0,1,1,1,1,1,0
+Córdoba,Cruz del Eje,Serrezuela,1,0,0,1,1,1,1,1,0
+Córdoba,Cruz del Eje,Tuclame,0,0,0,1,0,0,0,1,0
+Córdoba,Cruz del Eje,Villa de Soto,1,0,0,1,1,1,1,1,1
+Córdoba,General Roca,del Campillo,1,0,0,1,1,0,1,0,1
+Córdoba,General Roca,Hipólito Bouchard,0,0,0,0,1,0,1,0,1
+Córdoba,General Roca,Huinca Renancó,1,0,1,1,1,1,1,1,0
+Córdoba,General Roca,Italó,0,0,0,0,1,1,1,0,0
+Córdoba,General Roca,Mattaldi,0,0,0,0,1,1,0,0,0
+Córdoba,General Roca,Nicolás Bruzzone,0,0,0,0,0,0,1,1,0
+Córdoba,General Roca,Onagoity,0,0,0,0,0,0,1,0,0
+Córdoba,General Roca,Pincén,0,0,0,0,0,0,1,0,0
+Córdoba,General Roca,Santa Magdalena (est. Jovita),0,1,0,1,1,1,1,1,0
+Córdoba,General Roca,Villa Huidobro,0,1,1,1,1,1,1,1,1
+Córdoba,General Roca,Villa Sarmiento,0,0,0,0,1,0,0,0,0
+Córdoba,General Roca,Villa Valeria,1,0,0,0,1,1,1,1,1
+Córdoba,General San Martín,Arroyo Algodón,1,0,0,1,1,1,0,1,0
+Córdoba,General San Martín,Arroyo Cabral,1,1,0,1,1,1,1,1,1
+Córdoba,Unión,Noetinger,0,0,0,1,1,1,1,1,0
+Córdoba,Unión,Ordóñez,1,0,0,1,1,1,1,0,0
+Córdoba,Unión,Pascanas,1,0,0,0,1,1,1,1,0
+Córdoba,Unión,Pueblo Italiano,0,1,0,0,1,0,1,0,1
+Córdoba,Unión,Ramón J. Cárcano,0,0,0,0,0,0,0,1,0
+Córdoba,Unión,San Antonio de Litín,1,0,0,1,1,1,1,1,0
+Córdoba,Unión,San Marcos,1,0,0,1,1,1,1,0,0
+Córdoba,Unión,San Severo,0,0,0,0,1,0,0,0,0
+Córdoba,Unión,Viamonte,1,0,0,0,1,1,1,0,0
+Córdoba,Unión,Wenceslao Escalante,1,1,0,0,1,1,1,1,1
+Buenos Aires,Carmen de Areco,Tres Sargentos,0,0,0,0,1,0,1,1,0
+Buenos Aires,Castelli,Castelli,1,1,0,1,1,1,1,1,1
+Buenos Aires,Castelli,Centro Guerrero,0,0,0,1,0,0,0,1,0
+Buenos Aires,Castelli,Cerro de La Gloria,0,0,0,1,0,1,0,0,0
+Buenos Aires,Chacabuco,Castilla,0,0,0,0,0,0,1,1,0
+Buenos Aires,Chacabuco,Chacabuco,1,1,1,1,1,1,1,1,0
+Buenos Aires,Chacabuco,Los Angeles,0,0,0,0,1,1,0,0,0
+Buenos Aires,Chacabuco,O'higgins,1,0,0,1,1,1,1,1,0
+Buenos Aires,Chacabuco,Rawson,1,0,0,1,1,1,1,1,0
+Buenos Aires,Chascomús,Barrio San Cayetano,0,0,0,1,1,1,0,0,0
+Buenos Aires,Chascomús,Chascomús,1,1,1,1,1,1,1,0,1
+Buenos Aires,Chascomús,Laguna Vitel,0,0,0,0,1,1,0,1,0
+Buenos Aires,Chascomús,Manuel J. Cobo (est. Lezama),1,1,0,0,1,1,1,1,0
+Buenos Aires,Chascomús,Villa Parque Girado,0,0,0,0,1,1,0,0,0
+Buenos Aires,Chivilcoy,Chivilcoy,1,1,1,1,1,1,1,1,1
+Buenos Aires,Chivilcoy,Gorostiaga,1,0,0,0,0,0,0,1,0
+Buenos Aires,Chivilcoy,La Rica,1,0,0,0,0,0,1,1,0
+Buenos Aires,Chivilcoy,Moquehuá,0,1,0,1,1,0,1,1,0
+Buenos Aires,Chivilcoy,Ramón Biaus,1,0,0,0,0,0,1,1,0
+Buenos Aires,Chivilcoy,San Sebastián,1,0,0,0,0,0,1,1,0
+Buenos Aires,Lanús,Valentín Alsina,1,1,1,1,1,1,1,1,0
+Buenos Aires,Laprida,Laprida,0,1,0,1,1,1,1,0,0
+Buenos Aires,Laprida,Pueblo Nuevo,0,0,0,0,0,0,0,1,0
+Buenos Aires,Laprida,Pueblo San Jorge,0,0,0,0,0,0,1,1,0
+Buenos Aires,Las Flores,Coronel Boerr,0,0,0,0,0,0,0,1,0
+Buenos Aires,Las Flores,El Trigo,0,0,0,1,0,0,0,1,0
+Buenos Aires,Las Flores,Las Flores,1,0,0,1,1,1,1,1,0
+Buenos Aires,Las Flores,Pardo,0,0,0,0,1,1,0,1,0
+Buenos Aires,Leandro N. Alem,Alberdi Viejo,1,0,0,0,1,1,0,1,0
+Buenos Aires,Leandro N. Alem,El Dorado,0,0,0,0,0,0,1,1,1
+Buenos Aires,Leandro N. Alem,Fortín Acha,0,0,0,0,0,0,0,1,0
+Buenos Aires,Leandro N. Alem,Juan Bautista Alberdi (est. Alberdi),1,1,0,1,1,1,1,1,0
+Buenos Aires,Lobería,Licenciado Matienzo,0,0,0,0,0,0,0,1,0
+Buenos Aires,Leandro N. Alem,Leandro N. Alem,0,1,0,0,1,1,0,1,0
+Buenos Aires,Leandro N. Alem,Vedia,1,0,0,1,1,1,1,1,1
+Buenos Aires,Lincoln,Arenaza,0,0,0,1,1,1,1,0,0
+Buenos Aires,Lincoln,Bayauca,0,0,0,0,1,0,1,1,0
+Buenos Aires,Lincoln,Carlos Salas,0,0,0,0,0,0,0,1,0
+Buenos Aires,Lincoln,Coronel Martínez de Hoz (ap. Kilómetro 322),1,0,0,0,1,1,1,0,0
+Buenos Aires,Lincoln,El Triunfo,0,0,1,1,1,1,1,0,0
+Buenos Aires,Lincoln,Las Toscas,1,0,0,0,0,0,1,0,0
+Buenos Aires,Lincoln,Lincoln,1,1,1,1,1,1,1,0,0
+Buenos Aires,Lincoln,Pasteur,0,0,0,0,1,1,1,1,1
+Buenos Aires,Lincoln,Roberts,0,0,1,1,1,1,1,0,0
+Buenos Aires,Lobería,Arenas Verdes,0,0,0,0,1,1,0,1,0
+Buenos Aires,San Pedro,Gobernador Castro,0,0,0,0,1,1,0,0,0
+Buenos Aires,San Pedro,Obligado,0,0,0,0,1,0,0,0,0
+Buenos Aires,San Pedro,Río Tala,0,0,0,1,1,1,0,0,0
+Buenos Aires,San Pedro,San Pedro,1,1,0,1,1,1,1,1,1
+Buenos Aires,San Pedro,Santa Lucía,0,0,0,1,1,1,1,0,1
+Buenos Aires,San Vicente,Alejandro Korn,1,1,1,1,1,1,1,1,0
+Buenos Aires,San Vicente,Domselaar,0,1,0,0,1,1,1,1,0
+Buenos Aires,San Vicente,San Vicente,1,1,1,1,1,1,1,1,0
+Buenos Aires,Suipacha,General Rivas,1,0,0,0,1,0,1,1,0
+Buenos Aires,Suipacha,Suipacha,1,0,1,1,1,1,1,1,0
+Buenos Aires,Tandil,de La Canal,0,0,0,0,0,0,0,1,0
+Buenos Aires,Tandil,Desvío Aguirre,0,0,0,1,1,1,0,1,0
+Buenos Aires,Tandil,Gardey,0,0,0,1,1,1,1,1,0
+Buenos Aires,Tandil,María Ignacia (est. Vela),1,0,0,0,1,0,1,1,0
+Buenos Aires,Tandil,Tandil,1,1,1,1,1,1,1,1,1
+Buenos Aires,Tapalqué,Tapalqué,0,0,0,0,1,1,1,0,1
+Buenos Aires,Tigre,Benavídez,1,1,0,1,1,1,1,1,1
+Córdoba,General San Martín,Ausonia,0,0,0,1,1,1,1,1,0
+Córdoba,General San Martín,Chazón,0,1,0,0,1,1,1,0,0
+Córdoba,General San Martín,Etruria,1,1,0,0,1,1,1,0,1
+Córdoba,General San Martín,La Laguna,1,0,0,0,1,1,1,0,0
+Córdoba,General San Martín,La Palestina,0,0,0,0,1,0,1,1,0
+Córdoba,General San Martín,La Playosa,1,0,0,0,1,1,0,1,1
+Córdoba,General San Martín,Las Mojarras,0,0,0,0,1,1,0,0,0
+Córdoba,General San Martín,Luca,0,0,0,0,1,0,1,0,0
+Córdoba,General San Martín,Pasco,0,0,0,1,1,0,1,0,0
+Córdoba,General San Martín,Sanabria,0,0,0,0,0,0,1,0,0
+Córdoba,General San Martín,Silvio Pellico,1,0,0,0,1,0,1,1,0
+Córdoba,General San Martín,Ticino,0,1,0,1,1,1,1,0,1
+Córdoba,General San Martín,Tío Pujio,1,0,0,1,1,1,1,1,0
+Córdoba,General San Martín,Villa Albertina,0,0,0,0,1,1,0,0,0
+Córdoba,General San Martín,Villa María,1,1,0,1,1,1,1,1,1
+Córdoba,General San Martín,Villa Nueva,1,1,0,1,1,1,1,1,1
+Córdoba,General San Martín,Villa Oeste,0,0,0,0,1,1,0,0,0
+Córdoba,Ischilín,Chuña,0,0,0,0,1,0,0,1,1
+Córdoba,Ischilín,Copacabana,0,0,0,0,0,0,1,1,0
+Córdoba,Ischilín,Deán Funes,1,1,0,1,1,1,1,0,1
+Córdoba,Ischilín,Esquina del Alambre,0,0,0,0,0,0,0,1,0
+Córdoba,Ischilín,Los Pozos,0,0,0,0,1,1,0,0,0
+Córdoba,Ischilín,Olivares de San Nicolás,0,0,0,0,0,0,0,1,0
+Córdoba,Ischilín,Quilino,1,0,0,1,1,1,1,0,0
+Salta,Anta,Centro 25 de Junio,0,0,0,0,1,1,0,0,0
+Salta,Anta,Coronel Mollinedo,0,0,0,0,1,0,0,1,1
+Salta,Anta,Coronel Olleros,0,0,0,0,1,0,0,1,0
+Salta,Anta,El Quebrachal,0,1,0,1,1,1,1,0,1
+Salta,Anta,Gaona,0,1,0,1,1,0,1,0,1
+Salta,Anta,General Pizarro,0,0,0,1,1,0,0,1,1
+Salta,Anta,Joaquín V. González,1,1,0,1,1,1,1,0,1
+Salta,Anta,Las Lajitas,0,1,0,1,1,1,1,1,1
+Salta,Anta,Luis Burela,0,0,0,0,0,0,0,1,0
+Salta,Anta,Nuestra Señora de Talavera,0,0,0,0,1,1,0,0,0
+Salta,Anta,Piquete Cabado,0,0,0,0,0,0,0,1,1
+Salta,Anta,Río del Valle,0,0,0,0,0,0,0,1,1
+Salta,Anta,Tolloche,0,0,0,1,0,0,0,0,1
+Salta,Cachi,Cachi,0,0,0,1,1,1,1,1,1
+Salta,Cachi,Payogasta,0,0,0,0,1,0,1,1,0
+Santa Fe,Castellanos,Humberto Primo,1,1,0,1,1,1,1,1,0
+Santa Fe,Castellanos,Josefina,1,1,0,0,1,1,1,1,0
+Santa Fe,Castellanos,Lehmann,1,1,0,1,1,1,1,1,0
+Santa Fe,Castellanos,María Juana,1,1,0,1,1,1,1,1,0
+Santa Fe,Castellanos,Plaza Clucellas,1,1,0,0,1,1,1,0,0
+Santa Fe,Castellanos,Plaza Saguier,0,1,0,0,1,0,0,0,0
+Santa Fe,Castellanos,Presidente Roca,0,1,0,1,1,0,1,1,0
+Santa Fe,Castellanos,Pueblo Marini,0,0,0,0,0,0,0,1,0
+Santa Fe,Castellanos,Rafaela,1,1,0,1,1,1,1,1,1
+Santa Fe,Castellanos,Ramona,1,0,0,0,1,1,1,1,0
+Santa Fe,Castellanos,San Antonio,0,1,0,0,0,0,0,1,0
+Santa Fe,Castellanos,San Vicente,1,1,0,0,1,1,1,1,0
+Santa Fe,Castellanos,Santa Clara de Saguier,1,1,0,0,1,0,1,1,0
+Santa Fe,Castellanos,Sunchales,1,1,0,1,1,1,1,1,0
+Santa Fe,Castellanos,Susana,0,0,0,1,1,1,1,1,0
+Santa Fe,Castellanos,Tacural,1,0,0,1,1,1,1,0,0
+Santa Fe,Castellanos,Vila,1,0,0,0,1,1,1,0,0
+Santa Fe,Castellanos,Villa San José,0,1,0,0,0,0,1,1,0
+Santa Fe,Castellanos,Virginia,0,0,0,0,0,0,0,1,0
+Santa Fe,Castellanos,Zenón Pereyra,0,1,0,0,1,1,0,0,0
+Santa Fe,Constitución,Alcorta,1,1,0,1,1,1,1,1,0
+Santa Fe,Constitución,Barrio Mitre,0,0,0,0,1,1,0,0,0
+Santa Fe,San Cristóbal,Soledad,0,0,0,0,1,0,1,1,0
+Santa Fe,San Cristóbal,Suardi,0,0,0,1,1,1,1,0,0
+Santa Fe,San Cristóbal,Villa Saralegui,0,0,0,0,1,1,0,1,0
+Santa Fe,San Cristóbal,Villa Trinidad,0,0,0,0,1,1,1,0,0
+Santa Fe,San Javier,Alejandra,0,0,0,0,1,0,1,1,1
+Santa Fe,San Javier,Cacique Ariacaiquín,0,0,0,0,1,0,1,1,0
+Santa Fe,San Javier,Colonia Durán,0,0,0,0,0,0,0,0,1
+Santa Fe,San Javier,La Brava,0,0,0,0,1,0,0,1,0
+Santa Fe,San Javier,Romang,0,1,0,1,1,1,1,1,0
+Santa Fe,San Javier,San Javier,0,1,0,1,1,1,1,1,0
+Santa Fe,San Jerónimo,Arocena,0,1,0,0,1,1,0,0,0
+Santa Fe,San Jerónimo,Barrancas,1,0,0,0,1,1,1,0,0
+Santa Fe,San Jerónimo,Barrio Caima,0,0,0,0,0,0,0,1,0
+Santa Fe,San Jerónimo,Bernardo de Irigoyen (est. Irigoyen),0,0,0,1,1,1,1,0,0
+Santa Fe,San Jerónimo,Casalegno,0,0,0,0,0,0,1,0,0
+Santa Fe,San Jerónimo,Centeno,1,0,0,1,1,1,1,0,0
+Santa Fe,San Jerónimo,Coronda,1,0,0,1,1,1,1,1,0
+Santa Fe,San Jerónimo,Desvío Arijón,1,0,0,0,1,1,1,1,0
+Santa Fe,San Jerónimo,Díaz,1,0,0,1,1,0,1,0,0
+Santa Fe,San Jerónimo,Gaboto,0,0,0,0,1,1,1,1,0
+Santa Fe,San Jerónimo,Gálvez,1,0,0,1,1,1,1,1,1
+Santa Fe,San Jerónimo,Gessler,1,0,0,1,1,0,1,1,0
+Santa Fe,San Jerónimo,Irigoyen,0,1,0,0,1,0,0,1,0
+Santa Fe,San Jerónimo,Larrechea,0,0,0,0,1,0,1,1,0
+Santa Fe,San Jerónimo,Loma Alta,1,0,0,1,0,0,1,0,0
+Tucumán,Tafí Viejo,Diagonal Norte - Luz Y Fuerza - Los Pocitos - Villa Nueva Italia (6),0,0,0,1,1,0,1,0,0
+Tucumán,Tafí Viejo,El Cadillal,0,0,0,0,1,1,1,0,0
+Tucumán,Tafí Viejo,Tafí Viejo,1,1,0,1,1,1,1,1,0
+Tucumán,Tafí Viejo,Villa Las Flores,0,0,0,0,1,1,0,0,0
+Tucumán,Tafí Viejo,Villa Mariano Moreno - El Colmenar,0,0,0,1,1,1,1,0,0
+Tucumán,Trancas,Choromoro,0,0,0,0,1,1,0,0,0
+Tucumán,Trancas,San Pedro de Colalao,0,0,0,0,1,1,1,1,0
+Tucumán,Trancas,Villa de Trancas,1,0,0,0,1,1,1,1,0
+Tucumán,Yerba Buena,Barrio San José Iii,0,0,0,0,1,0,0,0,0
+Tucumán,Yerba Buena,Cevil Redondo,0,0,0,0,1,1,0,0,0
+Tucumán,Yerba Buena,Ex Ingenio San Jose,0,0,0,0,1,1,0,0,0
+Tucumán,Yerba Buena,Villa Carmela,1,0,0,0,1,1,1,1,0
+Tucumán,Yerba Buena,Villa San Javier,0,0,0,0,1,1,0,0,0
+Buenos Aires,Colón,Colón,1,1,0,1,1,1,1,1,0
+Buenos Aires,Colón,El Arbolito,0,0,0,0,0,0,1,0,0
+Buenos Aires,Colón,Pearson,0,0,0,0,0,0,1,0,0
+Buenos Aires,Colón,Sarasa,0,0,0,0,0,0,0,1,0
+Buenos Aires,Coronel de Marina L. Rosales,Bajo Hondo,0,0,0,1,1,1,1,1,0
+Buenos Aires,Coronel de Marina L. Rosales,Balneario Pehuen Co,0,0,0,0,1,1,1,0,1
+Buenos Aires,Coronel de Marina L. Rosales,Pago Chico,0,0,0,0,1,1,0,1,0
+Buenos Aires,Coronel de Marina L. Rosales,Punta Alta (est Almirante Solier),1,1,1,1,1,1,1,0,1
+Buenos Aires,Coronel de Marina L. Rosales,Villa del Mar,0,0,0,1,1,1,0,0,0
+Buenos Aires,Coronel de Marina L. Rosales,Villa General Arias (est. Kilómetro 638),0,0,0,1,1,0,1,0,0
+Buenos Aires,Coronel Dorrego,Aparicio,0,0,0,0,1,1,1,0,0
+Buenos Aires,Coronel Dorrego,Balneario Marisol,0,0,0,1,0,0,1,0,0
+Buenos Aires,Lobería,Lobería,1,0,1,1,1,1,1,1,1
+Buenos Aires,Lobería,Pieres,0,0,0,0,1,0,1,1,0
+Buenos Aires,Lobería,San Manuel,0,0,0,1,1,1,1,1,0
+Buenos Aires,Lobería,Tamangueyú,0,0,0,0,0,0,0,1,0
+Buenos Aires,Lobos,Antonio Carboni,1,0,1,1,0,0,1,1,0
+Buenos Aires,Lobos,Elvira,0,0,0,1,0,0,1,1,0
+Buenos Aires,Lobos,Laguna de Lobos,0,0,0,0,1,1,0,0,0
+Buenos Aires,Lobos,Lobos,1,1,1,1,1,1,1,1,0
+Buenos Aires,Lobos,Salvador María,1,0,0,1,1,0,1,1,0
+Buenos Aires,Lomas de Zamora,Banfield,1,1,1,1,1,1,1,0,1
+Buenos Aires,Tigre,Dique Luján,1,1,0,1,1,1,1,1,0
+Buenos Aires,Tigre,Don Torcuato Este,1,1,1,1,1,1,1,1,0
+Buenos Aires,Tigre,Don Torcuato Oeste,0,0,0,0,1,1,0,1,0
+Buenos Aires,Tigre,El Talar,1,1,0,1,1,1,1,1,1
+Buenos Aires,Tigre,General Pacheco,1,1,0,1,1,1,1,1,1
+Buenos Aires,Tigre,Los Troncos del Talar,1,1,0,1,1,1,1,0,1
+Buenos Aires,Tigre,Nordelta,1,1,0,1,1,1,1,0,0
+Córdoba,Ischilín,Villa Quilino,0,0,0,1,1,1,0,0,0
+Córdoba,Juárez Celman,Alejandro Roca (est. Alejandro),1,0,0,0,1,1,1,1,0
+Córdoba,Juárez Celman,Bengolea,0,0,0,1,1,1,1,0,0
+Córdoba,Juárez Celman,Carnerillo,1,0,0,1,1,1,1,1,1
+Córdoba,Juárez Celman,Charras,0,0,0,1,1,1,1,1,0
+Córdoba,Juárez Celman,El Rastreador,0,0,0,0,0,0,1,0,0
+Córdoba,Juárez Celman,General Cabrera,1,0,0,0,1,1,1,0,0
+Córdoba,Juárez Celman,General Deheza,1,1,0,1,1,1,1,0,0
+Córdoba,Juárez Celman,Huanchillas,0,0,0,1,1,0,1,0,0
+Córdoba,Juárez Celman,La Carlota,1,0,0,0,1,1,1,0,0
+Entre Ríos,Diamante,Aldea Brasilera,0,0,0,0,1,1,1,1,0
+Entre Ríos,Diamante,Aldea Protestante,1,0,0,1,1,0,1,1,0
+Entre Ríos,Diamante,Aldea Salto,0,0,0,0,0,0,1,0,0
+Entre Ríos,Diamante,Aldea Spatzenkutter,0,0,0,0,0,0,1,1,0
+Entre Ríos,Diamante,Aldea Valle María,0,0,0,1,1,0,1,1,0
+Entre Ríos,Diamante,Colonia Ensayo,0,0,0,0,0,0,1,1,0
+Entre Ríos,Diamante,Diamante,1,1,0,0,1,1,1,1,0
+Entre Ríos,Diamante,Estación Camps,0,0,0,0,0,0,1,1,0
+Entre Ríos,Diamante,General Alvear,0,0,0,0,1,0,1,1,0
+Entre Ríos,Diamante,General Racedo,0,0,0,0,1,0,1,1,0
+Entre Ríos,Diamante,General Ramírez,1,1,0,0,1,1,1,1,0
+Santa Fe,Constitución,Bombal,1,1,0,1,1,1,1,0,0
+Santa Fe,Constitución,Cañada Rica,0,0,0,0,1,0,1,0,0
+Santa Fe,Constitución,Cepeda,0,0,0,0,0,0,0,1,0
+Santa Fe,Constitución,Empalme Villa Constitución,1,0,0,0,1,0,1,0,0
+Santa Fe,Constitución,General Gelly,1,0,0,0,1,0,0,1,0
+Santa Fe,Constitución,Godoy,0,0,0,0,1,1,1,1,0
+Santa Fe,Constitución,Juan B. Molina,1,0,0,0,1,1,1,1,0
+Santa Fe,Constitución,Juncal,1,0,0,1,0,0,1,1,0
+Santa Fe,Constitución,La Vanguardia,0,0,0,1,0,0,1,0,0
+Santa Fe,Constitución,Máximo Paz (est. Paz),1,1,0,0,1,1,1,1,0
+Santa Fe,Constitución,Pavón,1,0,0,0,1,1,1,0,0
+Santa Fe,Constitución,Pavón Arriba,0,1,0,1,1,1,1,1,0
+Santa Fe,Constitución,Peyrano,0,1,0,0,1,0,1,0,0
+Santa Fe,Constitución,Rueda,0,0,0,0,0,0,1,1,0
+Santa Fe,Constitución,Santa Teresa,1,1,0,1,1,1,1,1,0
+Santa Fe,Constitución,Sargento Cabral,0,0,0,1,1,0,1,1,0
+Santa Fe,Constitución,Stephenson,0,0,0,0,1,0,0,0,0
+Santa Fe,Constitución,Theobald,0,0,0,0,1,0,1,0,0
+Santa Fe,Constitución,Villa Constitución,1,1,0,1,1,1,1,1,0
+Santa Fe,Garay,Cayastá,0,0,0,0,1,1,1,1,0
+Santa Fe,Garay,Helvecia,0,1,0,0,1,0,1,1,0
+Santa Fe,Garay,Los Zapallos,0,1,0,0,1,0,1,0,0
+Santa Fe,Garay,Saladero Mariano Cabal,0,0,0,0,1,0,1,1,1
+Santa Fe,Garay,Santa Rosa de Calchines,1,1,0,0,1,1,1,0,0
+Santa Fe,General López,Aarón Castellanos (est. Castellanos),0,0,0,0,1,0,1,1,0
+Santa Fe,General López,Amenábar,1,0,0,0,1,1,1,1,0
+Santa Fe,General López,Cafferata,1,0,0,1,1,1,0,0,0
+Santa Fe,San Jerónimo,López (est. San Martín de Tours),1,1,0,0,1,0,1,0,0
+Santa Fe,San Jerónimo,Maciel,1,1,0,0,1,1,1,1,0
+Santa Fe,San Jerónimo,Monje,0,0,0,1,1,1,1,0,0
+Santa Fe,San Jerónimo,San Eugenio,0,1,0,0,1,0,0,0,0
+Santa Fe,San Jerónimo,San Fabián,1,1,0,0,0,0,1,1,0
+Santa Fe,San Jerónimo,San Genaro,1,0,0,1,1,1,1,1,0
+Santa Fe,San Jerónimo,San Genaro Norte,1,1,0,1,1,0,1,1,0
+Santa Fe,San Justo,Angeloni,0,0,0,0,0,0,0,1,0
+Santa Fe,San Justo,Cayastacito,0,0,0,0,0,0,1,1,0
+Santa Fe,San Justo,Colonia Dolores,0,0,0,0,1,0,0,1,0
+Santa Fe,San Justo,Esther,0,0,0,0,0,0,0,1,0
+Santa Fe,San Justo,Gobernador Crespo,1,1,0,0,1,1,1,1,0
+Santa Fe,San Justo,La Criolla (est. Cañadita),1,1,0,0,1,0,1,1,0
+Santa Fe,San Justo,La Penca Y Caraguatá,0,0,0,0,0,0,1,1,0
+Santa Fe,San Justo,Marcelino Escalada,1,1,0,0,1,1,1,1,0
+Santa Fe,San Justo,Naré,0,0,0,0,0,0,1,1,0
+Santa Fe,San Justo,Pedro Gómez Cello,0,0,0,0,1,0,1,1,0
+Santa Fe,San Justo,Ramayón,0,0,0,0,0,0,1,1,0
+Santa Fe,San Justo,San Bernardo,0,0,0,0,0,0,0,1,0
+Santa Fe,San Justo,San Justo,1,0,0,1,1,1,1,1,0
+Santa Fe,San Justo,San Martín Norte,0,0,0,0,1,0,1,1,0
+Santa Fe,San Justo,Silva (est. Abipones),0,0,0,0,0,0,0,1,0
+Santa Fe,San Justo,Vera Y Pintado (est. Guaraníes),1,0,0,1,1,0,1,1,0
+Santa Fe,San Justo,Videla,1,0,0,1,1,0,1,1,0
+Santa Fe,San Lorenzo,Aldao,0,1,0,0,1,0,1,0,0
+Tucumán,Yerba Buena,Yerba Buena - Marcos Paz,1,1,0,1,1,1,1,0,0
+Buenos Aires,Coronel Dorrego,Coronel Dorrego,1,1,1,1,1,1,1,1,0
+Buenos Aires,Coronel Dorrego,El Perdido (est. José A. Guisasola),0,0,0,1,1,1,1,1,0
+Buenos Aires,Coronel Dorrego,Irene,0,0,0,0,1,1,0,0,0
+Buenos Aires,Coronel Dorrego,Oriente,0,0,0,1,1,0,1,1,0
+Buenos Aires,Coronel Dorrego,Paraje La Ruta,0,0,0,0,1,0,0,0,0
+Buenos Aires,Coronel Dorrego,San Román,0,0,0,0,1,1,0,0,0
+Buenos Aires,Coronel Pringles,Coronel Pringles (est. Pringles),1,1,1,1,1,1,1,1,0
+Buenos Aires,Coronel Pringles,El Divisorio,0,0,0,0,1,0,0,0,0
+Buenos Aires,Coronel Pringles,Indio Rico,0,0,1,1,1,1,1,1,0
+Buenos Aires,Coronel Suárez,Coronel Suárez,1,1,1,1,1,1,1,1,0
+Buenos Aires,Lomas de Zamora,Llavallol,1,1,1,1,1,1,1,1,0
+Buenos Aires,Lomas de Zamora,Lomas de Zamora,1,1,1,1,1,1,1,1,1
+Buenos Aires,Lomas de Zamora,Temperley,1,1,1,1,1,1,1,0,1
+Buenos Aires,Lomas de Zamora,Turdera,1,1,1,1,1,1,1,0,0
+Buenos Aires,Lomas de Zamora,Villa Centenario,0,1,0,1,1,1,0,1,0
+Buenos Aires,Lomas de Zamora,Villa Fiorito,0,1,0,1,1,1,1,1,0
+Córdoba,Colón,Los Molles,0,0,0,0,0,0,0,0,1
+Buenos Aires,Tigre,Ricardo Rojas,1,1,0,1,1,1,1,0,0
+Buenos Aires,Tigre,Rincón de Milberg,1,1,0,1,1,1,1,1,0
+Buenos Aires,Tigre,Tigre,1,1,0,1,1,1,1,1,1
+Buenos Aires,Tordillo,General Conesa,1,1,0,0,1,1,1,1,0
+Buenos Aires,Tordillo,Villa Roch,0,0,0,0,1,1,0,1,0
+Buenos Aires,Tornquist,Chasicó,0,0,0,0,0,0,1,0,0
+Buenos Aires,Tornquist,Saldungaray,1,0,0,0,1,1,1,0,0
+Buenos Aires,Tornquist,Sierra de La Ventana,0,1,0,1,1,1,1,0,0
+Córdoba,Colón,Malvinas Argentinas,1,0,0,1,1,1,1,1,0
+Córdoba,Colón,Mendiolaza,1,1,0,1,1,1,1,1,0
+Córdoba,Colón,Mi Granja,0,0,0,1,0,0,1,0,0
+Córdoba,Colón,Pajas Blancas,0,0,0,0,1,1,0,1,0
+Córdoba,Colón,Río Ceballos,1,1,0,1,1,1,1,1,1
+Córdoba,Colón,Saldán,1,1,0,1,1,1,1,1,0
+Córdoba,Colón,Salsipuedes,1,1,0,1,1,1,1,1,0
+Córdoba,Colón,Tinoco,0,0,0,0,0,0,1,0,0
+Córdoba,Colón,Unquillo,1,1,0,1,1,1,1,1,0
+Córdoba,Juárez Celman,Los Cisnes,1,0,0,1,1,0,1,1,0
+Córdoba,Juárez Celman,Olaeta,0,1,0,0,1,0,1,0,0
+Córdoba,Juárez Celman,Santa Eufemia,0,1,0,0,1,1,1,1,1
+Córdoba,Juárez Celman,Ucacha,1,1,0,1,1,1,1,1,0
+Córdoba,Juárez Celman,Villa Reducción,0,0,0,0,1,1,1,1,0
+Córdoba,Marcos Juárez,Alejo Ledesma,0,0,0,1,1,1,1,1,1
+Córdoba,Marcos Juárez,Arias,1,0,0,0,1,1,1,0,0
+Córdoba,Marcos Juárez,Camilo Aldao,1,0,0,1,1,1,1,0,1
+Córdoba,Marcos Juárez,Capitán General Bernardo O'higgins,1,0,0,0,0,0,1,1,0
+Córdoba,Marcos Juárez,Cavanagh,0,0,0,0,1,0,1,1,0
+Entre Ríos,Colón,Arroyo Barú,0,0,0,1,1,0,1,1,1
+Buenos Aires,Coronel Suárez,Huanguelén,0,0,1,1,1,1,1,1,0
+Buenos Aires,Coronel Suárez,Pasman,0,0,0,0,0,0,0,1,0
+Buenos Aires,Coronel Suárez,San José,0,1,0,1,1,0,1,0,0
+Buenos Aires,Coronel Suárez,Santa María,0,1,0,1,1,0,1,0,0
+Buenos Aires,Coronel Suárez,Santa Trinidad,0,1,0,1,1,1,1,0,0
+Buenos Aires,Coronel Suárez,Villa La Arcadia,0,1,0,1,0,0,0,0,0
+Buenos Aires,Daireaux,Arboledas,0,0,0,0,1,0,1,0,0
+Buenos Aires,Daireaux,Daireaux,1,0,0,0,1,1,1,1,1
+Buenos Aires,Daireaux,Salazar,0,0,0,0,1,1,1,1,0
+Buenos Aires,Dolores,Dolores,1,1,1,1,1,1,1,1,0
+Buenos Aires,Dolores,Sevigne,0,0,0,0,1,1,1,1,0
+Buenos Aires,Luján,Barrio Las Casuarinas,0,0,0,1,1,1,1,1,0
+Buenos Aires,Luján,Carlos Keen,0,0,0,0,1,1,1,1,0
+Buenos Aires,Luján,Club de Campo Los Puentes,0,0,0,0,1,1,0,0,0
+Buenos Aires,Luján,Cortines,1,0,0,1,1,1,1,1,0
+Buenos Aires,Luján,Country Club Las Praderas,0,0,0,0,1,0,0,0,0
+Buenos Aires,Luján,José María Jáuregui (est. Jáuregui),1,1,0,1,1,1,1,1,0
+Buenos Aires,Luján,Lezica Y Torrezuri,0,0,0,0,1,1,0,1,0
+Buenos Aires,Luján,Luján,1,1,1,1,1,1,1,1,1
+Buenos Aires,Luján,Olivera,0,0,0,1,1,1,1,1,0
+Córdoba,Punilla,Las Jarillas,0,0,0,0,0,0,0,1,0
+Buenos Aires,Tornquist,Tornquist,1,1,0,1,1,1,1,0,1
+Buenos Aires,Tornquist,Tres Picos,0,0,0,0,1,0,0,0,0
+Buenos Aires,Tornquist,Villa Serrana La Gruta,0,1,0,0,0,0,0,0,0
+Buenos Aires,Tornquist,Villa Ventana,1,0,0,0,1,0,1,0,0
+Buenos Aires,Trenque Lauquen,30 de Agosto,0,1,0,1,1,1,1,0,0
+Buenos Aires,Trenque Lauquen,Berutti,0,0,0,1,1,1,1,0,0
+Buenos Aires,Trenque Lauquen,Girodias,1,0,0,0,0,0,1,1,0
+Buenos Aires,Trenque Lauquen,La Carreta,0,0,0,0,0,0,0,1,0
+Buenos Aires,Trenque Lauquen,Trenque Lauquen,1,0,1,1,1,1,1,1,1
+Buenos Aires,Trenque Lauquen,Trongé,0,0,0,0,0,0,0,1,0
+Buenos Aires,Tres Arroyos,Balneario Orense,0,0,0,0,1,1,0,0,0
+Buenos Aires,Escobar,Ingeniero Maschwitz,1,1,0,1,1,1,1,1,0
+Buenos Aires,Escobar,Loma Verde,0,0,0,1,1,1,0,0,0
+Buenos Aires,Escobar,Maquinista F. Savio (este),1,1,0,1,1,1,1,1,0
+Buenos Aires,Escobar,Matheu,1,1,0,1,1,1,1,1,1
+Buenos Aires,Escobar,Puerto Paraná,0,0,0,0,1,1,0,0,0
+Buenos Aires,Esteban Echeverría,9 de Abril,1,1,1,1,1,1,1,1,0
+Buenos Aires,Esteban Echeverría,Canning,1,1,0,1,1,1,1,1,0
+Córdoba,Marcos Juárez,Colonia Italiana,0,1,0,0,0,1,0,1,0
+Córdoba,Marcos Juárez,Corral de Bustos,1,1,0,1,1,1,1,1,0
+Córdoba,Marcos Juárez,Cruz Alta,1,0,0,1,1,1,1,1,1
+Córdoba,Marcos Juárez,General Baldissera,1,0,0,0,1,1,1,0,1
+Córdoba,Marcos Juárez,General Roca,1,0,0,1,1,1,1,0,1
+Córdoba,Marcos Juárez,Guatimozín,1,0,0,0,1,1,0,1,1
+Córdoba,Marcos Juárez,Inriville,1,0,0,0,1,1,1,1,0
+Córdoba,Marcos Juárez,Isla Verde,1,1,0,1,1,1,1,0,0
+Córdoba,Marcos Juárez,Leones,1,1,0,1,1,1,1,1,0
+Córdoba,Marcos Juárez,Los Surgentes,1,0,0,1,1,1,1,0,1
+Entre Ríos,Colón,Colón,1,1,0,1,1,1,1,1,1
+Entre Ríos,Colón,Colonia Hugues,0,0,0,0,0,0,0,1,0
+Entre Ríos,Colón,El Brillante,0,0,0,0,0,0,0,1,0
+Entre Ríos,Colón,El Colorado,0,0,0,0,1,1,0,0,0
+Entre Ríos,Colón,Hambis,0,0,0,0,0,0,0,1,0
+Entre Ríos,Colón,Hocker,0,0,0,0,1,0,0,0,0
+Entre Ríos,Colón,Hocker,0,0,0,0,1,0,0,1,1
+Entre Ríos,Colón,La Clarita,0,0,0,1,1,0,1,1,0
+Entre Ríos,Colón,Pueblo Cazes,0,0,0,0,0,0,0,1,0
+Entre Ríos,Colón,Pueblo Liebig's,0,0,0,1,1,1,1,1,0
+Entre Ríos,Colón,San José,1,0,0,0,1,1,1,1,0
+Entre Ríos,Colón,Ubajay,1,0,0,1,1,1,1,1,0
+Entre Ríos,Colón,Villa Elisa,1,1,0,1,1,1,1,1,0
+Entre Ríos,Concordia,Benito Legeren,0,0,0,0,1,1,0,0,0
+Entre Ríos,Concordia,Calabacilla,0,0,0,0,1,1,0,0,0
+Entre Ríos,Concordia,Clodomiro Ledesma,0,0,0,0,1,0,0,1,0
+Buenos Aires,Malvinas Argentinas,Grand Bourg,1,1,0,1,1,1,1,0,0
+Buenos Aires,Malvinas Argentinas,Ingeniero Adolfo Sourdeaux,1,1,0,1,1,1,1,1,0
+Buenos Aires,Malvinas Argentinas,Ingeniero Pablo Nogués,1,1,1,1,1,1,1,1,0
+Buenos Aires,Malvinas Argentinas,Los Polvorines,1,1,1,1,1,1,1,1,1
+Buenos Aires,Malvinas Argentinas,Malvinas Argentinas,0,1,0,1,0,0,0,1,0
+Buenos Aires,Malvinas Argentinas,Tortuguitas,1,1,0,1,1,1,1,0,0
+Buenos Aires,Malvinas Argentinas,Villa de Mayo,1,1,1,1,1,1,1,1,0
+Buenos Aires,Mar Chiquita,Atlantida,0,0,0,0,1,1,0,0,0
+Buenos Aires,Ensenada,Dique Nº 1,0,0,0,0,1,1,0,0,0
+Buenos Aires,Ensenada,Ensenada,1,1,1,1,1,1,1,1,0
+Buenos Aires,Ensenada,Isla Santiago (oeste),0,0,0,0,1,0,0,0,0
+Buenos Aires,Ensenada,Punta Lara,0,0,0,0,1,1,0,0,0
+Buenos Aires,Ensenada,Villa Catela,0,0,0,0,1,1,0,1,0
+Buenos Aires,Escobar,Belen de Escobar,1,1,0,1,1,1,1,1,1
+Buenos Aires,Escobar,El Cazador,0,1,0,1,1,1,1,0,0
+Buenos Aires,Escobar,Garín,1,1,0,1,1,1,1,1,1
+Córdoba,Río Seco,Cerro Colorado,0,0,0,0,1,1,0,1,0
+Buenos Aires,Luján,Open Door (est. Dr. Domingo Cabred),1,0,1,0,1,1,1,1,0
+Buenos Aires,Luján,Torres,1,0,0,0,1,1,1,1,0
+Buenos Aires,Magdalena,Atalaya,0,0,0,1,0,0,1,0,0
+Buenos Aires,Magdalena,General Mansilla (est. Bartolomé Bavio),0,1,0,1,1,0,1,0,0
+Buenos Aires,Magdalena,Los Naranjos,0,0,0,1,0,0,0,0,0
+Buenos Aires,Magdalena,Magdalena,1,1,1,0,1,1,1,1,0
+Buenos Aires,Magdalena,Roberto J. Payró,0,0,0,0,0,0,0,1,0
+Buenos Aires,Magdalena,Vieytes,0,0,0,1,0,0,1,1,0
+Buenos Aires,Maipú,Las Armas,1,0,0,0,1,1,1,1,0
+Buenos Aires,Maipú,Maipú,1,0,1,0,1,1,1,1,0
+Buenos Aires,Maipú,Santo Domingo,0,0,0,0,1,0,1,1,1
+Buenos Aires,Malvinas Argentinas,Area de Promocion El Triángulo,1,0,0,1,1,1,0,0,0
+Buenos Aires,Tres Arroyos,Claromecó,1,0,0,1,0,0,1,1,0
+Buenos Aires,Tres Arroyos,Copetonas,0,0,0,1,1,1,1,1,0
+Buenos Aires,Tres Arroyos,Dunamar,0,0,0,0,1,1,0,0,0
+Buenos Aires,Tres Arroyos,Lin Calel,0,0,0,0,0,0,0,1,0
+Buenos Aires,Tres Arroyos,Micaela Cascallares (est. Cascallares),0,0,0,1,1,1,1,1,0
+Buenos Aires,Tres Arroyos,Orense,0,0,1,1,1,1,1,1,0
+Buenos Aires,Tres Arroyos,Reta,0,0,0,0,1,1,1,1,0
+Buenos Aires,Tres Arroyos,San Francisco de Bellocq,0,0,0,0,1,1,1,1,0
+Buenos Aires,Tres Arroyos,San Mayol,0,0,0,0,0,0,0,1,0
+Buenos Aires,Tres Arroyos,Tres Arroyos,1,1,1,1,1,1,1,1,1
+Buenos Aires,Tres Arroyos,Villa Rodríguez (est. Barrow),0,0,0,0,1,0,0,0,0
+Córdoba,Marcos Juárez,Marcos Juárez,1,1,0,1,1,1,1,1,0
+Córdoba,Marcos Juárez,Monte Buey,1,0,0,0,1,1,1,0,0
+Córdoba,Marcos Juárez,Saira,1,0,0,0,0,0,1,0,0
+Córdoba,Marcos Juárez,Saladillo,0,0,0,0,0,0,1,0,0
+Córdoba,Marcos Juárez,Villa Elisa,1,0,1,0,0,0,1,0,0
+Córdoba,Minas,Ciénaga del Coro,0,0,0,1,1,0,1,1,0
+Córdoba,Minas,El Chacho,0,0,0,1,0,0,1,1,0
+Córdoba,Minas,Estancia de Guadalupe,0,0,0,0,0,0,1,1,0
+Córdoba,Minas,Guasapampa,0,0,0,0,0,0,0,1,0
+Córdoba,Minas,La Playa,0,0,0,0,0,0,1,1,0
+Córdoba,Minas,San Carlos Minas,1,0,0,1,1,1,1,1,0
+Córdoba,Minas,Talaini,0,0,0,0,0,0,0,1,0
+Córdoba,Minas,Tosno,0,0,0,0,0,0,0,1,0
+Córdoba,Pocho,Chancani,0,0,0,0,1,0,1,1,0
+Córdoba,Pocho,Las Palmas,0,0,0,0,0,0,0,1,0
+Córdoba,Pocho,Los Talares,0,0,0,0,0,0,0,1,0
+Córdoba,Río Seco,La Rinconada,0,0,0,0,1,0,0,0,0
+Córdoba,Río Seco,Los Hoyos,0,0,0,0,1,0,0,0,0
+Córdoba,Río Seco,Rayo Cortado,0,0,0,0,0,0,0,1,0
+Córdoba,Río Seco,Santa Elena,0,0,0,0,1,0,0,0,0
+Córdoba,Río Seco,Sebastián Elcano,0,0,0,1,1,1,1,0,0
+Córdoba,Río Seco,Villa de María,0,1,0,0,1,1,1,1,0
+Córdoba,Río Segundo,Calchín,0,1,0,0,1,1,1,0,0
+Córdoba,Río Segundo,Calchín Oeste,0,0,0,0,1,1,1,0,0
+Córdoba,Río Segundo,Capilla del Carmen,0,1,0,0,1,0,1,1,0
+Córdoba,Río Segundo,Carrilobo,0,1,0,0,1,1,1,1,1
+Córdoba,Río Segundo,Colazo,0,0,0,1,1,1,1,0,1
+Entre Ríos,Concordia,Colonia Ayuí,0,0,0,0,1,1,1,0,0
+Entre Ríos,Concordia,Concordia,1,1,0,1,1,1,1,1,1
+Entre Ríos,Concordia,Estación Yeruá,0,0,0,0,1,0,1,0,0
+Entre Ríos,Concordia,Estancia Grande,0,0,0,0,1,0,0,0,0
+Entre Ríos,Concordia,La Criolla,0,0,0,1,1,1,1,1,0
+Entre Ríos,Concordia,Las Tejas,0,0,0,0,1,1,0,0,0
+Entre Ríos,Concordia,Los Charrúas,0,0,0,0,1,1,1,1,0
+Entre Ríos,Concordia,Nueva Escocia,0,0,0,0,1,0,0,0,0
+Entre Ríos,Concordia,Osvaldo Magnasco,0,0,0,0,1,0,1,0,0
+Entre Ríos,Concordia,Pedernal,0,0,0,0,1,0,0,1,0
+Entre Ríos,Concordia,Puerto Yeruá,0,0,0,0,1,0,1,0,0
+Entre Ríos,Concordia,Villa Adela,0,0,0,0,1,1,0,0,0
+Entre Ríos,Concordia,Villa Zorraquin,0,0,0,0,1,1,0,0,0
+Buenos Aires,Tres de Febrero,11 de Septiembre,1,1,0,1,1,1,1,0,1
+Buenos Aires,Tres de Febrero,Caseros,1,1,0,1,1,1,1,1,0
+Buenos Aires,Tres de Febrero,Churruca,1,1,0,1,1,1,1,0,0
+Buenos Aires,Tres de Febrero,Ciudad Jardín Lomas del Palomar,1,1,0,1,1,1,1,0,0
+Buenos Aires,Tres de Febrero,Ciudadela,1,1,1,1,1,1,1,1,1
+Buenos Aires,Tres de Febrero,El Libertador,1,1,0,0,1,1,1,0,0
+Buenos Aires,Tres de Febrero,Jose Ingenieros,1,1,0,1,1,1,1,1,0
+Córdoba,San Javier,La Paz,0,0,0,0,1,1,1,1,1
+Córdoba,San Javier,La Población,0,0,0,0,0,0,0,1,0
+Córdoba,San Javier,La Ramada,0,0,0,0,0,0,0,1,0
+Córdoba,San Javier,La Travesía,0,0,0,0,0,0,0,1,0
+Córdoba,San Javier,Las Chacras,0,0,0,1,0,0,0,0,0
+Córdoba,San Javier,Las Tapias,0,0,0,0,1,1,0,1,0
+Córdoba,San Javier,Loma Bola,0,0,0,0,0,0,0,1,0
+Córdoba,San Javier,Los Cerrillos,0,0,0,0,1,1,1,1,0
+Córdoba,San Javier,Los Hornillos,1,0,0,0,1,1,1,1,0
+Córdoba,San Javier,Los Molles,0,0,0,0,0,0,0,1,0
+Córdoba,San Javier,Los Romeros,0,0,0,0,0,0,0,1,0
+Córdoba,San Javier,Luyaba,0,0,0,0,1,0,1,1,0
+Córdoba,San Javier,Quebracho Ladeado,0,0,0,0,0,0,0,1,0
+Córdoba,San Javier,Quebrada de Los Pozos,0,0,0,0,0,0,0,1,1
+Córdoba,San Javier,San Javier Y Yacanto,0,0,0,0,1,1,1,1,0
+Córdoba,San Javier,San José,0,0,0,0,1,1,1,1,0
+Santa Fe,General López,Cañada del Ucle,1,0,0,0,0,0,1,0,0
+Santa Fe,General López,Carmen,0,0,0,0,1,1,1,1,0
+Santa Fe,General López,Carreras,0,1,0,0,1,1,1,1,0
+Santa Fe,General López,Chapuy,0,1,0,0,1,1,1,0,0
+Santa Fe,General López,Chovet,0,1,0,0,1,1,1,0,1
+Santa Fe,General López,Christophersen,0,0,0,1,1,0,1,1,0
+Santa Fe,General López,Diego de Alvear,1,0,0,1,1,1,1,1,0
+Santa Fe,General López,Elortondo,1,1,0,0,1,1,1,1,0
+Santa Fe,General López,Firmat,1,1,0,1,1,1,1,0,0
+Santa Fe,General López,Hughes,0,0,0,1,1,1,1,0,0
+Santa Fe,General López,La Chispa,0,0,0,0,0,0,1,1,0
+Córdoba,Pocho,Salsacate,1,0,0,1,1,1,1,1,1
+Córdoba,Pocho,San Gerónimo,0,0,0,0,0,0,0,1,0
+Córdoba,Pocho,Tala Cañada,0,0,0,0,1,0,1,1,0
+Córdoba,Pocho,Taninga,0,0,0,0,0,0,0,1,0
+Córdoba,Pocho,Villa de Pocho,0,0,0,0,1,0,1,1,0
+Córdoba,Presidente Roque Sáenz Peña,General Levalle,1,1,0,1,1,1,1,1,0
+Córdoba,Presidente Roque Sáenz Peña,La Cesira,1,0,0,1,1,1,1,1,1
+Córdoba,Presidente Roque Sáenz Peña,Laboulaye,1,1,0,1,1,1,1,1,0
+Córdoba,Presidente Roque Sáenz Peña,Leguizamón,0,0,0,1,0,0,0,0,0
+Córdoba,Presidente Roque Sáenz Peña,Melo,0,0,0,1,1,1,1,1,0
+Córdoba,Presidente Roque Sáenz Peña,Río Bamba,0,0,0,0,1,1,1,1,0
+Córdoba,Presidente Roque Sáenz Peña,Rosales,0,0,0,0,1,1,1,1,0
+Córdoba,Presidente Roque Sáenz Peña,San Joaquín,0,0,0,0,1,0,1,1,0
+Santa Fe,General López,Labordeboy,1,0,0,0,1,0,1,0,0
+Santa Fe,General López,Lazzarino,0,0,0,0,1,0,0,0,0
+Santa Fe,General López,Maggiolo,1,0,0,0,1,1,1,1,0
+Santa Fe,General López,María Teresa,1,1,0,0,1,1,1,1,0
+Santa Fe,General López,Melincué (est. San Urbano),0,0,0,0,1,1,1,1,0
+Santa Fe,General López,Miguel Torres,0,1,0,0,0,0,0,0,0
+Santa Fe,General López,Murphy,0,0,0,1,1,1,1,0,0
+Santa Fe,General López,Rufino,1,1,0,1,1,1,1,0,0
+Santa Fe,General López,San Eduardo,1,0,0,1,1,0,1,0,0
+Santa Fe,General López,San Francisco de Santa Fe,0,0,0,1,1,0,1,0,1
+Santa Fe,General López,San Gregorio,1,0,0,1,1,1,1,1,0
+Santa Fe,San Lorenzo,Capitán Bermúdez,1,1,0,1,1,1,1,0,0
+Santa Fe,San Lorenzo,Carcarañá,1,1,0,0,1,1,1,0,0
+Santa Fe,San Lorenzo,Coronel Arnold,0,0,0,1,1,0,1,0,0
+Santa Fe,San Lorenzo,Fray Luis Beltrán,1,1,0,1,1,1,1,0,0
+Santa Fe,San Lorenzo,Fuentes,1,0,0,1,1,1,1,0,0
+Santa Fe,San Lorenzo,Luis Palacios (est. La Salada),0,1,0,0,1,0,1,1,0
+Santa Fe,San Lorenzo,Puerto General San Martín,0,0,0,1,1,1,0,1,1
+Santa Fe,San Lorenzo,Pujato,1,0,0,0,1,1,1,1,0
+Santa Fe,San Lorenzo,Ricardone,1,1,0,1,1,1,1,1,1
+Santa Fe,San Lorenzo,Roldán,1,1,0,1,1,1,1,1,0
+Santa Fe,San Lorenzo,San Jerónimo Sud,1,1,0,1,1,1,1,0,0
+Santa Fe,San Lorenzo,San Lorenzo,1,1,0,1,1,1,1,1,0
+Santa Fe,San Lorenzo,Timbúes,1,0,0,1,1,1,1,1,1
+Santa Fe,San Lorenzo,Villa Elvira,0,0,0,0,1,1,0,1,0
+Santa Fe,San Lorenzo,Villa Mugueta,0,1,0,0,1,0,1,0,1
+Santa Fe,San Martín,Cañada Rosquín,0,1,0,1,1,1,1,1,0
+Santa Fe,San Martín,Carlos Pellegrini,1,1,0,1,1,1,1,1,0
+Santa Fe,San Martín,Casas,0,1,0,0,1,0,1,1,0
+Santa Fe,San Martín,Castelar,0,0,0,1,1,0,1,0,0
+Tucumán,Capital,San Miguel de Tucumán (est. Tucumán),1,1,1,1,1,1,1,1,1
+Tucumán,Chicligasta,Alpachiri,0,0,0,0,1,1,0,0,0
+Tucumán,Chicligasta,Alto Verde,0,0,0,0,1,0,1,0,0
+Tucumán,Chicligasta,Arcadia,1,0,0,0,0,0,1,0,0
+Tucumán,Chicligasta,Concepción,1,0,0,1,1,1,1,1,0
+Tucumán,Chicligasta,Iltico,0,0,0,0,1,0,0,0,0
+Tucumán,Chicligasta,La Trinidad,1,0,0,0,1,1,1,0,0
+Tucumán,Cruz Alta,Alderetes,0,0,0,1,1,1,1,0,0
+Tucumán,Cruz Alta,Banda del Río Salí,0,1,0,1,1,1,1,1,0
+Tucumán,Cruz Alta,Barrio Aeropuerto,0,0,0,0,1,1,0,0,0
+Buenos Aires,Esteban Echeverría,El Jagüel,0,1,0,1,1,1,1,1,1
+Buenos Aires,Esteban Echeverría,Luis Guillón,1,1,1,1,1,1,1,1,0
+Buenos Aires,Esteban Echeverría,Monte Grande,1,1,1,1,1,1,1,1,1
+Buenos Aires,Esteban Echeverría,Zona Aeropuerto Internacional Ezeiza,1,0,0,0,0,0,1,0,0
+Buenos Aires,Exaltación de La Cruz,Arroyo de La Cruz,0,0,0,0,1,1,0,1,0
+Buenos Aires,Exaltación de La Cruz,Capilla del Señor (est. Capilla),1,0,1,1,1,1,1,0,0
+Buenos Aires,Exaltación de La Cruz,El Remanso,1,0,0,1,1,1,1,1,0
+Buenos Aires,Mar Chiquita,Camet Norte,0,0,0,0,1,1,0,0,0
+Buenos Aires,Mar Chiquita,Coronel Vidal,1,1,0,1,1,1,1,1,0
+Buenos Aires,Mar Chiquita,Frente Mar,0,0,0,0,1,1,0,0,0
+Buenos Aires,Mar Chiquita,General Pirán,0,0,1,1,1,1,1,1,0
+Buenos Aires,Mar Chiquita,La Armonía,0,0,0,0,1,1,0,1,0
+Buenos Aires,Mar Chiquita,La Baliza,0,0,0,0,1,1,0,0,0
+Buenos Aires,Mar Chiquita,La Caleta,0,0,0,0,0,0,0,1,0
+Buenos Aires,Mar Chiquita,Mar Chiquita,0,0,0,0,1,1,1,0,0
+Buenos Aires,Mar Chiquita,Mar de Cobo,1,0,1,1,0,0,1,0,0
+Buenos Aires,Mar Chiquita,Playa Dorada,0,0,0,0,1,1,0,0,0
+Buenos Aires,Mar Chiquita,Santa Clara del Mar,1,1,0,1,1,1,0,1,0
+Buenos Aires,Tres de Febrero,Loma Hermosa,1,1,0,1,1,1,1,0,0
+Buenos Aires,Tres de Febrero,Martín Coronado,1,1,0,1,1,1,1,0,0
+Buenos Aires,Tres de Febrero,Pablo Podestá,1,1,0,1,1,1,1,1,0
+Buenos Aires,Tres de Febrero,Remedios de Escalada,1,1,0,1,1,1,1,0,0
+Buenos Aires,Tres de Febrero,Saenz Peña,1,1,0,1,1,1,1,1,1
+Buenos Aires,Tres de Febrero,Santos Lugares,1,1,0,1,1,1,1,1,0
+Buenos Aires,Tres de Febrero,Villa Bosch (est. Juan Maria Bosch),1,1,0,1,1,1,1,0,0
+Córdoba,Presidente Roque Sáenz Peña,Serrano,0,1,0,0,1,1,1,1,1
+Córdoba,Presidente Roque Sáenz Peña,Villa Rossi,0,0,0,0,1,0,1,0,0
+Córdoba,Punilla,Bialet Massé,1,0,0,0,1,1,1,1,0
+Córdoba,Punilla,Cabalango,0,0,0,0,0,0,0,1,0
+Córdoba,Punilla,Capilla del Monte,1,1,0,0,1,1,1,1,0
+Córdoba,Punilla,Casa Grande,0,0,0,0,0,0,0,1,0
+Córdoba,Punilla,Charbonier,0,0,0,0,0,0,0,1,0
+Córdoba,Punilla,Cosquín,1,1,0,1,1,1,1,1,0
+Córdoba,Punilla,Cuesta Blanca,0,0,0,0,0,0,0,1,0
+Córdoba,Punilla,Estancia Vieja,0,0,0,0,1,0,0,1,0
+Córdoba,Punilla,Huerta Grande,0,1,0,1,1,1,1,1,0
+Córdoba,Punilla,La Cumbre,1,0,0,0,1,1,1,1,0
+Córdoba,Punilla,La Falda,1,1,0,1,1,1,1,1,0
+Entre Ríos,Diamante,Strobel,0,1,0,0,1,1,0,0,0
+Entre Ríos,Diamante,Villa Libertador San Martín,1,0,0,0,1,1,1,1,0
+Entre Ríos,Federación,Chajarí,1,1,0,1,1,1,1,1,0
+Entre Ríos,Federación,Colonia Alemana,0,0,0,0,0,0,0,1,0
+Entre Ríos,Federación,Colonia Ensanche Sauce,0,0,0,0,1,0,0,1,0
+Entre Ríos,Federación,Colonia La Argentina,0,0,0,0,1,1,1,1,0
+Entre Ríos,Federación,Colonia Peña,0,0,0,0,0,0,0,1,0
+Entre Ríos,Federación,Colonia Santa María,0,0,0,0,1,0,0,1,0
+Entre Ríos,Federación,Federación,1,0,0,1,1,1,1,1,0
+Entre Ríos,Federación,Los Conquistadores,0,1,0,0,1,1,1,1,0
+Entre Ríos,Federación,San Jaime de La Frontera,0,1,0,0,1,1,1,1,0
+Entre Ríos,Federación,San Pedro,0,0,0,1,1,0,0,1,0
+Entre Ríos,Federación,Santa Ana,0,1,0,1,1,1,1,1,0
+Entre Ríos,Federación,Villa del Rosario,0,1,0,1,0,1,1,1,0
+Entre Ríos,Victoria,Molino Doll,0,0,0,0,1,0,1,1,0
+Entre Ríos,Victoria,Rincón de Nogoyá,0,0,0,0,1,0,1,1,0
+Entre Ríos,Victoria,Victoria,1,1,0,1,1,1,1,1,0
+Entre Ríos,Villaguay,Estación Raíces,1,0,0,0,1,0,1,1,0
+Entre Ríos,Villaguay,Ingeniero Miguel Sajaroff,0,0,0,0,0,0,1,1,0
+Entre Ríos,Villaguay,Jubileo,0,0,0,1,1,0,1,1,0
+Entre Ríos,Villaguay,Mojones Norte,0,0,0,0,1,0,0,0,0
+Entre Ríos,Villaguay,Paso de La Laguna,0,0,0,1,0,0,0,1,0
+Entre Ríos,Villaguay,Villa Clara,1,0,0,1,1,1,1,1,1
+Entre Ríos,Villaguay,Villa Domínguez,0,0,0,1,1,1,1,1,0
+Entre Ríos,Villaguay,Villaguay,1,0,0,1,1,1,1,1,0
+Mendoza,Capital,Mendoza,1,1,1,1,1,1,1,1,1
+Buenos Aires,Exaltación de La Cruz,Los Cardales,1,1,1,0,1,1,1,1,1
+Buenos Aires,Exaltación de La Cruz,Parada Orlando,0,0,0,0,0,0,0,1,0
+Buenos Aires,Exaltación de La Cruz,Parada Robles - Pavón,1,0,0,1,1,1,1,1,0
+Buenos Aires,Ezeiza,Aeropuerto Internacional Ezeiza,1,0,1,1,1,1,1,0,1
+Buenos Aires,Ezeiza,Canning,1,1,1,1,1,1,1,1,0
+Buenos Aires,Ezeiza,Carlos Spegazzini,1,1,1,1,1,1,1,1,1
+Buenos Aires,Ezeiza,José Maria Ezeiza,1,1,1,1,1,1,1,1,1
+Buenos Aires,Mar Chiquita,Vivoratá,0,0,0,1,1,1,1,1,1
+Buenos Aires,Marcos Paz,Barrio Santa Rosa,0,0,0,0,1,0,0,0,0
+Buenos Aires,Marcos Paz,Marcos Paz,1,1,1,1,1,1,1,1,1
+Buenos Aires,Mercedes,Gowland,0,0,0,1,1,1,0,1,0
+Buenos Aires,Mercedes,Jorge Born,0,0,0,0,0,0,0,1,0
+Buenos Aires,Mercedes,Mercedes,1,1,1,1,1,1,1,1,1
+Buenos Aires,Merlo,Libertad,1,1,1,1,1,1,1,1,1
+Buenos Aires,Merlo,Mariano Acosta,1,1,0,1,1,1,1,1,0
+Buenos Aires,Tres de Febrero,Villa Raffo,1,1,0,1,1,1,1,0,0
+Buenos Aires,Tres Lomas,Ingeniero Thompson,0,0,0,0,0,0,1,0,0
+Buenos Aires,Tres Lomas,Tres Lomas,1,1,1,1,1,1,1,1,0
+Buenos Aires,Vicente López,Carapachay,1,1,0,1,1,1,1,0,0
+Buenos Aires,Vicente López,Florida,1,1,0,1,1,1,1,1,0
+Buenos Aires,Vicente López,Florida Oeste,1,1,0,1,1,1,1,1,1
+Buenos Aires,Vicente López,La Lucila,1,1,0,1,1,1,1,0,0
+Buenos Aires,Vicente López,Munro,1,1,0,1,1,1,1,1,1
+Córdoba,Punilla,Los Cocos,1,0,0,0,1,1,1,1,0
+Córdoba,Punilla,Mayu Sumaj,0,1,0,0,0,0,1,1,0
+Córdoba,Punilla,San Antonio de Arredondo,0,1,0,1,1,1,1,1,0
+Córdoba,Punilla,San Esteban,1,0,0,0,0,0,1,1,0
+Córdoba,Punilla,San Roque,0,0,0,0,1,1,0,1,0
+Córdoba,Punilla,Santa María de Punilla,1,0,0,1,1,1,1,1,0
+Córdoba,Punilla,Tala Huasi,0,0,0,0,1,1,0,1,0
+Córdoba,Punilla,Tanti,0,0,0,0,1,1,0,1,0
+Córdoba,Punilla,Valle Hermoso,1,1,0,1,1,1,1,1,0
+Córdoba,Punilla,Villa Carlos Paz,1,1,0,1,1,1,1,1,1
+Entre Ríos,Federal,Conscripto Bernardi,0,0,0,0,1,0,1,1,0
+Entre Ríos,Federal,El Cimarrón,0,0,0,0,0,0,1,1,0
+Entre Ríos,Federal,Federal,1,0,0,1,1,0,1,1,0
+Entre Ríos,Federal,Nueva Vizcaya,0,0,0,0,1,0,0,1,0
+Entre Ríos,Federal,Sauce de Luna,0,0,0,1,1,0,1,1,1
+Entre Ríos,Feliciano,San José de Feliciano,0,0,0,0,1,1,1,1,1
+Entre Ríos,Feliciano,San Víctor,1,0,0,0,1,0,1,1,0
+Entre Ríos,Gualeguay,Aldea Asunción,0,0,0,0,0,0,1,0,0
+Entre Ríos,Gualeguay,Estación Lazo,0,0,0,0,1,0,1,0,0
+Entre Ríos,Gualeguay,General Galarza,1,0,0,0,1,1,1,1,0
+Entre Ríos,Gualeguay,Gualeguay,1,1,0,1,1,1,1,1,1
+Entre Ríos,Gualeguay,Puerto Ruiz,0,0,0,0,0,0,1,0,0
+Entre Ríos,Gualeguaychú,Aldea San Antonio,0,1,0,0,1,0,1,0,1
+Entre Ríos,Gualeguaychú,Aldea San Juan,0,0,0,0,1,0,0,1,0
+Mendoza,General Alvear,Bowen,0,1,1,0,1,1,1,1,0
+Mendoza,General Alvear,Carmensa,0,0,0,0,1,0,1,1,0
+Mendoza,General Alvear,General Alvear,1,1,1,1,1,1,1,1,1
+Mendoza,General Alvear,Los Compartos,0,0,0,0,1,1,0,0,0
+Mendoza,Godoy Cruz,Gobernador Benegas,0,0,0,1,1,1,0,0,0
+Mendoza,Godoy Cruz,Godoy Cruz,1,1,1,1,1,1,1,1,1
+Mendoza,Godoy Cruz,Las Tortugas,0,0,0,1,1,1,0,0,0
+Mendoza,Godoy Cruz,San Francisco del Monte,0,0,0,1,1,1,0,0,0
+Mendoza,Godoy Cruz,Villa Hipodromo,0,0,0,1,1,1,0,0,0
+Mendoza,Godoy Cruz,Villa Marini,0,0,0,0,1,1,0,0,0
+Santa Fe,General López,Sancti Spiritu,1,0,0,1,1,1,1,1,1
+Santa Fe,General López,Santa Isabel,1,0,0,1,1,1,1,0,1
+Santa Fe,General López,Teodelina,0,1,0,0,1,1,1,1,0
+Santa Fe,General López,Venado Tuerto,1,1,0,1,1,1,1,1,0
+Santa Fe,General López,Villa Cañás,1,1,0,1,1,1,1,1,0
+Santa Fe,General López,Wheelwright,0,1,0,1,1,1,1,1,1
+Santa Fe,General Obligado,Arroyo Ceibal,0,0,0,0,1,0,1,1,0
+Santa Fe,General Obligado,Avellaneda (est. Ewald),1,0,0,1,1,1,1,1,0
+Santa Fe,General Obligado,Berna,0,0,0,0,1,0,1,1,0
+Santa Fe,General Obligado,El Araza,0,0,0,0,1,0,1,1,0
+Santa Fe,La Capital,Angel Gallardo,0,0,0,0,1,1,0,1,0
+Santa Fe,La Capital,Arroyo Aguiar,1,0,0,0,1,0,1,1,1
+Santa Fe,La Capital,Arroyo Leyes,0,1,0,1,1,0,0,1,0
+Santa Fe,La Capital,Cabal,0,0,0,0,0,0,0,1,0
+Santa Fe,La Capital,Campo Andino,0,0,0,0,1,0,1,0,0
+Santa Fe,La Capital,Candioti,0,0,0,1,1,0,1,1,0
+Santa Fe,La Capital,Emilia,1,0,0,1,1,0,1,1,0
+Santa Fe,La Capital,Laguna Paiva,1,0,0,0,1,1,1,1,0
+Santa Fe,La Capital,Llambi Campbell,1,0,0,0,1,1,1,1,0
+Santa Fe,La Capital,Monte Vera,1,0,0,0,1,1,1,0,1
+Santa Fe,La Capital,Nelson,1,0,0,1,1,1,1,1,0
+Santa Fe,La Capital,Paraje Chaco Chico,0,0,0,0,1,1,0,0,0
+Santa Fe,La Capital,Recreo,1,1,0,0,1,1,1,1,0
+Santa Fe,San Martín,Colonia Belgrano,0,1,0,0,1,0,0,0,0
+Santa Fe,San Martín,Crispi,0,0,0,0,1,0,1,0,0
+Santa Fe,San Martín,El Trébol,1,1,0,1,1,1,1,1,0
+Santa Fe,San Martín,Landeta,1,1,0,0,1,1,1,0,0
+Santa Fe,San Martín,Las Bandurrias,0,1,0,0,1,0,0,1,0
+Santa Fe,San Martín,Las Petacas,0,0,0,0,1,0,0,0,0
+Santa Fe,San Martín,Los Cardos,1,1,0,0,1,1,1,0,1
+Santa Fe,San Martín,María Susana,1,0,0,1,1,1,1,1,0
+Santa Fe,San Martín,Piamonte,0,1,0,0,1,0,1,0,0
+Santa Fe,San Martín,San Jorge,1,1,0,1,1,1,1,1,1
+Buenos Aires,Ezeiza,La Unión,1,1,0,1,1,1,1,0,1
+Buenos Aires,Ezeiza,Tristán Suarez,1,1,1,1,1,1,1,1,0
+Buenos Aires,Florencio Varela,Bosques,1,1,1,1,1,1,1,1,0
+Buenos Aires,Florencio Varela,El Tropezon,0,0,0,0,1,1,0,0,0
+Buenos Aires,Florencio Varela,Estanislao Severo Zeballos,1,1,1,1,1,1,1,0,0
+Buenos Aires,Florencio Varela,Florencio Varela,1,1,1,1,1,1,1,1,1
+Buenos Aires,Florencio Varela,Gobernador Julio A. Costa,1,1,1,1,1,1,1,0,0
+Buenos Aires,Merlo,Merlo,1,1,1,1,1,1,1,1,0
+Buenos Aires,Merlo,Pontevedra,1,1,1,1,1,1,1,1,0
+Buenos Aires,Merlo,San Antonio de Padua,1,1,1,1,1,1,1,1,0
+Buenos Aires,Monte,Abbott,0,0,0,1,1,1,1,1,0
+Buenos Aires,Monte,San Miguel del Monte (est. Monte),1,1,1,1,1,1,1,1,0
+Buenos Aires,Monte,Zenón Videla Dorna,0,0,0,0,1,0,0,0,0
+Buenos Aires,Monte Hermoso,Balneario Sauce Grande,1,0,0,1,1,1,1,0,0
+Buenos Aires,Monte Hermoso,Monte Hermoso,1,0,0,1,1,1,1,0,0
+Buenos Aires,Vicente López,Olivos,1,1,1,1,1,1,1,0,1
+Buenos Aires,Vicente López,Vicente López,1,1,1,1,1,1,1,1,0
+Buenos Aires,Vicente López,Villa Adelina,0,1,0,1,1,1,0,0,0
+Buenos Aires,Vicente López,Villa Martelli,1,1,0,1,1,1,1,1,1
+Buenos Aires,Villa Gesell,Mar Azul,0,0,0,0,1,1,1,0,0
+Buenos Aires,Villa Gesell,Mar de Las Pampas,0,0,0,0,1,1,0,0,0
+Buenos Aires,Villa Gesell,Villa Gesell,1,0,0,1,1,1,1,0,0
+Buenos Aires,Villarino,Argerich,0,0,0,0,0,0,1,1,0
+Córdoba,Punilla,Villa Giardino,1,0,0,1,1,1,1,1,0
+Córdoba,Punilla,Villa Lago Azul,0,0,0,0,1,1,0,0,0
+Córdoba,Punilla,Villa Parque Siquimán,0,0,0,0,1,1,0,1,0
+Córdoba,Punilla,Villa Río Icho Cruz,0,0,0,0,1,1,0,1,0
+Córdoba,Punilla,Villa Santa Cruz del Lago,1,0,0,0,1,0,1,1,0
+Córdoba,Río Cuarto,Achiras,0,0,0,1,1,1,0,1,0
+Córdoba,Río Cuarto,Adelia María,1,1,0,1,1,1,1,1,0
+Córdoba,Río Cuarto,Alcira (est. Gigena),1,0,0,1,1,1,1,0,1
+Córdoba,Río Cuarto,Alpa Corral,0,0,0,0,1,1,0,0,0
+Córdoba,Río Cuarto,Berrotarán,1,1,0,1,1,1,1,1,0
+Córdoba,Río Cuarto,Bulnes,1,0,0,0,1,1,0,0,1
+Entre Ríos,Gualeguaychú,Enrique Carbó,0,0,0,0,1,0,1,1,0
+Entre Ríos,Gualeguaychú,Faustino M. Parera,1,0,0,0,1,0,1,0,0
+Entre Ríos,Gualeguaychú,General Almada,0,0,0,0,1,0,1,0,0
+Entre Ríos,Gualeguaychú,Gilbert,0,1,0,0,1,1,1,0,0
+Entre Ríos,Gualeguaychú,Gualeguaychú,1,1,1,1,1,1,1,1,1
+Entre Ríos,Gualeguaychú,Irazusta,0,0,0,0,0,0,1,0,0
+Entre Ríos,Gualeguaychú,Larroque,1,0,0,1,1,1,1,1,0
+Entre Ríos,Gualeguaychú,Pueblo General Belgrano,0,1,0,0,1,1,1,0,0
+Entre Ríos,Gualeguaychú,Urdinarrain,1,1,0,0,1,1,1,1,0
+Entre Ríos,Islas del Ibicuy,Arroyo Martínez,0,0,0,0,1,1,0,0,0
+Entre Ríos,Islas del Ibicuy,Ceibas,0,0,0,0,1,1,1,1,0
+Entre Ríos,Islas del Ibicuy,Ibicuy,0,1,0,1,1,1,1,0,0
+Mendoza,Guaymallén,Bermejo,0,0,0,1,1,1,0,0,0
+Mendoza,Guaymallén,Buena Nueva,0,0,0,1,1,1,0,0,1
+Mendoza,Guaymallén,Capilla del Rosario,0,0,0,1,1,1,0,0,0
+Mendoza,Guaymallén,Colonia Segovia,0,0,0,0,1,1,0,0,0
+Mendoza,Guaymallén,Colonia Segovia,0,0,0,1,1,1,0,1,0
+Mendoza,Guaymallén,Dorrego,0,0,0,1,1,1,0,0,0
+Mendoza,Guaymallén,El Sauce,0,0,0,1,1,1,0,0,0
+Mendoza,Guaymallén,General Belgrano,0,0,0,0,1,1,0,0,0
+Mendoza,Guaymallén,Guaymallén,1,1,1,1,1,1,1,1,0
+Mendoza,Guaymallén,Jesus Nazareno,0,0,0,1,1,1,0,0,0
+Mendoza,Guaymallén,La Primavera,0,0,0,0,0,0,0,1,0
+Mendoza,Guaymallén,Las Cañas,0,0,0,1,1,1,0,0,0
+Mendoza,Guaymallén,Los Corralitos,1,0,1,0,1,1,1,1,1
+Santa Fe,General Obligado,El Rabón,0,1,0,0,1,0,0,1,1
+Santa Fe,General Obligado,Florencia,1,1,0,0,1,1,1,1,1
+Santa Fe,General Obligado,Guadalupe Norte,1,0,0,0,1,0,1,0,0
+Santa Fe,General Obligado,Ingeniero Chanourdie,0,0,0,0,0,0,1,1,1
+Santa Fe,General Obligado,La Isleta,0,0,0,0,0,0,0,0,1
+Santa Fe,General Obligado,La Sarita,0,0,0,0,1,0,1,1,0
+Santa Fe,General Obligado,Lanteri,0,0,0,0,1,1,1,1,0
+Santa Fe,General Obligado,Las Garzas,1,0,0,0,1,0,1,0,0
+Santa Fe,General Obligado,Las Toscas,1,1,0,1,1,1,1,1,1
+Santa Fe,General Obligado,Los Laureles,0,0,0,0,1,0,1,0,0
+Santa Fe,General Obligado,Malabrigo,1,1,0,0,1,1,1,1,0
+Santa Fe,General Obligado,Paraje San Manuel,0,0,0,0,0,0,1,0,1
+Santa Fe,General Obligado,Puerto Reconquista,0,0,0,0,1,0,1,0,0
+Santa Fe,San Martín,San Martín de Las Escobas,1,1,0,0,1,1,1,1,0
+Santa Fe,San Martín,Sastre,1,0,0,1,1,1,1,1,0
+Santa Fe,Vera,Calchaquí,1,0,0,0,1,1,1,1,1
+Santa Fe,Vera,Cañada Ombú,0,0,0,0,1,0,1,1,1
+Santa Fe,Vera,Colmena,0,0,0,0,0,0,0,0,1
+Santa Fe,Vera,Fortín Olmos,0,0,0,0,1,0,1,1,1
+Santa Fe,Vera,Garabato,0,0,0,0,1,0,1,1,0
+Santa Fe,Vera,Golondrina,0,0,0,0,1,0,1,1,0
+Santa Fe,Vera,Intiyaco,0,0,0,0,1,0,1,1,1
+Santa Fe,Vera,Kilómetro 115,0,0,0,0,0,0,0,1,0
+Santa Fe,Vera,La Gallareta,0,0,0,0,1,0,1,1,0
+Santa Fe,Vera,Los Amores,0,0,0,0,1,0,1,1,0
+Tucumán,Burruyacú,7 de Abril,0,0,0,0,0,0,0,1,1
+Tucumán,Burruyacú,Barrio San Jorge,0,0,0,0,1,0,0,0,0
+Tucumán,Burruyacú,El Chañar,0,0,0,0,1,1,1,0,0
+Tucumán,Burruyacú,Garmendia,0,0,0,0,1,0,1,1,0
+Tucumán,Burruyacú,La Ramada,0,0,0,0,1,1,1,0,0
+Tucumán,Burruyacú,Macomitas,0,0,0,0,1,1,0,0,0
+Tucumán,Burruyacú,Piedrabuena,0,0,0,0,1,1,0,1,0
+Tucumán,Burruyacú,Villa Benjamín Aráoz,0,0,0,0,1,0,1,0,0
+Tucumán,Burruyacú,Villa Burruyacú,0,0,0,1,1,0,0,1,1
+Tucumán,Burruyacú,Villa Padre Monti,0,0,0,0,0,0,1,0,0
+Buenos Aires,Florencio Varela,Ingeniero Juan Allan,1,1,0,1,1,1,1,0,0
+Buenos Aires,Florencio Varela,La Capilla,0,0,0,1,1,1,1,0,0
+Buenos Aires,Florencio Varela,Villa Brown,0,1,0,1,1,1,0,0,0
+Buenos Aires,Florencio Varela,Villa San Luis,0,1,0,1,1,1,0,0,0
+Buenos Aires,Florencio Varela,Villa Santa Rosa,1,1,1,1,1,1,1,0,0
+Buenos Aires,Florencio Varela,Villa Vatteone,1,1,1,1,1,1,1,0,0
+Buenos Aires,Florentino Ameghino,Blaquier,0,0,0,0,1,1,1,1,1
+Buenos Aires,Florentino Ameghino,Florentino Ameghino,1,0,0,1,1,1,1,0,0
+Buenos Aires,Florentino Ameghino,Porvenir,0,0,0,0,0,0,0,1,0
+Buenos Aires,General Alvarado,Centinela del Mar,0,0,0,0,0,0,0,1,0
+Buenos Aires,General Alvarado,Comandante Nicanor Otamendi,0,0,1,1,1,1,1,1,1
+Buenos Aires,Moreno,Cuartel V,0,1,1,1,1,1,1,1,0
+Buenos Aires,Moreno,Francisco Alvarez,1,1,1,1,1,1,1,1,0
+Buenos Aires,Moreno,La Reja,1,1,1,1,1,1,1,1,1
+Buenos Aires,Moreno,Moreno,1,1,1,1,1,1,1,1,1
+Buenos Aires,Moreno,Paso del Rey,0,1,0,1,1,1,1,1,1
+Buenos Aires,Moreno,Trujui,1,1,1,1,1,1,1,1,0
+Buenos Aires,Zárate,Zárate,1,1,0,1,1,1,1,1,1
+CABA,Comuna 01,Constitucion,1,1,1,1,1,1,1,1,1
+Córdoba,Río Cuarto,Chaján,0,0,0,1,1,1,1,0,1
+Córdoba,Río Cuarto,Chucul,1,0,0,1,1,1,1,1,0
+Córdoba,Río Cuarto,Coronel Baigorria,0,0,0,1,1,1,0,0,0
+CABA,Comuna 10,Floresta,1,1,1,1,1,1,1,1,1
+Entre Ríos,Islas del Ibicuy,Médanos,0,0,0,0,1,0,0,1,0
+Entre Ríos,Islas del Ibicuy,Villa Paranacito,0,1,0,0,1,1,1,0,0
+Entre Ríos,La Paz,Bovril,0,1,0,1,1,1,1,1,0
+Entre Ríos,La Paz,Colonia Avigdor,0,0,0,0,1,0,1,1,0
+Entre Ríos,La Paz,El Solar,0,0,0,0,1,1,1,1,0
+CABA,Comuna 08,Villa Riachuelo,1,1,1,1,1,1,1,1,1
+Mendoza,Guaymallén,Pedro Molina,0,0,0,1,1,1,0,0,0
+Mendoza,Guaymallén,Puente de Hierro,1,0,1,0,1,1,1,1,0
+Mendoza,Guaymallén,Rodeo de La Cruz,0,0,0,1,1,1,0,0,1
+Mendoza,Guaymallén,San Francisco del Monte,0,0,0,1,1,1,0,0,0
+Mendoza,Guaymallén,San Jose,0,0,0,1,1,1,0,0,0
+Mendoza,Guaymallén,Villa Nueva,0,0,0,0,1,1,0,0,0
+CABA,Comuna 10,Monte Castro,1,1,1,1,1,1,1,1,1
+CABA,Comuna 10,Velez Sarsfield,1,1,1,1,1,1,1,1,1
+CABA,Comuna 10,Versalles,1,1,1,1,1,1,1,1,1
+Santa Fe,General Obligado,Reconquista,1,1,1,1,1,1,1,1,1
+Santa Fe,General Obligado,San Antonio de Obligado,1,1,0,0,1,0,1,1,1
+Santa Fe,General Obligado,Tacuarendí (emb. Kilómetro 421),1,1,0,0,1,1,1,1,0
+Santa Fe,General Obligado,Villa Ana,0,0,0,0,1,0,1,0,1
+CABA,Comuna 10,Villa Luro,1,1,1,1,1,1,1,1,1
+Santa Fe,Vera,Margarita,0,1,0,0,1,1,1,1,1
+Santa Fe,Vera,Paraje 29,0,0,0,0,0,0,0,1,1
+Santa Fe,Vera,Pozo de Los Indios,0,0,0,0,0,0,0,1,1
+Santa Fe,Vera,Pueblo Santa Lucía,0,0,0,0,1,0,0,1,0
+Santa Fe,Vera,Tartagal (est. El Tajamar),0,0,0,0,1,0,0,1,0
+Santa Fe,Vera,Toba,0,0,0,0,0,0,0,1,1
+Santa Fe,Vera,Vera (est. Gobernador Vera),1,0,0,0,1,1,1,1,0
+CABA,Comuna 10,Villa Real,1,1,1,1,1,1,1,1,1
+Tucumán,Cruz Alta,Colombres,0,0,0,0,1,1,1,0,0
+Tucumán,Cruz Alta,Delfín Gallo,0,0,0,0,0,0,1,1,0
+Tucumán,Cruz Alta,El Bracho,0,0,0,0,1,1,1,1,0
+Tucumán,Cruz Alta,El Corte,0,0,0,0,1,0,0,0,0
+Tucumán,Cruz Alta,El Paraiso,0,0,0,0,1,1,0,0,0
+Tucumán,Cruz Alta,Ex Ingenio Esperanza,0,0,0,0,1,1,0,0,0
+Tucumán,Cruz Alta,Ingenio La Florida,0,0,0,0,1,1,0,0,0
+CABA,Comuna 11,Villa del Parque,1,1,1,1,1,1,1,1,1
+CABA,Comuna 11,Villa Devoto,1,1,1,1,1,1,1,1,1
+CABA,Comuna 09,Mataderos,1,1,1,1,1,1,1,1,1
+Tucumán,Simoca,Monteagudo,0,0,0,0,1,1,0,1,0
+Tucumán,Simoca,Nueva Trinidad,0,0,0,0,0,0,0,1,0
+Tucumán,Simoca,Simoca,0,0,0,0,1,1,1,1,0
+Tucumán,Simoca,Villa Chicligasta,0,0,0,0,0,0,0,1,0
+Tucumán,Tafí del Valle,Amaicha del Valle,0,0,0,1,1,1,1,1,1
+Tucumán,Tafí del Valle,Colalao del Valle,0,0,0,0,1,0,1,1,0
+CABA,Comuna 01,Puerto Madero,1,1,1,1,1,1,1,1,1
+Tucumán,Tafí del Valle,El Mollar,0,0,0,0,1,0,1,1,1
+Tucumán,Tafí del Valle,Tafí del Valle,1,0,0,0,1,1,1,1,1
+Tucumán,Tafí Viejo,Barrio El Cruce,0,0,0,0,1,1,0,0,0
+Tucumán,Tafí Viejo,Barrio Lomas de Tafí,1,0,0,0,1,0,1,0,0
+Tucumán,Tafí Viejo,Barrio Mutual San Martín,1,0,0,0,1,1,1,0,0
+Tucumán,Tafí Viejo,Barrio Parada 14,0,0,0,0,1,1,0,0,0
+Tucumán,Tafí Viejo,Barrio U.t.a. Ii,0,0,0,0,1,1,0,0,0
+CABA,Comuna 01,Retiro,1,1,1,1,1,1,1,1,1
+CABA,Comuna 01,San Nicolas,1,1,1,1,1,1,1,1,1
+CABA,Comuna 01,San Telmo,1,1,1,1,1,1,1,1,1
+CABA,Comuna 02,Recoleta,1,1,1,1,1,1,1,1,1
+CABA,Comuna 03,Balvanera,1,1,1,1,1,1,1,1,1
+CABA,Comuna 03,San Cristobal,1,1,1,1,1,1,1,1,1
+Tucumán,Cruz Alta,La Florida,1,0,0,0,1,1,1,1,1
+Tucumán,Cruz Alta,Las Cejas,0,0,0,0,1,1,0,0,1
+Tucumán,Cruz Alta,Lastenia,0,0,0,0,1,1,0,0,0
+Tucumán,Cruz Alta,Los Gutierrez,0,0,0,0,1,1,0,0,0
+Tucumán,Cruz Alta,Los Ralos,0,0,0,0,0,0,1,1,0
+Tucumán,Cruz Alta,Pacará,0,0,0,0,0,0,0,1,0
+Tucumán,Cruz Alta,Ranchillos,0,0,0,0,1,1,1,1,0
+CABA,Comuna 04,Barracas,1,1,1,1,1,1,1,1,1
+Tucumán,Leales,Bella Vista,1,0,0,1,1,1,1,1,0
+Tucumán,Leales,Estación Aráoz,0,0,0,0,1,1,0,0,0
+Tucumán,Leales,Los Puestos,0,0,0,0,1,1,0,0,0
+Tucumán,Leales,Manuel García Fernández,1,0,0,0,0,0,1,0,0
+Tucumán,Leales,Pala Pala,0,0,0,0,1,0,1,1,1
+Tucumán,Leales,Río Colorado,0,0,0,0,1,1,0,1,0
+Tucumán,Leales,Santa Rosa de Leales,0,0,0,0,1,1,1,1,0
+CABA,Comuna 01,Monserrat,1,1,1,1,1,1,1,1,1
+Tucumán,Monteros,Villa Quinteros,1,0,0,0,1,1,1,1,0
+Tucumán,Río Chico,Aguilares,1,0,0,0,1,1,1,1,0
+Tucumán,Río Chico,Ingenio Santa Barbara,0,0,0,0,1,1,0,0,0
+Tucumán,Río Chico,Los Sarmientos,1,0,0,0,0,0,1,0,0
+Tucumán,Río Chico,Santa Ana,1,0,0,0,1,0,1,0,0
+Tucumán,Simoca,Atahona,0,0,0,0,1,1,0,1,0
+CABA,Comuna 04,Boca,1,1,1,1,1,1,1,1,1
+CABA,Comuna 04,Nueva Pompeya,1,1,1,1,1,1,1,1,1
+Santa Fe,La Capital,San José del Rincón,1,1,0,1,1,1,1,0,1
+Santa Fe,La Capital,Santa Fe,1,1,1,1,1,1,1,1,1
+CABA,Comuna 04,Parque Patricios,1,1,1,1,1,1,1,1,1
+Santa Fe,La Capital,Santo Tomé,1,1,0,1,1,1,1,1,0
+Santa Fe,La Capital,Sauce Viejo,1,0,0,1,1,1,1,1,0
+Santa Fe,La Capital,Villa Adelina,0,0,0,0,1,1,0,0,0
+Santa Fe,La Capital,Villa Laura (est. Constituyentes),0,0,0,0,1,0,0,0,0
+Santa Fe,Las Colonias,Cavour,0,0,0,0,0,0,1,1,0
+Santa Fe,Las Colonias,Cululú,0,0,0,0,0,0,1,1,0
+CABA,Comuna 05,Almagro,1,1,1,1,1,1,1,1,1
+Santa Fe,General Obligado,Villa Guillermina,1,1,0,0,1,1,1,1,1
+Santa Fe,General Obligado,Villa Ocampo,1,1,0,0,1,1,1,0,1
+Santa Fe,Iriondo,Barrio Cicarelli,0,0,0,0,0,0,0,1,0
+Santa Fe,Iriondo,Bustinza,1,0,0,1,1,0,1,1,0
+Santa Fe,Iriondo,Cañada de Gómez,1,1,0,1,1,1,1,1,0
+CABA,Comuna 05,Boedo,1,1,1,1,1,1,1,1,1
+CABA,Comuna 06,Caballito,1,1,1,1,1,1,1,1,1
+CABA,Comuna 07,Flores,1,1,1,1,1,1,1,1,1
+Mendoza,Junín,Ingeniero Giagnoni,1,0,1,1,1,1,1,1,0
+Mendoza,Junín,Junín,1,0,1,1,1,1,1,1,0
+Mendoza,Junín,La Colonia,0,0,0,1,1,1,0,1,1
+Mendoza,Junín,Los Barriales,1,0,1,0,1,1,1,1,0
+Mendoza,Junín,Medrano,0,0,0,0,0,0,0,1,0
+Mendoza,Junín,Phillips,0,0,0,0,0,0,1,1,0
+CABA,Comuna 07,Parque Chacabuco,1,1,1,1,1,1,1,1,1
+CABA,Comuna 08,Villa Lugano,1,1,1,1,1,1,1,1,1
+Entre Ríos,La Paz,La Paz,1,1,0,1,1,1,1,1,0
+Entre Ríos,La Paz,Piedras Blancas,0,1,0,1,1,0,1,1,0
+Entre Ríos,La Paz,Pueblo Arrúa (est. Alcaraz),0,1,0,0,1,1,1,1,1
+Entre Ríos,La Paz,San Gustavo,0,0,0,1,1,1,1,1,0
+CABA,Comuna 08,Villa Soldati,1,1,1,1,1,1,1,1,1
+Córdoba,Río Cuarto,Coronel Moldes,1,0,0,0,1,1,1,0,0
+Córdoba,Río Cuarto,Elena,1,0,0,1,1,1,1,1,0
+Córdoba,Río Cuarto,La Carolina,1,0,0,0,0,1,1,1,1
+Córdoba,Río Cuarto,La Cautiva,0,0,0,0,1,0,1,0,0
+Córdoba,Río Cuarto,Las Acequias,1,0,0,1,1,1,1,0,0
+Buenos Aires,General Alvarado,Mar del Sur,0,0,1,0,1,1,1,1,0
+Buenos Aires,General Alvarado,Mechongué,1,0,0,0,1,1,1,1,0
+Buenos Aires,General Alvarado,Miramar,1,1,1,1,1,1,1,1,1
+Buenos Aires,General Alvear,General Alvear,0,0,0,0,1,1,1,0,0
+Buenos Aires,General Arenales,Arribeños,1,1,1,1,1,1,1,1,0
+Buenos Aires,General Arenales,Ascensión,1,1,0,0,1,1,1,1,0
+Buenos Aires,General Arenales,Ferré,0,1,0,1,1,1,1,1,0
+Buenos Aires,General Arenales,General Arenales,0,1,1,1,1,1,1,1,0
+Buenos Aires,General Arenales,La Angelita,1,0,0,0,0,0,1,1,0
+Buenos Aires,Morón,Castelar,1,1,0,1,1,1,1,1,0
+Buenos Aires,Morón,El Palomar,1,1,1,1,1,1,1,1,1
+Buenos Aires,Morón,Haedo,1,1,1,1,1,1,1,1,0
+Buenos Aires,Morón,Moron,1,1,1,1,1,1,1,1,1
+Buenos Aires,Morón,Villa Sarmiento,1,1,1,1,1,1,1,1,1
+Buenos Aires,Navarro,José Juan Almeyra,0,0,0,0,0,0,0,1,0
+Buenos Aires,Navarro,Las Marianas,0,0,0,0,0,0,0,1,0
+CABA,Comuna 11,Villa General Mitre,1,1,1,1,1,1,1,1,1
+Córdoba,Río Cuarto,Las Albahacas,1,0,0,0,1,0,1,0,0
+Córdoba,Río Cuarto,Las Higueras,1,1,0,1,1,1,1,0,0
+Córdoba,Río Cuarto,Las Peñas,1,0,0,0,1,1,1,1,0
+Córdoba,Río Cuarto,Las Vertientes,1,0,0,1,1,1,1,0,0
+Córdoba,Río Cuarto,Malena,0,0,0,0,1,0,1,0,0
+Córdoba,Río Cuarto,Monte de Los Gauchos,0,0,0,0,1,0,1,0,0
+Córdoba,Río Cuarto,Paso del Durazno,0,0,0,0,1,0,0,0,0
+Córdoba,Río Cuarto,Río Cuarto,1,1,1,1,1,1,1,1,1
+Córdoba,Río Cuarto,Sampacho,1,0,0,1,1,1,1,1,0
+Córdoba,Río Cuarto,San Basilio,1,0,0,1,1,1,1,0,1
+Córdoba,Río Cuarto,Santa Catalina (est. Holmberg),1,0,0,0,1,1,1,0,0
+Córdoba,Río Cuarto,Suco,0,0,0,0,1,1,1,0,0
+Córdoba,Río Cuarto,Tosquitas,0,0,0,0,1,1,1,0,0
+Córdoba,Río Cuarto,Vicuña Mackenna,1,1,0,1,1,1,1,0,1
+Córdoba,Río Cuarto,Villa El Chacay,0,0,0,0,1,0,1,0,0
+Córdoba,Río Cuarto,Washington,0,0,0,0,1,1,1,1,0
+Córdoba,Río Primero,Cañada de Machado,0,0,0,0,0,0,0,1,0
+Entre Ríos,La Paz,Santa Elena,1,1,0,0,1,1,1,1,0
+Entre Ríos,Nogoyá,Aranguren,0,1,0,0,1,0,1,1,1
+Entre Ríos,Nogoyá,Betbeder,0,0,0,0,0,0,0,1,0
+Entre Ríos,Nogoyá,Don Cristóbal,0,0,0,0,0,0,1,1,0
+Entre Ríos,Nogoyá,Febré,0,0,0,0,0,0,1,1,0
+Entre Ríos,Nogoyá,Hernández,1,0,0,0,1,1,1,1,1
+Entre Ríos,Nogoyá,Lucas González,1,0,0,0,1,1,1,1,0
+Entre Ríos,Nogoyá,Nogoyá,1,0,0,0,1,1,1,1,0
+Entre Ríos,Nogoyá,Xx de Setiembre,0,0,0,0,0,0,1,1,0
+Entre Ríos,Paraná,Aldea María Luisa,0,0,0,0,1,0,1,1,0
+Entre Ríos,Paraná,Aldea San Rafael,0,0,0,0,0,0,1,1,0
+Entre Ríos,Paraná,Aldea Santa María,0,0,0,0,0,0,1,0,0
+Entre Ríos,Paraná,Cerrito,1,1,0,0,1,1,1,1,1
+Mendoza,Junín,Rodríguez Peña,0,0,0,0,1,0,1,1,0
+Mendoza,La Paz,Desaguadero,0,0,0,0,1,1,1,0,0
+Mendoza,La Paz,La Paz,1,0,0,1,1,1,1,1,0
+Mendoza,Las Heras,Blanco Encalada,0,0,0,0,0,0,1,0,0
+Mendoza,Las Heras,Capdeville,0,0,0,0,1,0,0,0,0
+Mendoza,Las Heras,El Algarrobal,0,0,0,0,1,1,0,0,0
+Mendoza,Las Heras,El Borbollon,0,0,0,0,1,1,0,0,0
+Mendoza,Las Heras,El Challao,0,0,0,1,0,0,0,0,0
+Mendoza,Las Heras,El Plumerillo,0,0,0,1,1,1,0,0,0
+Mendoza,Las Heras,El Resguardo,0,0,0,1,0,1,0,0,0
+Mendoza,Las Heras,El Zapallar,0,0,0,1,1,1,0,0,0
+Mendoza,Las Heras,Jocolí,0,0,0,0,1,1,1,0,0
+Mendoza,Las Heras,La Cieneguita,0,0,0,0,1,1,0,0,0
+Mendoza,Las Heras,Las Cuevas,0,0,0,0,1,1,0,0,0
+Salta,Anta,Apolinario Saravia,0,1,0,1,1,1,1,1,1
+Salta,Anta,Ceibalito,0,0,0,1,0,0,0,0,0
+Santa Fe,Iriondo,Carrizales (est. Clarke),1,1,0,0,1,0,1,0,0
+Santa Fe,Iriondo,Classon,0,0,0,1,1,1,1,1,0
+Santa Fe,Iriondo,Colonia Médici,0,0,0,0,0,0,0,1,0
+Santa Fe,Iriondo,Correa,1,1,0,1,1,1,1,1,0
+Santa Fe,Iriondo,Larguía,0,0,0,0,0,0,0,1,0
+Santa Fe,Iriondo,Lucio V. López,0,1,0,0,1,0,1,1,0
+Santa Fe,Iriondo,Oliveros,1,0,0,1,1,1,0,0,1
+Santa Fe,Iriondo,Pueblo Andino,0,1,0,0,1,1,1,1,0
+Santa Fe,Iriondo,Salto Grande,1,0,0,0,1,1,1,1,0
+Santa Fe,Iriondo,Serodino,1,0,0,1,1,0,1,1,0
+Santa Fe,Iriondo,Totoras,1,0,0,1,1,1,1,1,0
+Santa Fe,Iriondo,Villa Eloísa,1,0,0,1,1,1,1,1,0
+Santa Fe,Iriondo,Villa La Rivera (oliveros),0,0,0,0,0,0,0,1,0
+Santa Fe,Iriondo,Villa La Rivera (pueblo Andino),0,0,0,0,0,0,0,1,1
+Tucumán,Cruz Alta,San Andrés,1,0,0,1,1,0,1,0,0
+Tucumán,Cruz Alta,Villa Recaste,0,0,0,0,1,1,0,0,0
+Tucumán,Famaillá,Barrio Casa Rosada,0,0,0,0,1,0,0,0,0
+Tucumán,Famaillá,Campo de Herrera,0,0,0,0,1,0,0,0,0
+Tucumán,Famaillá,Ex Ingenio Nueva Baviera,0,0,0,0,1,1,0,0,0
+Tucumán,Famaillá,Famaillá,1,0,0,1,1,1,1,1,1
+Tucumán,Graneros,Graneros,0,0,0,0,1,1,1,1,1
+Tucumán,Graneros,Lamadrid,0,0,0,1,1,1,1,1,1
+Tucumán,Graneros,Taco Ralo,0,0,0,0,1,1,1,1,0
+Tucumán,Juan Bautista Alberdi,Juan Bautista Alberdi,1,0,0,0,1,1,1,0,1
+Tucumán,Juan Bautista Alberdi,Villa Belgrano,0,0,0,0,0,0,1,0,0
+Tucumán,La Cocha,La Cocha,1,0,0,0,1,1,1,1,1
+Tucumán,La Cocha,San José de La Cocha,0,0,0,0,0,0,0,1,1
+Santa Fe,Rosario,Pérez,1,0,0,1,1,1,1,1,1
+Santa Fe,Rosario,Piñero (est. Erasto),0,1,0,1,1,0,0,0,0
+Santa Fe,Rosario,Pueblo Esther,1,0,0,1,1,1,1,0,1
+Santa Fe,Rosario,Pueblo Muñoz (est. Bernard),0,1,0,0,1,0,1,0,0
+Santa Fe,Rosario,Pueblo Uranga,1,0,0,1,1,0,1,1,0
+Santa Fe,Rosario,Puerto Arroyo Seco,0,0,0,0,1,0,0,0,0
+Santa Fe,Rosario,Rosario,1,1,1,1,1,1,1,1,1
+Santa Fe,Rosario,Soldini,1,1,0,0,1,1,1,0,0
+Santa Fe,Rosario,Villa Amelia,1,1,0,1,0,0,1,1,0
+Santa Fe,Rosario,Villa del Plata,0,0,0,1,0,0,1,0,0
+Santa Fe,Rosario,Villa Gobernador Gálvez,1,1,0,1,1,1,1,1,0
+Santa Fe,Rosario,Zavalla,1,1,0,0,1,1,1,1,0
+Santa Fe,San Cristóbal,Aguará Grande,0,0,0,0,0,0,0,1,1
+Santa Fe,San Cristóbal,Ambrosetti,0,0,0,0,1,0,1,1,1
+Santa Fe,San Cristóbal,Arrufo,1,1,0,1,1,1,1,0,0
+Santa Fe,San Cristóbal,Balneario La Verde,0,0,0,0,0,0,0,0,1
+Santa Fe,San Cristóbal,Capivara,0,0,0,0,0,0,0,0,1
+Santa Fe,San Cristóbal,Ceres,1,1,0,0,1,1,1,1,0
+Santa Fe,San Cristóbal,Colonia Ana,0,0,0,0,0,0,0,1,0
+Santa Fe,San Cristóbal,Colonia Bossi,1,0,0,1,1,0,0,1,0
+Santa Fe,San Cristóbal,Colonia Rosa,0,0,0,0,1,0,0,1,0
+Santa Fe,San Cristóbal,Constanza,0,0,0,0,0,0,1,0,0
+Santa Fe,San Cristóbal,Curupaity,0,0,0,0,0,0,0,1,0
+Santa Fe,Castellanos,Bauer Y Sigel,1,0,0,0,0,0,1,1,0
+Santa Fe,Castellanos,Bella Italia,1,1,0,1,1,1,1,1,0
+Santa Fe,Castellanos,Castellanos,0,1,0,0,0,0,1,1,0
+Santa Fe,Castellanos,Colonia Bicha,1,0,0,1,1,0,0,0,0
+Santa Fe,Castellanos,Colonia Cello,0,0,0,0,1,0,1,1,0
+Santa Fe,Castellanos,Colonia Margarita,0,1,0,0,0,0,1,0,0
+Santa Fe,Castellanos,Colonia Raquel,1,0,0,1,0,0,1,1,0
+Santa Fe,Castellanos,Coronel Fraga,0,0,0,0,0,0,1,1,0
+Santa Fe,Castellanos,Egusquiza,0,0,0,0,1,0,0,0,0
+Santa Fe,Castellanos,Esmeralda,0,1,0,0,1,0,1,0,0
+Santa Fe,Castellanos,Estación Clucellas,0,1,0,0,1,0,1,1,0
+Santa Fe,Castellanos,Estación Saguier,0,1,0,0,0,0,0,1,0
+Santa Fe,Castellanos,Eusebia Y Carolina,1,0,0,1,1,0,0,0,0
+Santa Fe,Castellanos,Eustolia,0,0,0,0,0,0,0,1,0
+Santa Fe,Castellanos,Frontera,0,0,0,1,1,1,0,0,0
+Santa Fe,Castellanos,Garibaldi,0,0,0,0,0,0,1,0,0
+Buenos Aires,General Arenales,La Trinidad,0,1,0,1,0,0,0,1,0
+Buenos Aires,General Belgrano,General Belgrano,1,1,1,1,1,1,1,1,1
+Buenos Aires,General Belgrano,Gorchs,0,0,0,0,1,1,1,1,1
+Buenos Aires,General Guido,General Guido,0,0,1,1,1,1,1,1,0
+Buenos Aires,General Guido,Labarden,0,0,0,0,1,1,1,1,0
+Buenos Aires,General Juan Madariaga,Barrio Kennedy,0,0,0,0,1,1,0,0,0
+Buenos Aires,General Juan Madariaga,General Juan Madariaga,1,1,1,1,1,1,1,0,1
+Buenos Aires,General La Madrid,General La Madrid,1,0,1,1,1,1,1,1,0
+Buenos Aires,General La Madrid,La Colina,0,0,0,0,0,0,1,0,0
+Buenos Aires,General La Madrid,Las Martinetas,0,0,0,0,0,0,1,1,0
+Buenos Aires,General La Madrid,Líbano,0,0,0,0,0,0,1,0,0
+Buenos Aires,General La Madrid,Pontaut,0,0,0,0,0,1,0,0,0
+Buenos Aires,General Las Heras,General Hornos,0,0,0,0,1,0,0,0,0
+Buenos Aires,Navarro,Navarro,1,1,1,1,1,1,1,1,1
+Buenos Aires,Navarro,Villa Moll (est. Moll),0,0,0,1,0,0,1,1,0
+Buenos Aires,Necochea,Claraz,0,0,0,0,0,0,1,1,0
+Buenos Aires,Necochea,Costa Bonita,0,0,0,0,1,1,0,1,0
+Buenos Aires,Necochea,Energía,0,0,0,0,0,0,0,1,0
+Buenos Aires,Necochea,Juan N. Fernández,1,0,0,0,1,1,1,1,1
+Buenos Aires,Necochea,Necochea - Quequén,1,1,1,1,1,1,1,1,1
+Buenos Aires,Necochea,Nicanor Olivera (est. La Dulce),1,0,1,0,0,1,1,1,0
+Buenos Aires,Necochea,Ramón Santamarina,0,0,0,0,1,1,1,0,0
+Buenos Aires,Olavarría,Colonia Hinojo,0,0,0,0,1,0,0,1,0
+Buenos Aires,Olavarría,Espigas,0,0,0,0,0,0,1,0,0
+CABA,Comuna 11,Villa Santa Rita,1,1,1,1,1,1,1,1,1
+Córdoba,Río Primero,Capilla de Los Remedios,0,0,0,0,1,1,1,0,0
+Córdoba,Río Primero,Colonia Las Cuatro Esquinas,0,0,0,0,0,0,1,0,0
+Córdoba,Río Primero,Diego de Rojas,0,0,0,1,1,0,1,0,0
+Córdoba,Río Primero,Esquina,0,0,0,1,1,0,1,0,1
+Córdoba,Río Primero,Kilómetro 658,0,0,0,0,0,0,1,0,0
+Córdoba,Río Primero,La Para,0,1,0,1,1,1,1,1,1
+Córdoba,Río Primero,La Posta,0,0,0,0,0,0,1,0,0
+Córdoba,Río Primero,La Puerta,0,0,0,1,1,1,1,1,0
+Córdoba,Río Primero,La Quinta,0,0,0,0,0,0,1,1,0
+Córdoba,Río Primero,Las Gramillas,0,0,0,0,1,0,1,0,0
+Córdoba,Río Primero,Las Saladas,0,0,0,0,0,0,1,0,0
+Córdoba,Río Primero,Montecristo,1,0,0,1,1,1,1,1,1
+Córdoba,Río Primero,Obispo Trejo,0,0,0,0,1,1,0,0,0
+Córdoba,Río Primero,Piquillín,1,0,0,0,1,1,1,0,0
+Córdoba,Río Primero,Pueblo Comechingones,0,0,0,0,1,0,1,0,0
+Córdoba,Río Primero,Río Primero,1,0,0,1,1,1,1,1,0
+Córdoba,Río Primero,Santa Rosa de Río Primero,1,0,0,1,1,1,1,1,0
+Córdoba,Río Primero,Villa Fontana,0,0,0,1,1,0,1,1,0
+Entre Ríos,Paraná,Colonia Avellaneda,1,0,0,0,1,1,1,1,0
+Entre Ríos,Paraná,Crespo,1,1,0,1,1,1,1,1,0
+Entre Ríos,Paraná,Crucesitas Séptima Sección,0,0,0,0,0,0,0,1,0
+Entre Ríos,Paraná,El Palenque,0,0,0,0,1,0,1,1,0
+Entre Ríos,Paraná,El Pingo,0,0,0,0,1,1,1,1,0
+Entre Ríos,Paraná,El Ramblón,0,0,0,0,1,0,0,0,0
+Entre Ríos,Paraná,El Ramblón,0,0,0,0,1,0,0,1,0
+Entre Ríos,Paraná,Hasenkamp,0,1,0,1,1,1,1,1,1
+Entre Ríos,Paraná,Hernandarias,0,1,0,0,1,1,1,1,0
+Entre Ríos,Paraná,La Picada,1,0,0,1,1,1,1,0,0
+Entre Ríos,Paraná,Las Tunas,0,0,0,0,0,0,0,1,0
+Entre Ríos,Paraná,María Grande,0,1,1,1,1,1,1,1,0
+Entre Ríos,Paraná,Oro Verde,1,1,0,0,1,1,1,1,0
+Mendoza,Las Heras,Las Heras,1,1,1,1,1,1,1,1,1
+Mendoza,Las Heras,Panquehua,0,0,0,1,1,1,0,0,0
+Mendoza,Las Heras,Papagayos,0,0,0,0,1,1,0,0,1
+Mendoza,Las Heras,Puente del Inca,0,0,0,0,1,1,0,0,1
+Mendoza,Las Heras,Sierras de Encalada,0,0,0,0,1,1,0,0,0
+Mendoza,Las Heras,Uspallata,1,0,1,1,1,1,1,0,0
+Mendoza,Lavalle,3 de Mayo,0,0,0,0,1,0,1,1,0
+Mendoza,Lavalle,Barrio La Pega,0,0,0,0,0,0,1,0,0
+Mendoza,Lavalle,Barrio Los Olivos,1,0,0,0,0,0,1,0,0
+Mendoza,Lavalle,Costa de Araujo,0,0,0,1,1,1,0,1,0
+Salta,Cafayate,Cafayate,1,0,0,1,1,1,1,1,1
+Salta,Cafayate,Tolombón,0,0,0,0,1,0,0,1,0
+Salta,Capital,Atocha,0,0,0,1,1,1,1,1,0
+Salta,Capital,El Tipal - La Almudena,0,0,0,0,1,1,0,1,1
+Salta,Capital,La Ciénaga Y Barrio San Rafael,0,0,0,0,1,0,0,1,0
+Salta,Capital,Las Costas,0,0,0,0,0,1,0,1,0
+Salta,Capital,Salta,1,1,1,1,1,1,1,1,1
+Salta,Capital,Villa San Lorenzo,1,1,0,1,1,1,1,1,1
+Salta,Cerrillos,Barrio El Congreso,0,0,0,1,1,0,0,0,0
+Salta,Cerrillos,Barrio Las Tunas,0,0,0,1,1,0,0,0,0
+Salta,Cerrillos,Barrio Los Pinares,1,0,0,1,0,0,0,1,0
+Buenos Aires,General Las Heras,General Las Heras (est. Las Heras),1,1,1,1,1,1,1,1,0
+Buenos Aires,General Las Heras,Lozano,0,0,0,0,0,0,0,0,1
+Buenos Aires,General Las Heras,Plomer,0,0,0,0,0,0,1,0,0
+Buenos Aires,General Las Heras,Villars,0,1,1,1,0,0,1,0,0
+Buenos Aires,General Lavalle,Chacras de San Clemente,0,0,0,0,0,0,0,1,0
+Buenos Aires,General Lavalle,General Lavalle,0,1,0,1,1,1,1,1,1
+Buenos Aires,General Lavalle,Pavón,0,0,0,1,1,1,0,1,0
+Buenos Aires,General Paz,Loma Verde,0,0,0,0,1,1,1,1,0
+Buenos Aires,General Paz,Ranchos,1,0,1,1,1,1,1,1,0
+Buenos Aires,General Paz,Villanueva (ap. Río Salado),0,0,0,0,0,0,1,1,0
+Buenos Aires,General Pinto,Colonia San Ricardo (est. Iriarte),1,0,0,0,1,1,1,1,0
+Buenos Aires,Olavarría,Hinojo,1,0,0,0,1,1,1,0,1
+Buenos Aires,Olavarría,Olavarría,1,1,1,1,1,1,1,0,1
+Buenos Aires,Olavarría,Recalde,0,0,0,0,0,0,1,0,0
+Buenos Aires,Olavarría,Santa Luisa,0,0,0,0,0,1,0,0,0
+Buenos Aires,Olavarría,Sierra Chica,0,1,0,0,1,1,0,0,0
+Buenos Aires,Olavarría,Sierras Bayas,1,0,1,0,0,0,1,0,0
+Buenos Aires,Olavarría,Villa Alfredo Fortabat,1,0,0,0,1,1,1,0,0
+Buenos Aires,Olavarría,Villa Arrieta,0,0,0,0,1,1,0,0,0
+Buenos Aires,Olavarría,Villa La Serranía,0,0,0,0,1,0,0,0,0
+Buenos Aires,Patagones,Bahía San Blas,0,0,1,0,1,1,1,1,0
+Buenos Aires,Patagones,Cardenal Cagliero,0,0,0,0,1,0,0,0,0
+Buenos Aires,Patagones,Carmen de Patagones,1,0,1,1,1,1,1,1,1
+Buenos Aires,Patagones,José B. Casas,0,0,0,0,0,0,0,1,0
+Buenos Aires,Patagones,Juan A. Pradere,0,1,0,0,1,0,0,1,0
+CABA,Comuna 12,Coghlan,1,1,1,1,1,1,1,1,1
+Córdoba,Río Segundo,Costasacate,1,0,0,1,1,1,1,1,0
+Córdoba,Río Segundo,Impira,0,0,0,0,0,1,0,0,0
+Córdoba,Río Segundo,Laguna Larga,1,0,0,1,1,1,1,1,0
+Córdoba,Río Segundo,Las Junturas,1,0,0,1,1,1,1,0,1
+Córdoba,Río Segundo,Los Chañaritos,1,0,0,1,1,0,0,1,0
+Córdoba,Río Segundo,Luque,1,1,0,1,1,1,1,1,0
+Córdoba,Río Segundo,Manfredi,1,0,0,1,1,1,1,0,0
+Córdoba,Río Segundo,Matorrales,0,0,0,0,1,1,1,0,0
+Córdoba,Río Segundo,Oncativo,1,1,0,1,1,1,1,1,0
+Córdoba,Río Segundo,Pilar,1,0,0,1,1,1,1,1,1
+Córdoba,Río Segundo,Pozo del Molle,0,1,0,0,1,1,1,0,0
+Córdoba,Río Segundo,Rincón,0,1,0,0,1,1,1,1,0
+Córdoba,Río Segundo,Río Segundo,1,0,0,1,1,1,1,1,0
+Córdoba,Río Segundo,Santiago Temple,1,1,0,0,1,1,1,1,1
+Entre Ríos,Paraná,Paraná,1,1,1,1,1,1,1,1,1
+Entre Ríos,Paraná,Pueblo Bellocq (est. Las Garzas),0,0,0,0,0,0,1,0,0
+Entre Ríos,Paraná,Pueblo Brugo,0,0,0,0,1,1,1,1,0
+Entre Ríos,Paraná,Pueblo General San Martín,0,0,0,0,1,0,0,0,0
+Entre Ríos,Paraná,San Benito,1,1,0,0,1,1,1,1,0
+Entre Ríos,Paraná,Sauce Montrull,0,0,0,0,0,0,0,1,0
+Entre Ríos,Paraná,Sauce Pinto,0,0,0,0,0,0,1,0,0
+Entre Ríos,Paraná,Seguí,1,1,0,0,1,1,1,1,1
+Entre Ríos,Paraná,Sosa,0,0,0,0,0,0,1,0,0
+Entre Ríos,Paraná,Tabossi,0,1,0,1,1,1,1,1,0
+Entre Ríos,Paraná,Tezanos Pintos,0,0,0,0,0,0,1,0,0
+Entre Ríos,Paraná,Viale,1,1,0,1,1,1,1,1,0
+Entre Ríos,Paraná,Villa Fontana,0,0,0,0,1,0,1,0,0
+Entre Ríos,Paraná,Villa Gobernador Luis F. Etchevehere,0,0,0,0,0,0,1,0,0
+Mendoza,Maipú,Coquimbito,0,0,0,1,1,1,0,0,0
+Mendoza,Maipú,Cruz de Piedra,0,0,0,1,1,1,1,1,0
+Mendoza,Maipú,El Pedregal,0,0,0,0,0,0,0,1,0
+Mendoza,Maipú,Fray Luis Beltrán,1,1,1,1,1,1,1,1,0
+Mendoza,Maipú,General Gutierrez,0,0,0,1,1,1,0,0,0
+Mendoza,Maipú,Luzuriaga,0,0,0,1,1,1,0,0,0
+Mendoza,Maipú,Maipú,1,1,1,1,1,1,1,1,0
+Mendoza,Maipú,Rodeo del Medio,1,0,1,1,1,1,1,1,0
+Mendoza,Maipú,Russell,1,0,1,1,1,1,1,0,0
+Mendoza,Maipú,San Roque,1,0,1,1,1,1,1,1,0
+Mendoza,Maipú,Villa Teresa,0,0,0,0,0,0,0,1,0
+Mendoza,Malargüe,Agua Escondida,0,0,0,0,1,1,0,0,0
+Salta,Cerrillos,Cerrillos,1,1,0,1,1,1,1,1,1
+Salta,Cerrillos,La Merced,0,0,0,1,1,1,1,1,1
+Salta,Cerrillos,San Agustín,0,0,0,0,0,0,1,1,1
+Salta,Cerrillos,Villa Los Álamos,0,0,0,0,1,1,0,0,0
+Salta,Chicoana,Barrio Finca La Maroma,0,0,0,1,0,0,0,0,0
+Salta,Chicoana,Barrio La Rotonda,0,0,0,1,0,0,0,1,0
+Salta,Chicoana,Barrio Santa Teresita,0,0,0,1,0,0,0,0,0
+Salta,Chicoana,Chicoana,1,0,0,1,1,1,1,1,1
+Salta,Chicoana,El Carril,1,0,0,1,1,1,1,1,1
+Salta,General Güemes,Campo Santo,1,0,0,1,1,1,1,1,1
+Salta,General Güemes,Cobos,0,0,0,1,1,0,0,1,0
+Salta,General Güemes,El Bordo,0,0,0,1,0,0,0,1,0
+Tucumán,Monteros,Sargento Moya,0,0,0,0,0,0,0,1,0
+Buenos Aires,General Pinto,General Pinto,0,0,1,0,1,1,1,0,1
+Buenos Aires,General Pinto,Germania (est. Mayor José Orellano),1,0,0,0,1,1,0,0,0
+Buenos Aires,General Pinto,Gunther,0,0,0,0,0,1,0,0,0
+Buenos Aires,General Pinto,Villa Francia (est. Coronel Granada),0,0,0,1,1,0,1,0,1
+Buenos Aires,General Pueyrredón,Barrio Colinas Verdes,0,0,0,0,1,1,0,1,0
+Buenos Aires,General Pueyrredón,Barrio El Boquerón,0,0,0,0,1,0,0,1,0
+Buenos Aires,General Pueyrredón,Barrio El Casal,0,0,0,0,0,0,0,1,0
+Buenos Aires,General Pueyrredón,Barrio El Coyunco,0,0,0,1,1,1,0,1,0
+Buenos Aires,General Pueyrredón,Barrio La Gloria,0,0,0,0,1,1,0,1,0
+Buenos Aires,General Pueyrredón,Barrio Santa Paula,0,0,0,1,1,1,0,1,0
+Buenos Aires,General Pueyrredón,Batán,1,0,0,1,1,1,1,1,1
+Buenos Aires,General Pueyrredón,Camet,1,0,0,1,1,1,1,1,1
+Buenos Aires,Patagones,Stroeder,0,0,1,1,1,1,1,1,0
+Buenos Aires,Patagones,Villalonga,1,0,1,1,1,1,1,1,0
+Buenos Aires,Pehuajó,Capitán Castro,0,0,0,0,0,0,0,1,0
+Buenos Aires,Pehuajó,Chiclana,0,0,0,0,1,1,0,1,0
+Buenos Aires,Pehuajó,Francisco Madero,0,0,1,0,1,1,1,1,0
+Buenos Aires,Pehuajó,Inocencio Sosa,0,0,0,0,0,0,0,1,0
+Buenos Aires,Pehuajó,Juan José Paso,0,0,0,1,1,1,1,1,0
+Buenos Aires,Pehuajó,Magdala,0,0,0,0,0,0,1,1,0
+Buenos Aires,Pehuajó,Mones Cazón,0,0,0,0,1,1,1,1,0
+Buenos Aires,Pehuajó,Nueva Plata,0,0,0,0,0,0,1,1,0
+Buenos Aires,Pehuajó,Pehuajó,1,1,1,1,1,1,1,1,0
+Buenos Aires,Pehuajó,San Bernardo (est. Guanaco),0,0,0,0,0,0,1,1,0
+Buenos Aires,Pehuajó,San Esteban,0,0,0,0,0,0,0,1,0
+Buenos Aires,Pellegrini,Bocayuva,0,0,0,0,1,0,0,0,0
+Tucumán,Monteros,Teniente Berdina,0,0,0,0,0,0,0,1,0
+CABA,Comuna 12,Saavedra,1,1,1,1,1,1,1,1,1
+Córdoba,Río Segundo,Villa del Rosario,1,1,0,1,1,1,1,1,0
+Córdoba,San Alberto,Ambul,0,0,0,0,1,1,1,0,0
+Córdoba,San Alberto,Arroyo Los Patos,0,1,0,1,1,0,0,1,0
+Córdoba,San Alberto,El Huayco,1,0,0,0,0,0,1,1,0
+Córdoba,San Alberto,La Cortadera,0,0,0,1,0,0,0,0,0
+Córdoba,San Alberto,Las Calles,0,0,0,1,0,0,1,1,0
+Córdoba,San Alberto,Las Rabonas,0,0,0,0,0,0,0,1,0
+Córdoba,San Alberto,Mina Clavero,1,1,0,1,1,1,1,0,0
+Córdoba,San Alberto,Mussi,0,0,0,0,0,0,1,0,0
+Córdoba,San Alberto,Nono,1,1,0,1,1,1,1,1,0
+Córdoba,San Alberto,Panaholma,0,0,0,0,1,0,0,0,0
+Córdoba,San Alberto,San Huberto,0,0,0,1,0,0,0,1,0
+Córdoba,San Alberto,San Lorenzo,0,0,0,0,1,1,0,1,0
+Córdoba,San Alberto,San Pedro,0,0,0,1,1,0,0,1,0
+Córdoba,San Alberto,San Vicente,0,0,0,1,1,0,1,1,0
+Córdoba,San Alberto,Sauce Arriba,0,0,0,0,0,0,0,1,0
+Córdoba,San Alberto,Villa Cura Brochero,0,1,0,1,1,1,1,1,0
+Córdoba,San Alberto,Villa Sarmiento,1,0,0,0,1,0,0,1,0
+Córdoba,San Javier,Conlara,0,0,0,0,0,0,0,1,0
+Córdoba,San Javier,Cruz Caña,0,0,0,0,0,0,0,1,0
+Córdoba,San Javier,Dos Arroyos,0,0,0,0,0,0,0,1,0
+Córdoba,San Javier,El Pantanillo,0,0,0,0,0,0,0,1,0
+Entre Ríos,Paraná,Villa Urquiza,1,0,0,0,1,1,1,0,0
+Entre Ríos,San Salvador,General Campos,1,0,0,0,1,0,1,1,1
+Entre Ríos,San Salvador,San Salvador,1,0,0,1,1,1,1,1,0
+Entre Ríos,Tala,Altamirano Sur,0,0,0,0,0,0,1,0,0
+Entre Ríos,Tala,Durazno,1,0,0,0,0,0,1,1,0
+Entre Ríos,Tala,Gobernador Echagüe,0,0,0,0,0,0,1,1,0
+Entre Ríos,Tala,Gobernador Mansilla,0,0,0,0,1,1,1,1,0
+Entre Ríos,Tala,Gobernador Solá,0,0,0,0,1,0,0,1,0
+Entre Ríos,Tala,Guardamonte,0,0,0,0,0,0,1,0,0
+Entre Ríos,Tala,Las Guachas,0,0,0,0,0,0,0,1,0
+Entre Ríos,Tala,Maciá,0,1,0,0,1,1,1,1,0
+Entre Ríos,Tala,Rosario del Tala,1,0,0,1,1,1,1,0,0
+Entre Ríos,Uruguay,1º de Mayo,0,0,0,0,0,0,1,1,0
+Entre Ríos,Uruguay,Basavilbaso,1,0,0,1,1,0,1,1,1
+Mendoza,Malargüe,Las Leñas,0,0,0,1,1,1,1,0,0
+Mendoza,Malargüe,Malargüe,0,1,0,1,1,1,1,1,1
+Mendoza,Rivadavia,Andrade,0,0,0,0,0,0,0,1,0
+Mendoza,Rivadavia,Barrio Cooperativa Los Campamentos,0,0,0,0,1,0,0,1,0
+Mendoza,Rivadavia,Barrio Rivadavia,0,0,0,0,0,0,0,1,0
+Mendoza,Rivadavia,Cuadro Ortega,0,0,0,0,0,1,0,0,0
+Mendoza,Rivadavia,El Mirador,0,0,0,1,0,0,0,1,0
+Mendoza,Rivadavia,La Central,0,0,0,0,1,1,0,1,0
+Mendoza,Rivadavia,La Esperanza,0,0,0,0,0,0,0,1,0
+Mendoza,Rivadavia,La Florida,0,0,0,0,0,0,0,1,0
+Mendoza,Rivadavia,La Libertad,0,0,0,0,0,0,0,1,0
+Mendoza,Rivadavia,Los Árboles,0,0,0,0,0,0,0,1,0
+Mendoza,Rivadavia,Los Campamentos,0,0,0,0,1,0,1,1,0
+Mendoza,Rivadavia,Medrano,0,0,1,0,1,1,1,1,0
+Mendoza,Rivadavia,Mundo Nuevo,0,0,0,0,1,1,0,1,0
+Mendoza,Rivadavia,Reducción de Abajo,0,0,0,0,0,0,1,1,0
+Mendoza,San Martín,El Ramblón,0,0,0,0,0,0,0,1,0
+Mendoza,San Martín,Montecaseros,0,0,0,0,1,1,1,1,0
+Mendoza,San Martín,Nueva California,0,0,0,0,0,0,0,1,0
+Mendoza,San Martín,Palmira,0,0,0,1,1,1,0,1,0
+Mendoza,San Martín,San Martín,0,1,0,1,1,1,0,1,1
+Mendoza,San Martín,Tres Porteñas,0,0,0,1,1,1,1,1,0
+Mendoza,San Rafael,25 de Mayo,0,1,1,0,1,1,1,1,0
+Mendoza,San Rafael,Barrio Campos El Toledano,0,0,0,0,1,1,0,0,0
+Mendoza,San Rafael,Barrio Echeverria,0,0,0,0,1,1,0,0,0
+Mendoza,San Rafael,Barrio Intendencia,0,0,0,0,1,1,1,0,0
+Mendoza,San Rafael,Capitán Montoya,0,0,0,0,1,1,0,1,0
+Mendoza,San Rafael,Cuadro Benegas,1,0,1,1,0,0,1,1,0
+Mendoza,San Rafael,Cuadro Nacional,0,0,0,0,1,1,0,0,0
+Mendoza,San Rafael,El Nihuil,0,0,0,0,0,0,1,1,0
+Salta,General Güemes,General Güemes,1,0,0,1,1,1,1,0,1
+Salta,Grl. José de San Martín,Aguaray,1,1,0,1,1,0,1,1,1
+Salta,Grl. José de San Martín,Campamento Vespucio,1,0,0,1,1,0,1,0,1
+Salta,Grl. José de San Martín,Campichuelo,0,0,0,0,1,0,1,0,0
+Salta,Grl. José de San Martín,Campo Durán,0,0,0,1,1,0,0,0,0
+Salta,Grl. José de San Martín,Capiazuti,0,0,0,0,1,0,0,0,0
+Salta,Grl. José de San Martín,Coronel Cornejo,1,0,0,1,1,0,1,0,1
+Salta,Grl. José de San Martín,Dragones,0,0,0,1,1,0,1,1,1
+Salta,Grl. José de San Martín,Embarcación,1,1,0,1,1,1,1,0,1
+Salta,Grl. José de San Martín,General Ballivián,0,0,0,1,1,0,0,0,1
+Salta,Grl. José de San Martín,General Mosconi,1,0,0,1,1,1,1,1,1
+Salta,Grl. José de San Martín,Hickman,0,0,0,0,1,0,0,0,0
+Santa Fe,9 de Julio,Esteban Rams,0,0,0,0,1,0,1,1,1
+Santa Fe,9 de Julio,Gato Colorado,0,0,0,0,1,0,1,0,1
+Santa Fe,9 de Julio,Gregoria Pérez de Denis (est. El Nochero),0,0,0,0,1,0,1,1,1
+Salta,Grl. José de San Martín,Misión Chaqueña,0,0,0,0,1,0,0,0,0
+Salta,Grl. José de San Martín,Misión El Cruce - El Milagro - El Jardín de San Martín,0,0,0,0,1,1,0,0,0
+Salta,Grl. José de San Martín,Padre Lozano,0,0,0,0,1,0,0,0,0
+Salta,Grl. José de San Martín,Piquirenda,0,0,0,1,0,0,0,0,0
+Salta,Grl. José de San Martín,Profesor Salvador Mazza,1,0,0,1,1,1,1,0,1
+Salta,Grl. José de San Martín,Tartagal,1,1,0,1,1,1,1,1,1
+Salta,Grl. José de San Martín,Tobantirenda,0,0,0,1,0,0,0,0,0
+Salta,Grl. José de San Martín,Yacuy,0,0,0,1,1,0,0,0,0
+Salta,Guachipas,Guachipas,0,0,0,1,1,0,1,1,1
+Salta,Iruya,Iruya,0,0,0,1,0,0,1,1,0
+Salta,Iruya,Isla de Cañas,0,0,0,0,1,0,1,1,0
+Salta,Iruya,Pueblo Viejo,0,0,0,1,0,0,1,0,0
+Santa Fe,Caseros,Gödeken,0,1,0,1,1,0,1,0,0
+Santa Fe,Caseros,Los Molinos,1,1,0,0,1,1,1,0,0
+Santa Fe,Caseros,Los Nogales,0,1,0,0,0,0,1,0,0
+Santa Fe,Caseros,Los Quirquinchos,0,0,0,0,1,1,1,1,0
+Santa Fe,Caseros,San José de La Esquina,1,1,0,0,1,1,1,1,0
+Santa Fe,Caseros,Sanford,1,0,0,1,1,1,1,0,0
+Santa Fe,Caseros,Villada,1,1,0,0,1,0,1,0,0
+Santa Fe,Castellanos,Aldao (est. Casablanca),1,0,0,1,1,0,1,1,0
+Santa Fe,Castellanos,Angélica,1,0,0,1,1,1,1,1,0
+Santa Fe,Castellanos,Ataliva,1,1,0,1,1,1,1,1,0
+Santa Fe,Castellanos,Aurelia,0,0,0,0,0,0,1,1,0
+Santa Fe,Castellanos,Barrios Acapulco Y Veracruz,0,0,0,0,1,0,0,0,0
+Santa Fe,Las Colonias,Elisa,0,0,0,1,1,0,1,0,0
+Santa Fe,Las Colonias,Empalme San Carlos,0,0,0,0,1,0,1,1,0
+Santa Fe,Las Colonias,Esperanza,1,1,0,1,1,1,1,1,1
+Santa Fe,Las Colonias,Felicia,0,0,0,0,1,1,1,1,0
+Santa Fe,Las Colonias,Franck,1,0,0,1,1,1,1,1,0
+Santa Fe,Las Colonias,Grutly,1,0,0,0,1,0,1,1,0
+Santa Fe,Las Colonias,Hipatia,0,0,0,0,0,0,0,1,0
+Santa Fe,Las Colonias,Humboldt,1,0,0,1,1,1,1,1,0
+Santa Fe,Las Colonias,La Pelada,0,0,0,1,1,0,1,1,0
+Santa Fe,Las Colonias,Las Tunas,1,0,0,1,1,1,1,0,1
+Santa Fe,Las Colonias,María Luisa,0,0,0,0,1,0,1,1,0
+Santa Fe,Las Colonias,Matilde,1,0,0,0,1,0,1,1,0
+Santa Fe,Las Colonias,Santa Clara de Buena Vista,0,1,0,0,1,1,1,0,0
+Santa Fe,Las Colonias,Santo Domingo,0,0,0,0,1,0,1,1,0
+Santa Fe,Las Colonias,Sarmiento,1,0,0,0,1,1,1,1,0
+Santa Fe,Rosario,Acebal,1,1,0,1,1,0,1,1,0
+Santa Fe,Rosario,Albarellos,0,0,0,0,0,0,1,1,0
+Santa Fe,Rosario,Álvarez,1,1,0,1,1,1,1,0,0
+Santa Fe,Rosario,Alvear,1,1,0,1,1,0,1,1,0
+Santa Fe,Rosario,Arbilla,1,0,0,0,0,0,0,0,0
+Santa Fe,Rosario,Arminda,0,1,0,0,0,0,1,0,0
+Santa Fe,Rosario,Arroyo Seco,1,1,0,1,1,1,1,1,0
+Santa Fe,Rosario,Carmen del Sauce,0,1,0,1,1,0,0,1,0
+Santa Fe,Rosario,Coronel Bogado,1,0,0,1,1,0,1,0,0
+Santa Fe,San Cristóbal,Hersilia,0,1,0,0,1,1,1,1,0
+Santa Fe,San Cristóbal,Huanqueros,0,0,0,0,1,0,0,1,0
+Santa Fe,San Cristóbal,La Cabral,0,0,0,0,0,0,1,1,1
+Santa Fe,San Cristóbal,La Rubia,0,1,0,0,0,0,1,1,0
+Santa Fe,San Cristóbal,Las Palmeras,0,0,0,0,1,0,1,1,0
+Santa Fe,San Cristóbal,Moisés Ville,1,1,0,1,1,1,1,1,0
+Santa Fe,San Cristóbal,Monigotes,0,0,0,1,1,1,1,1,0
+Santa Fe,San Cristóbal,Ñanducita,0,0,0,0,0,0,0,1,0
+Santa Fe,San Cristóbal,Palacios,1,0,0,1,1,1,0,1,0
+Santa Fe,San Cristóbal,San Cristóbal,1,1,0,1,1,1,1,1,1
+Santa Fe,San Cristóbal,San Guillermo,1,1,0,1,1,1,1,1,0
+Buenos Aires,25 de Mayo,25 de Mayo,1,1,0,1,1,1,1,1,1
+Buenos Aires,25 de Mayo,Agustín Mosconi,0,0,0,0,0,0,1,0,0
+Buenos Aires,25 de Mayo,del Valle,1,0,0,0,1,1,0,0,1
+Buenos Aires,25 de Mayo,Ernestina,1,0,0,0,0,0,1,0,0
+Buenos Aires,25 de Mayo,Gobernador Ugarte,0,0,0,0,0,0,0,1,0
+Buenos Aires,25 de Mayo,Lucas Monteverde,0,0,0,0,0,0,0,1,0
+Buenos Aires,25 de Mayo,Norberto de La Riestra,0,1,0,1,1,1,1,1,0
+Buenos Aires,25 de Mayo,Pedernales,1,0,0,1,1,0,1,1,0
+Buenos Aires,25 de Mayo,San Enrique,0,0,0,0,0,0,1,0,0
+Buenos Aires,25 de Mayo,Valdés,0,0,0,0,1,0,1,0,0
+Buenos Aires,9 de Julio,12 de Octubre,0,0,0,0,0,0,1,1,0
+Buenos Aires,9 de Julio,9 de Julio,1,1,1,1,1,1,1,1,1
+Buenos Aires,General San Martín,Villa Bernardo Monteagudo,0,1,0,1,1,1,0,0,0
+Buenos Aires,General San Martín,Villa Chacabuco,0,1,0,1,1,1,0,0,0
+Buenos Aires,General San Martín,Villa Coronel Jose M. Zapiola,0,1,0,1,1,1,0,0,0
+Buenos Aires,General San Martín,Villa General Antonio J. de Sucre,0,1,0,1,1,1,0,0,0
+Buenos Aires,General San Martín,Villa General Eugenio Necochea,0,1,0,1,1,1,0,0,0
+Buenos Aires,General San Martín,Villa General Jose Tomas Guido,0,1,0,1,1,1,0,0,0
+Buenos Aires,General San Martín,Villa General Juan G. Las Heras,0,1,0,1,1,1,0,0,0
+Buenos Aires,General San Martín,Villa Godoy Cruz,0,1,0,1,1,1,0,0,0
+Buenos Aires,General San Martín,Villa Granaderos de San Martín,0,1,0,1,1,1,0,1,0
+Buenos Aires,General San Martín,Villa Gregoria Matorras,0,1,0,1,1,1,0,0,0
+Buenos Aires,General San Martín,Villa José León Suarez,1,1,0,1,1,1,1,1,0
+Tucumán,Leales,Villa de Leales,0,0,0,0,1,0,1,1,0
+Tucumán,Leales,Villa Fiad - Ingenio Leales,0,0,0,0,1,1,1,1,0
+Tucumán,Lules,Barrio Araujo,0,0,0,0,1,1,0,0,0
+Tucumán,Lules,Barrio San Felipe,0,0,0,0,1,1,0,0,0
+Tucumán,Lules,El Manantial,0,0,0,1,1,1,1,0,0
+Tucumán,Lules,Ingenio San Pablo,1,0,0,1,1,1,1,1,0
+Tucumán,Lules,La Reducción,1,0,0,0,1,1,1,0,0
+Tucumán,Lules,Lules,1,1,0,1,1,1,1,1,0
+Tucumán,Monteros,Acheral,1,0,0,1,1,1,1,1,0
+Tucumán,Monteros,Capitán Cáceres,0,0,0,0,0,0,0,1,0
+Tucumán,Monteros,Monteros,1,0,0,1,1,1,1,1,0
+Tucumán,Monteros,Pueblo Independencia,1,0,0,0,1,1,1,0,0
+Tucumán,Monteros,Río Seco,1,0,0,1,1,1,1,1,0
+Tucumán,Monteros,Santa Lucía,1,0,0,0,1,0,1,1,0
+Buenos Aires,Pilar,Los Cachorros,0,1,0,0,1,1,0,0,0
+Buenos Aires,Pilar,Manzanares,0,1,0,1,1,1,0,1,0
+Buenos Aires,Pilar,Manzone,0,0,0,0,1,1,0,0,0
+Buenos Aires,Pilar,Maquinista F. Savio (oeste),0,0,0,0,1,1,0,1,0
+Buenos Aires,Pilar,Pilar,1,1,1,1,1,1,1,1,1
+Buenos Aires,Pilar,Presidente Derqui,1,1,0,1,1,1,1,1,0
+Buenos Aires,Pilar,Roberto de Vicenzo,0,0,0,0,1,1,0,0,0
+Buenos Aires,Pilar,Santa Teresa,0,0,0,0,1,1,0,0,1
+Buenos Aires,Pilar,Tortuguitas,0,0,0,1,1,1,0,1,1
