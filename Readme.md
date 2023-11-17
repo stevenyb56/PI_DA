@@ -112,5 +112,6 @@ $\text{KPI} = \frac{\text{Nuevos usuarios - usuarios actuales}}{\text{usuarios a
 
 En la siguiente imagen se aprecian los rendimientos de los dos KPI propuestos.
 
-![KPI1](../imagenes/kpi1.PNG)
-![KPI2](../imagenes/kpi2.PNG)
+![KPI1](imagenes/kpi1.PNG)
+
+![KPI2](imagenes/kpi2.PNG)
