@@ -1,9 +1,9 @@
-Año,Trimestre 3,Provincia,Accesos por cada 100 hogares 3,Trimestre 4,Accesos por cada 100 hogares 4,Diferencia_Accesos
-2022,3,Buenos Aires,78.11,4,78.94,1.06
-2022,3,CABA,122.28,4,122.73,0.37
-2022,3,Córdoba,88.31,4,89.03,0.82
-2022,3,Entre Ríos,63.67,4,64.01,0.53
-2022,3,Mendoza,51.03,4,51.36,0.65
-2022,3,Salta,57.76,4,57.96,0.35
-2022,3,Santa Fe,78.55,4,78.4,-0.19
-2022,3,Tucumán,61.14,4,61.04,-0.16
+Año,Trimestre 3,Provincia,Accesos por cada 100 hogares 3,Trimestre 4,Accesos por cada 100 hogares 4
+2022,3,Buenos Aires,78,4,79
+2022,3,CABA,122,4,123
+2022,3,Córdoba,88,4,89
+2022,3,Entre Ríos,64,4,64
+2022,3,Mendoza,51,4,51
+2022,3,Salta,58,4,58
+2022,3,Santa Fe,79,4,78
+2022,3,Tucumán,61,4,61
