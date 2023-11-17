@@ -116,7 +116,7 @@ En la siguientes imagenes se aprecian los rendimientos de los dos KPI propuestos
 
 ![KPI2](imagenes/kpi2.PNG)
 
-## Conclusiones y recomendaciones
+## Conclusiones
 
 En el cuarto trimestre del año 2022, se evidencia un aumento en el acceso a los servicios de Internet en comparación con el trimestre anterior. Sin embargo, es importante destacar que este avance no fue uniforme, ya que dos provincias no lograron alcanzar la meta establecida. Esta situación podría deberse a la falta de cobertura de diversas tecnologías para la conexión a Internet en esas regiones específicas. Es crucial abordar las limitaciones de cobertura para garantizar que todas las provincias puedan beneficiarse de manera equitativa del incremento en el acceso a servicios de Internet.
 
