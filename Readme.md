@@ -104,14 +104,23 @@ $\text{KPI} = \frac{\text{Nuevo acceso - Acceso actual}}{\text{Acceso actual}}·
 
 
 
-- ***Aumentar un 10 % el acceso al servico de Fibra Óptica y Cablemodem en las provincias de CABA, Buenos Aires, Córdoba, Entre Ríos, Mendoza, Salta, Santa Fe y Tucumán***
+- ***Aumentar un 10 % el acceso al servico de Fibra Óptica y Cablemodem en las provincias de CABA, Buenos Aires, Córdoba, Entre Ríos, Mendoza, Salta, Santa Fe y Tucumán para el proximo semestre***
 
 Como se evidenció en el análisis exploratorio, la ausencia de conexión a internet mediante Fibra Óptica en las provincias de CABA, Buenos Aires, Córdoba, Entre Ríos, Mendoza, Salta, Santa Fe y Tucumán señalan una brecha en la disponibilidad de este servicio. Proponer un aumento del 10 % en el acceso a Fibra Óptica y Cablemódem en estas provincias podría contribuir significativamente a cerrar esa brecha y mejorar la conectividad en estas regiones, ya sea captando a nuevos usuarios o actualizando los usuarios que poseen conexion por cablemodem. Esta medida no solo impulsaría el acceso a tecnologías de conexión más avanzadas, sino que también podría tener impactos positivos en áreas como la educación, el trabajo remoto y el entretenimiento, promoviendo así un desarrollo más equitativo y sostenible en estas localidades. La formula para se establece de la siguiente manera 
 
 $\text{KPI} = \frac{\text{Nuevos usuarios - usuarios actuales}}{\text{usuarios actuales}}·100$
 
-En la siguiente imagen se aprecian los rendimientos de los dos KPI propuestos.
+En la siguientes imagenes se aprecian los rendimientos de los dos KPI propuestos.
 
 ![KPI1](imagenes/kpi1.PNG)
 
 ![KPI2](imagenes/kpi2.PNG)
+
+## Conclusiones y recomendaciones
+
+En el cuarto trimestre del año 2022, se evidencia un aumento en el acceso a los servicios de Internet en comparación con el trimestre anterior. Sin embargo, es importante destacar que este avance no fue uniforme, ya que dos provincias no lograron alcanzar la meta establecida. Esta situación podría deberse a la falta de cobertura de diversas tecnologías para la conexión a Internet en esas regiones específicas. Es crucial abordar las limitaciones de cobertura para garantizar que todas las provincias puedan beneficiarse de manera equitativa del incremento en el acceso a servicios de Internet.
+
+
+Con respecto al segundo indicador clave de rendimiento (KPI), se puede concluir que se ha producido un aumento significativo en el acceso a servicios de Internet a través de fibra óptica. Este incremento es evidente en los porcentajes observados, los cuales superaron las expectativas, a excepción de Buenos Aires. Además, se puede inferir que varios usuarios que anteriormente utilizaban tecnología Cablemódem optaron por cambiar a servicios de fibra óptica, como se evidencia en la disminución porcentual observada. De manera notable, la adopción de fibra óptica superó las expectativas en la mayoría de las provincias, lo que indica una tendencia general hacia esta tecnología más avanzada y eficiente. Este cambio de preferencia sugiere la importancia de continuar expandiendo la infraestructura de fibra óptica para satisfacer la creciente demanda y mantenerse al tanto de las necesidades cambiantes de los usuarios en diversas regiones.
+
+
