@@ -30,11 +30,15 @@ De los datos presdentes en la pagina de ENACOM se trabajaron con los siguientes 
    
 
 ## Ámbito de Proyecto
-El proyecto se desarrolló siguiendo estos aspectos clave:
 
--   Preprocesamiento de datos : [ETL]()
--   Análisis exploratorio de datos y :[EDA]()
+* El proyecto se desarrolló siguiendo estos aspectos clave:
 
+- Preprocesamiento de datos : [ETL](https://github.com/stevenyb56/PI_DA/blob/main/Notebooks/ETL.ipynb)
+- Análisis exploratorio de datos y :[EDA](https://github.com/stevenyb56/PI_DA/blob/main/Notebooks/EDA.ipynb)
+- KPI´s :[kpi](https://github.com/stevenyb56/PI_DA/blob/main/Notebooks/KPI.ipynb)
+
+* Adicionales :
+- Censo 2022 :[Censo](https://github.com/stevenyb56/PI_DA/blob/main/Notebooks/censo.ipynb)
 
 ## ETL
 
