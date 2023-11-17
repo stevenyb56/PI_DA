@@ -98,9 +98,9 @@ El crecimiento de usuarios en el servicio de internet se evalúa a través de la
 
 Las mediciones mencionadas anteriormente permiten analizar la evolución de los servicios de Internet, teniendo en cuenta tanto el número de nuevos suscriptores como el de personas que abandonan el servicio. Este enfoque proporciona una imagen completa de la dinámica de crecimiento neto, centrándose no sólo en la incorporación de nuevos clientes, sino también en retener a los usuarios existentes. Además, calcular la diferencia entre sus suscriptores en dos momentos diferentes puede brindarle una imagen más precisa de cómo cambia su base de clientes con el tiempo. Este enfoque puede resultar útil para identificar tendencias a largo plazo, evaluar la eficacia de las estrategias de retención de clientes y ajustar las estrategias de marketing según las necesidades del mercado, para ello se establece la siguiente fórmula:
 
-        $\text{KPI} = \frac{\text{Nuevo acceso - Acceso actual}}{\text{Acceso actual}}·100$
+$\text{KPI} = \frac{\text{Nuevo acceso - Acceso actual}}{\text{Acceso actual}}·100$
 
- 'Nuevo acceso' hace referencia a la cantidad de hogares que obtendrán acceso a Internet en el trimestre siguiente, mientras que 'Acceso actual' se refiere a la cantidad de hogares que actualmente tienen acceso a Internet durante el trimestre en curso. 
+'Nuevo acceso' hace referencia a la cantidad de hogares que obtendrán acceso a Internet en el trimestre siguiente, mientras que 'Acceso actual' se refiere a la cantidad de hogares que actualmente tienen acceso a Internet durante el trimestre en curso. 
 
 
 
@@ -108,7 +108,7 @@ Las mediciones mencionadas anteriormente permiten analizar la evolución de los 
 
 Como se evidenció en el análisis exploratorio, la ausencia de conexión a internet mediante Fibra Óptica en las provincias de CABA, Buenos Aires, Córdoba, Entre Ríos, Mendoza, Salta, Santa Fe y Tucumán señalan una brecha en la disponibilidad de este servicio. Proponer un aumento del 10 % en el acceso a Fibra Óptica y Cablemódem en estas provincias podría contribuir significativamente a cerrar esa brecha y mejorar la conectividad en estas regiones, ya sea captando a nuevos usuarios o actualizando los usuarios que poseen conexion por cablemodem. Esta medida no solo impulsaría el acceso a tecnologías de conexión más avanzadas, sino que también podría tener impactos positivos en áreas como la educación, el trabajo remoto y el entretenimiento, promoviendo así un desarrollo más equitativo y sostenible en estas localidades. La formula para se establece de la siguiente manera 
 
-        $\text{KPI} = \frac{\text{Nuevos usuarios - usuarios actuales}}{\text{usuarios actuales}}·100$
+$\text{KPI} = \frac{\text{Nuevos usuarios - usuarios actuales}}{\text{usuarios actuales}}·100$
 
 En la siguiente imagen se aprecian los rendimientos de los dos KPI propuestos.
 
